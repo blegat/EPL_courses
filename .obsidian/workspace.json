@@ -11,14 +11,10 @@
             "id": "e127d81f594e1d85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LEPL1109/content.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "content"
+              "title": "New tab"
             }
           }
         ]
@@ -203,6 +199,9 @@
   },
   "active": "e127d81f594e1d85",
   "lastOpenFiles": [
+    "LEPL1109/content.md",
+    "LEPL1109/README.md",
+    "LDACS1110/README.md",
     "LDACS1110/Robustness, sensitivity, and distribution shift.md",
     "LDACS1110/Integrated learning applications.md",
     "LDACS1110/Computational pseudorandomness and reductions.md",
@@ -226,9 +225,6 @@
     "LDACS1110/Monte Carlo estimation.md",
     "LDACS1110/Randomized algorithms and probabilistic analysis.md",
     "LEPL1109/Practical software exposure.md",
-    "LEPL1109/Formula-sheet evidence of expected mastery.md",
-    "LEPL1109/Errata affecting substantive formulas.md",
-    "LEPL1109/Important modeling assumptions students have seen.md",
     "ic.txt~",
     "ic.txt",
     "split_topics.pl",
