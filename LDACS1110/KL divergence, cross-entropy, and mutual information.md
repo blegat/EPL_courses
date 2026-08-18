@@ -15,49 +15,49 @@
 
 **KL divergence.**
 
-\[
+$$
 D_{\mathrm{KL}}(P\|Q)
 =\sum_x P(x)\log\frac{P(x)}{Q(x)}.
-\]
+$$
 
 **Gibbs inequality.** `D_KL(P||Q) >= 0`, with equality exactly when the
 distributions agree on the relevant support.
 
 **Cross-entropy decomposition.**
 
-\[
+$$
 H(P,Q)=H(P)+D_{\mathrm{KL}}(P\|Q).
-\]
+$$
 
 **Mutual information identities.**
 
-\[
+$$
 I(X;Y)
 =D_{\mathrm{KL}}(P_{XY}\|P_XP_Y)
 =H(X)-H(X\mid Y)
 =H(Y)-H(Y\mid X).
-\]
+$$
 
 Consequently, `I(X;Y) >= 0`, and `I(X;Y)=0` exactly when `X` and `Y` are
 independent.
 
 **Chain rule for mutual information.**
 
-\[
+$$
 I(X;Y,Z)=I(X;Y)+I(X;Z\mid Y).
-\]
+$$
 
 **Data-processing inequality.** If `X -> Y -> Z`, then
 
-\[
+$$
 I(X;Z)\leq I(X;Y).
-\]
+$$
 
 **Pinsker inequality, recommended bridge.** Under natural logarithms,
 
-\[
+$$
 \Delta(P,Q)\leq\sqrt{\frac12D_{\mathrm{KL}}(P\|Q)}.
-\]
+$$
 
 This connects information divergence to statistical distinguishing advantage.
 

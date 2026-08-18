@@ -8,15 +8,15 @@ information theory.
 **Fano inequality.** Let `X` take `M` values and let `hat(X)(Y)` estimate it with
 error probability `P_e`. Then
 
-\[
+$$
 H(X\mid Y)\leq h_2(P_e)+P_e\log(M-1).
-\]
+$$
 
 For uniform `X`, a common consequence is
 
-\[
+$$
 P_e\geq1-\frac{I(X;Y)+\log 2}{\log M},
-\]
+$$
 
 with constants adjusted to the logarithm convention.
 

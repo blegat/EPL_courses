@@ -18,20 +18,20 @@
 
 **Bayes formula for parameters.**
 
-\[
+$$
 p(\theta\mid x)
 =\frac{p(x\mid\theta)p(\theta)}{p(x)},
 \qquad
 p(x)=\int p(x\mid\theta)p(\theta)d\theta.
-\]
+$$
 
 **Posterior prediction.**
 
-\[
+$$
 p(y_{\mathrm{new}}\mid x)
 =\int p(y_{\mathrm{new}}\mid\theta,x)
 p(\theta\mid x)d\theta.
-\]
+$$
 
 This reduces to `integral p(y_new|theta) p(theta|x) dtheta` when the new
 observation is conditionally independent of the observed data given `theta`.
@@ -39,17 +39,17 @@ observation is conditionally independent of the observed data given `theta`.
 **Beta-Bernoulli conjugacy.** If
 `theta ~ Beta(alpha,beta)` and `s` successes occur in `n` Bernoulli trials,
 
-\[
+$$
 \theta\mid x_{1:n}
 \sim\operatorname{Beta}(\alpha+s,\beta+n-s).
-\]
+$$
 
 The posterior predictive success probability is
 
-\[
+$$
 P(X_{n+1}=1\mid x_{1:n})
 =\frac{\alpha+s}{\alpha+\beta+n}.
-\]
+$$
 
 **Bayes actions.** Posterior mean minimizes posterior expected squared loss;
 posterior median minimizes absolute loss; posterior mode is a MAP point estimate

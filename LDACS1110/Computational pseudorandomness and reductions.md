@@ -20,9 +20,9 @@ specified efficient distinguisher class, two distributions are
 `epsilon`-indistinguishable when every distinguisher has advantage at most
 `epsilon`:
 
-\[
+$$
 |P(D(X)=1)-P(D(Y)=1)|\leq\varepsilon.
-\]
+$$
 
 **Hybrid lemma.** If a sequence contains `m` adjacent game hops and the total
 endpoint advantage is `epsilon`, at least one adjacent hop has advantage at

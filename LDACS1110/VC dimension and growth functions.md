@@ -15,20 +15,20 @@ VC dimension 2; affine halfspaces in `R^d` have VC dimension `d+1`.
 
 **Sauer-Shelah lemma.** If `VCdim(H)=d<m`,
 
-\[
+$$
 \Pi_{\mathcal H}(m)
 \leq\sum_{i=0}^d\binom mi
 \leq\left(\frac{em}{d}\right)^d.
-\]
+$$
 
 **VC generalization rate.** A representative uniform bound has order
 
-\[
+$$
 \sup_{h\in\mathcal H}|R(h)-\widehat R(h)|
 =O\left(
 \sqrt{\frac{d\log(m/d)+\log(1/\delta)}{m}}
 \right).
-\]
+$$
 
 **Fundamental theorem, statement.** Under standard measurability conditions for
 binary classification, finite VC dimension characterizes distribution-free PAC

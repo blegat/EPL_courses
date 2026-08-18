@@ -16,10 +16,10 @@
 **Universal hashing.** A family `H` mapping `U` to `[m]` is universal if for
 distinct `x,x'`,
 
-\[
+$$
 P_{h\leftarrow\mathcal H}[h(x)=h(x')]
 \leq\frac1m.
-\]
+$$
 
 **Expected collisions.** For a fixed stored set and a fresh/randomly selected
 universal hash function, linearity of expectation controls the expected number

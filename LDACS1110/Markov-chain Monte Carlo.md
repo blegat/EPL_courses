@@ -16,20 +16,20 @@
 
 **Detailed balance implies stationarity.** If
 
-\[
+$$
 \pi(x)P(x,y)=\pi(y)P(y,x)
-\]
+$$
 
 for all states, then `pi` is stationary for `P`.
 
 **Metropolis-Hastings acceptance probability.** For proposal `q(y|x)`,
 
-\[
+$$
 \alpha(x,y)=
 \min\left\{1,
 \frac{\pi(y)q(x\mid y)}{\pi(x)q(y\mid x)}
 \right\}.
-\]
+$$
 
 The resulting transition satisfies detailed balance with the target under the
 usual support conditions.
@@ -40,9 +40,9 @@ the joint target distribution invariant.
 **Ergodic theorem, stated with assumptions.** Under appropriate irreducibility,
 aperiodicity, and positive-recurrence conditions,
 
-\[
+$$
 \frac1n\sum_{t=1}^n f(X_t)\to E_\pi[f(X)]
-\]
+$$
 
 almost surely for integrable `f`.
 

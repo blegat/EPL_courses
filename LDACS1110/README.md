@@ -376,7 +376,7 @@ the course segment on:
 
 The highest-value chain is:
 
-\[
+$$
 \text{Monte Carlo}
 \longrightarrow
 \text{concentration}
@@ -388,11 +388,11 @@ The highest-value chain is:
 \text{universal hashing and extraction}
 \longrightarrow
 \text{FoC computational security}.
-\]
+$$
 
 [Bayesian inference](Bayesian%20inference.md) and [regularization](MAP%20estimation%20and%20regularization.md) form the second conceptual chain:
 
-\[
+$$
 \text{likelihood from LEPL1109}
 \longrightarrow
 \text{posterior uncertainty}
@@ -400,7 +400,7 @@ The highest-value chain is:
 \text{MAP/regularization}
 \longrightarrow
 \text{generalization and robustness}.
-\]
+$$
 
 MCMC, causality, and GP reinterpretation are valid course-description topics,
 but should be practical-session modules or rotating optional material unless

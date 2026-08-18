@@ -5,11 +5,11 @@
 - Null/alternative hypotheses, statistical decision rule, Type I and Type II
   errors, significance level, test statistic, rejection region, and observed
   statistic [STAT, pp. 138-141].
-- General method: choose \(\alpha\), construct a null rejection region of
-  probability \(\alpha\), compute the statistic, and reject iff it lies in the
+- General method: choose $\alpha$, construct a null rejection region of
+  probability $\alpha$, compute the statistic, and reject iff it lies in the
   region [STAT, p. 141].
 - p-value as the smallest significance level producing rejection; lower-tail,
-  upper-tail, and symmetric two-sided formulas; reject iff \(p<\alpha\)
+  upper-tail, and symmetric two-sided formulas; reject iff $p<\alpha$
   [STAT, pp. 151-156]. A large p-value means insufficient evidence against the
   null, not that the null has high posterior probability.
 

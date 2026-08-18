@@ -14,29 +14,29 @@
 
 **Total-variation distance.**
 
-\[
+$$
 \Delta(P,Q)=\frac12\sum_x|P(x)-Q(x)|.
-\]
+$$
 
 **Event characterization.**
 
-\[
+$$
 \Delta(P,Q)=\max_A|P(A)-Q(A)|.
-\]
+$$
 
 **Distinguisher characterization.** For any test `T` with output in `{0,1}`,
 
-\[
+$$
 |P(T(X)=1)-P(T(Y)=1)|\leq\Delta(P,Q),
-\]
+$$
 
 and an optimal unbounded test attains equality.
 
 **Data processing.** For any randomized mapping `K`,
 
-\[
+$$
 \Delta(KP,KQ)\leq\Delta(P,Q).
-\]
+$$
 
 **Triangle inequality.** This supports hybrid/game-hopping arguments.
 

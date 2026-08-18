@@ -16,29 +16,29 @@
 
 **Shannon entropy.** For a discrete random variable,
 
-\[
+$$
 H(X)=-\sum_x p(x)\log p(x).
-\]
+$$
 
 **Bounds and equality cases.** If `X` takes values in a finite alphabet,
 
-\[
+$$
 0\leq H(X)\leq\log|\mathcal X|,
-\]
+$$
 
 with maximum entropy at the uniform distribution.
 
 **Chain rule.**
 
-\[
+$$
 H(X,Y)=H(X)+H(Y\mid X).
-\]
+$$
 
 **Conditioning reduces entropy.**
 
-\[
+$$
 H(X\mid Y)\leq H(X).
-\]
+$$
 
 **Independent additivity.** If `X` and `Y` are independent,
 `H(X,Y)=H(X)+H(Y)`.

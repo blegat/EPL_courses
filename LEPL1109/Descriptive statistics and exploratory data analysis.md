@@ -5,7 +5,7 @@
 - Sample mean, median, empirical quantiles, and order statistics [STAT,
   pp. 28-30].
 - Range, interquartile range, suspected-outlier rule
-  \(x<q_{.25}-1.5IQR\) or \(x>q_{.75}+1.5IQR\), and the need to investigate
+  $x<q_{.25}-1.5IQR$ or $x>q_{.75}+1.5IQR$, and the need to investigate
   measurement/encoding errors [STAT, pp. 31-33].
 - Boxplots, histograms as empirical distribution views, sample variance, and
   sample standard deviation [STAT, pp. 34-36].

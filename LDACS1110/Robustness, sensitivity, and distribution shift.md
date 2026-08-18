@@ -13,9 +13,9 @@
 - If training and test distributions differ, for any loss bounded in `[0,1]`,
   total variation gives
 
-\[
+$$
 |E_P[\ell]-E_Q[\ell]|\leq\Delta(P,Q).
-\]
+$$
 
 - Regularization can reduce parameter sensitivity and variance, but does not by
   itself guarantee robustness to arbitrary distribution shift or adversarial

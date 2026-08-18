@@ -6,11 +6,11 @@
 
 **MAP objective.**
 
-\[
+$$
 \widehat\theta_{MAP}
 =\arg\min_\theta
 \{-\log p(x\mid\theta)-\log p(\theta)\}.
-\]
+$$
 
 **Gaussian prior to ridge penalty.** If
 `theta ~ N(0,tau^2 I)`, then the negative log-prior contributes

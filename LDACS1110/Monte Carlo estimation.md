@@ -17,32 +17,32 @@
 
 **Unbiasedness and variance.** For i.i.d. samples with finite variance,
 
-\[
+$$
 E[\widehat\mu_n]=\mu,
 \qquad
 \operatorname{Var}(\widehat\mu_n)
 =\frac{\operatorname{Var}(f(X))}{n}.
-\]
+$$
 
 **Weak consistency.** The law of large numbers yields
 `hat(mu)_n -> mu` in probability.
 
 **CLT uncertainty.** Under a finite-variance assumption,
 
-\[
+$$
 \sqrt n\,\frac{\widehat\mu_n-\mu}{\sigma}
 \Rightarrow N(0,1).
-\]
+$$
 
 **Root-n rate.** Halving the standard Monte Carlo error requires approximately
 four times as many independent samples.
 
 **Control variate, optional.** If `E[g(X)]` is known, then
 
-\[
+$$
 \widehat\mu_c
 =\frac1n\sum_i\bigl(f(X_i)-c(g(X_i)-E[g(X)])\bigr)
-\]
+$$
 
 is unbiased, with an optimal coefficient determined by covariance.
 

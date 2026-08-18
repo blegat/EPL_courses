@@ -14,10 +14,10 @@ acceptance probability is `1/M` when densities are normalized.
 **Importance-sampling identity.** If `p` is absolutely continuous with respect
 to `q`,
 
-\[
+$$
 E_p[f(X)]
 =E_q\left[f(X)\frac{p(X)}{q(X)}\right].
-\]
+$$
 
 This gives an unbiased estimator when the normalizing constants and support
 conditions permit it.

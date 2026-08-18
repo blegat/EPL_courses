@@ -20,9 +20,9 @@
 
 **Union bound.** For events `A_1, ..., A_m`,
 
-\[
+$$
 P\left(\bigcup_{i=1}^m A_i\right)\leq \sum_{i=1}^m P(A_i).
-\]
+$$
 
 **Amplification.** If independent runs fail with probability `p < 1/2`, a
 majority of `r` runs has exponentially decreasing failure probability; a
@@ -35,11 +35,11 @@ time analyses.
 **Birthday bound.** For `q` independent uniform samples from a set of size `N`,
 the collision probability satisfies
 
-\[
+$$
 P(\text{collision})
 =1-\prod_{i=0}^{q-1}\left(1-\frac{i}{N}\right)
 \leq \frac{q(q-1)}{2N}.
-\]
+$$
 
 The transition from unlikely to likely collision occurs around `q = Theta(sqrt(N))`.
 

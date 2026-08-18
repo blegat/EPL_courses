@@ -18,10 +18,10 @@
 **Back-door adjustment.** Under the back-door criterion for an adjustment set
 `Z`,
 
-\[
+$$
 P(Y\mid do(X=x))
 =\sum_z P(Y\mid X=x,Z=z)P(Z=z).
-\]
+$$
 
 **Randomization.** In an ideal randomized experiment, treatment assignment is
 independent of potential outcomes, identifying average treatment effects from

@@ -22,9 +22,9 @@ hypothesis satisfying `R(h) <= epsilon` from at least that many i.i.d. samples.
 
 **Agnostic PAC definition.** Without realizability, the guarantee becomes
 
-\[
+$$
 R(h)\leq\inf_{g\in\mathcal H}R(g)+\varepsilon
-\]
+$$
 
 with probability at least `1-delta`.
 
@@ -36,40 +36,40 @@ It is not part of purely statistical learnability.
 **Finite-class uniform convergence.** For binary or bounded loss, Hoeffding plus
 a union bound gives
 
-\[
+$$
 P\left(
 \sup_{h\in\mathcal H}
 |\widehat R_S(h)-R(h)|>\varepsilon
 \right)
 \leq 2|\mathcal H|e^{-2m\varepsilon^2}.
-\]
+$$
 
 **Agnostic ERM guarantee.** With probability at least `1-delta`,
 
-\[
+$$
 R(\widehat h)
 \leq \inf_{h\in\mathcal H}R(h)
 +2\sqrt{\frac{\log(2|\mathcal H|/\delta)}{2m}},
-\]
+$$
 
 up to the exact convention used in the intermediate uniform bound.
 
 **Agnostic sample complexity.** A representative scaling is
 
-\[
+$$
 m=O\left(
 \frac{\log|\mathcal H|+\log(1/\delta)}{\varepsilon^2}
 \right).
-\]
+$$
 
 **Realizable finite-class bound.** A consistent learner obtains the sharper
 scaling
 
-\[
+$$
 m=O\left(
 \frac{\log|\mathcal H|+\log(1/\delta)}{\varepsilon}
 \right).
-\]
+$$
 
 **Occam interpretation.** Smaller describable hypothesis classes require fewer
 samples, but only relative to the actual representation/modeling assumptions.

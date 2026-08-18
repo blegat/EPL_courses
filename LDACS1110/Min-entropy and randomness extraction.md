@@ -15,9 +15,9 @@
 
 **Min-entropy.**
 
-\[
+$$
 H_\infty(X)=-\log\max_xP(X=x).
-\]
+$$
 
 Thus the optimal one-shot guessing probability is `2^{-H_infinity(X)}`.
 
@@ -27,16 +27,16 @@ Thus the optimal one-shot guessing probability is `2^{-H_infinity(X)}`.
 **Leftover Hash Lemma.** Let `H` be chosen uniformly from a suitable
 2-universal family independently of `X`. One standard convention gives
 
-\[
+$$
 \Delta\bigl((H,H(X)),(H,U_\ell)\bigr)
 \leq \frac12\,2^{(\ell-H_\infty(X))/2}.
-\]
+$$
 
 Consequently, approximately
 
-\[
+$$
 \ell\leq H_\infty(X)-2\log(1/\varepsilon)
-\]
+$$
 
 bits can be extracted within statistical distance `epsilon`, up to additive
 constants determined by the theorem convention.
@@ -46,9 +46,9 @@ side information `E` and the public hash seed is independent of the joint pair
 `(X,E)`, the relevant source quality is average conditional min-entropy. A
 corresponding form controls
 
-\[
+$$
 \Delta\bigl((E,H,H(X)),(E,H,U_\ell)\bigr)
-\]
+$$
 
 by the same type of expression with conditional min-entropy
 `\widetilde H_\infty(X|E)`. This is the form needed for privacy amplification;

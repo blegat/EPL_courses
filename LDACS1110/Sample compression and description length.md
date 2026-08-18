@@ -15,9 +15,9 @@
 sample points and bounded side information admits a realizable bound of the
 representative form
 
-\[
+$$
 R(h)=O\left(\frac{k\log m+\log(1/\delta)}{m}\right),
-\]
+$$
 
 with exact constants and logarithmic terms depending on the compression-scheme
 definition.
