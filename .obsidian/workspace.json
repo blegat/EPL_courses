@@ -11,10 +11,14 @@
             "id": "e127d81f594e1d85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LEPL1109/content.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "content"
             }
           }
         ]
@@ -199,10 +203,36 @@
   },
   "active": "e127d81f594e1d85",
   "lastOpenFiles": [
-    "Welcome.md",
-    "LEPL1109/content.md",
+    "LDACS1110/Robustness, sensitivity, and distribution shift.md",
+    "LDACS1110/Integrated learning applications.md",
+    "LDACS1110/Computational pseudorandomness and reductions.md",
+    "LDACS1110/Min-entropy and randomness extraction.md",
+    "LDACS1110/Universal hashing and randomized hash maps.md",
+    "LDACS1110/Gaussian-process regression as Bayesian learning.md",
+    "LDACS1110/Further generalization frameworks.md",
+    "LDACS1110/Sample compression and description length.md",
+    "LDACS1110/VC dimension and growth functions.md",
+    "LDACS1110/PAC learning and finite-class sample complexity.md",
+    "LDACS1110/Causal inference.md",
+    "LDACS1110/MAP estimation and regularization.md",
+    "LDACS1110/Bayesian inference.md",
+    "LDACS1110/Fano's inequality and information-theoretic lower bounds.md",
+    "LDACS1110/Statistical distance and couplings.md",
+    "LDACS1110/KL divergence, cross-entropy, and mutual information.md",
+    "LDACS1110/Shannon entropy and conditional entropy.md",
+    "LDACS1110/Markov-chain Monte Carlo.md",
+    "LDACS1110/Direct and weighted sampling methods.md",
+    "LDACS1110/Concentration inequalities.md",
+    "LDACS1110/Monte Carlo estimation.md",
+    "LDACS1110/Randomized algorithms and probabilistic analysis.md",
+    "LEPL1109/Practical software exposure.md",
+    "LEPL1109/Formula-sheet evidence of expected mastery.md",
+    "LEPL1109/Errata affecting substantive formulas.md",
+    "LEPL1109/Important modeling assumptions students have seen.md",
+    "ic.txt~",
+    "ic.txt",
+    "split_topics.pl",
     "LEPL1109",
-    "LDACS1110/content.md",
     "LDACS1110"
   ]
 }
