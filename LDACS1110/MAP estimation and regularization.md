@@ -52,3 +52,8 @@ outcome linking uncertainty, regularization, and generalization.
 ### Bibliography
 
 [B6](content.md#b6), [B8](content.md#b8), [B9](content.md#b9).
+
+### Related courses
+
+- Applied continuation: [LELEC2870 — model selection, validation, and regularization](../LELEC2870/Model%20selection,%20validation,%20and%20regularization.md)
+- Applied continuation: [LELEC2870 — feature selection](../LELEC2870/Feature%20selection.md)

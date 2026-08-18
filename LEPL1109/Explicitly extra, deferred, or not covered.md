@@ -22,3 +22,9 @@
 - The statistics table of contents mentions jump-diffusion estimation, but no
   corresponding section appears in `STAT` [STAT, p. 2]. It should not be assumed
   covered from the available material.
+
+## Related courses
+
+- Material developed later: [LELEC2870 — multilayer perceptrons and backpropagation](../LELEC2870/Multilayer%20perceptrons%20and%20backpropagation.md)
+- Material developed later: [LELEC2870 — support-vector machines and kernels](../LELEC2870/Support-vector%20machines%20and%20kernels.md)
+- Material surveyed later: [LELEC2870 — deep learning architectures and training](../LELEC2870/Deep%20learning%20architectures%20and%20training.md)

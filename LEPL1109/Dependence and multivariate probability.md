@@ -33,3 +33,8 @@
   $X_B\mid X_A=x_A$ has mean
   $\mu_B+\Sigma_{BA}\Sigma_{AA}^{-1}(x_A-\mu_A)$ and covariance
   $\Sigma_{BB}-\Sigma_{BA}\Sigma_{AA}^{-1}\Sigma_{AB}$ [STAT, pp. 79-81].
+
+## Related courses
+
+- Follow-on decorrelation: [LELEC2870 — principal component analysis](../LELEC2870/Principal%20component%20analysis.md)
+- Follow-on independence modeling: [LELEC2870 — independent component analysis](../LELEC2870/Independent%20component%20analysis.md)

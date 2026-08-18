@@ -86,3 +86,8 @@ This connects information divergence to statistical distinguishing advantage.
 ### Bibliography
 
 [B5, Chs. 2 and 11](content.md#b5), [B6](content.md#b6), [B7](content.md#b7).
+
+### Related courses
+
+- Applied use in variable selection: [LELEC2870 — feature selection](../LELEC2870/Feature%20selection.md)
+- Applied use as an independence objective: [LELEC2870 — independent component analysis](../LELEC2870/Independent%20component%20analysis.md)

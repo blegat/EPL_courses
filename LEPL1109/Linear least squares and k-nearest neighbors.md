@@ -36,3 +36,7 @@
   unstable at high flexibility [SL-1, pp. 34-36].
 - Scikit-learn estimator workflow: instantiate a model, call `fit(X,y)`, then
   `predict(X_new)` [SL-1, p. 43].
+
+## Related courses
+
+- Follow-on: [LELEC2870 — linear regression, optimization, and the perceptron](../LELEC2870/Linear%20regression,%20optimization,%20and%20the%20perceptron.md)

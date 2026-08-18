@@ -89,3 +89,10 @@
 - K-means is sensitive to outliers and Euclidean cluster geometry. Preprocessing,
   K-medians, feature mappings, or spectral clustering are named alternatives
   [UL, pp. 62-63].
+
+## Related courses
+
+- Follow-on PCA treatment: [LELEC2870 — principal component analysis](../LELEC2870/Principal%20component%20analysis.md)
+- Follow-on embeddings: [LELEC2870 — nonlinear dimensionality reduction and quality assessment](../LELEC2870/Nonlinear%20dimensionality%20reduction%20and%20quality%20assessment.md)
+- Follow-on clustering: [LELEC2870 — vector quantization and prototype clustering](../LELEC2870/Vector%20quantization%20and%20prototype%20clustering.md)
+- Follow-on topology-preserving learning: [LELEC2870 — self-organizing maps](../LELEC2870/Self-organizing%20maps%20and%20topology-preserving%20learning.md)

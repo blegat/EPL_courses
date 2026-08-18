@@ -46,3 +46,7 @@
 - Assumptions: normality, equal within-group variances, and independence.
   Equality of group means is tested by the regression global F-test; Bartlett's
   test can assess equal variances [STAT, pp. 204-205].
+
+## Related courses
+
+- Algorithmic continuation: [LELEC2870 — linear regression, optimization, and the perceptron](../LELEC2870/Linear%20regression,%20optimization,%20and%20the%20perceptron.md)

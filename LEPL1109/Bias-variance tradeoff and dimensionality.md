@@ -34,3 +34,9 @@ $$
   [SL-3, pp. 32-34].
 - This section is tagged **Extra Material** [SL-3, pp. 2, 30-34], so it should
   not be treated as firm examinable prerequisite knowledge.
+
+## Related courses
+
+- Follow-on: [LELEC2870 — machine-learning framing and dimensionality](../LELEC2870/Machine-learning%20framing%20and%20dimensionality.md)
+- Follow-on: [LELEC2870 — feature selection](../LELEC2870/Feature%20selection.md)
+- Follow-on: [LELEC2870 — model selection, validation, and regularization](../LELEC2870/Model%20selection,%20validation,%20and%20regularization.md)

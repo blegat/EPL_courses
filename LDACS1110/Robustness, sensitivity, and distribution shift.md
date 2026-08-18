@@ -45,3 +45,8 @@ property quantified over efficient adversaries.
 ### Bibliography
 
 [B10](content.md#b10), [B7](content.md#b7), [B12](content.md#b12).
+
+### Related courses
+
+- Applied framing: [LELEC2870 — machine-learning framing and dimensionality](../LELEC2870/Machine-learning%20framing%20and%20dimensionality.md)
+- Modern-model context: [LELEC2870 — deep learning architectures and training](../LELEC2870/Deep%20learning%20architectures%20and%20training.md)

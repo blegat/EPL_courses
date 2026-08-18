@@ -24,3 +24,7 @@
 - Bootstrap is named as another resampling method but is not covered in the
   data-science lectures because it appears in the statistics part [SL-2, p. 7;
   STAT, pp. 111-117].
+
+## Related courses
+
+- Follow-on: [LELEC2870 — model selection, validation, and regularization](../LELEC2870/Model%20selection,%20validation,%20and%20regularization.md)

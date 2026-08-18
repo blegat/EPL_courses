@@ -21,3 +21,7 @@
   pp. 230-231].
 - Kernel hyperparameters are fitted by maximizing Gaussian marginal likelihood;
   scikit-learn's `GaussianProcessRegressor` is demonstrated [STAT, p. 232].
+
+## Related courses
+
+- Kernel-method connection: [LELEC2870 — support-vector machines and kernels](../LELEC2870/Support-vector%20machines%20and%20kernels.md)

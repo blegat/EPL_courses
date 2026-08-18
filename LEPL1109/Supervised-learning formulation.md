@@ -40,3 +40,7 @@
 - Training error may be zero while unseen-data risk is not; this is overfitting.
   Test error typically has a U-shape versus flexibility, motivating validation
   [SL-1, pp. 46-47].
+
+## Related courses
+
+- Follow-on: [LELEC2870 — machine-learning framing and dimensionality](../LELEC2870/Machine-learning%20framing%20and%20dimensionality.md)

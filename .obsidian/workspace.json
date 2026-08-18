@@ -11,26 +11,14 @@
             "id": "e127d81f594e1d85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LEPL1109/Explicitly extra, deferred, or not covered.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d7eedb2aa782b8c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e8f6b7794804128",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Explicitly extra, deferred, or not covered"
             }
           }
         ]
@@ -199,36 +187,41 @@
   },
   "active": "e127d81f594e1d85",
   "lastOpenFiles": [
+    "LELEC2870/Support-vector machines and kernels.md",
+    "LELEC2870/Vector quantization and prototype clustering.md",
+    "LELEC2870/Self-organizing maps and topology-preserving learning.md",
+    "LDACS1110/Robustness, sensitivity, and distribution shift.md",
+    "LELEC2870/Deep learning architectures and training.md",
+    "LEPL1109/Probability foundations and random variables.md",
+    "LDACS1110/Sample compression and description length.md",
+    "LELEC2870/Nonlinear dimensionality reduction and quality assessment.md",
+    "LELEC2870/Independent component analysis.md",
+    "LELEC2870/Principal component analysis.md",
+    "LELEC2870/Feature selection.md",
+    "LELEC2870/Model selection, validation, and regularization.md",
+    "LELEC2870/Multilayer perceptrons and backpropagation.md",
+    "LELEC2870/Linear regression, optimization, and the perceptron.md",
+    "LELEC2870/Machine-learning framing and dimensionality.md",
+    "LELEC2870/README.md",
+    "LEPL1109/slides/UL_handout.pdf",
+    "LEPL1109/slides/Slides partie 1 statistics-20260814/typo_25-26_stat.pdf",
+    "LEPL1109/slides/Slides partie 1 statistics-20260814/slides_supplémentaires.pdf",
+    "LEPL1109/slides/Slides partie 1 statistics-20260814/formulaire.pdf",
+    "LEPL1109/slides/Slides partie 1 statistics-20260814/Slides_25_26.pdf",
+    "LEPL1109/slides/Slides partie 1 statistics-20260814/Appendix1.pdf",
+    "LEPL1109/slides/Slides partie 1 statistics-20260814",
+    "LEPL1109/slides/SL_3_handout.pdf",
+    "LEPL1109/slides/SL_2_handout.pdf",
+    "LEPL1109/slides/SL_1_handout.pdf",
+    "LEPL1109/Explicitly extra, deferred, or not covered.md",
     "LEPL1109/content.md",
     "LEPL1109/README.md",
     "LDACS1110/README.md",
-    "LDACS1110/Robustness, sensitivity, and distribution shift.md",
     "LDACS1110/Integrated learning applications.md",
     "LDACS1110/Computational pseudorandomness and reductions.md",
     "LDACS1110/Min-entropy and randomness extraction.md",
     "LDACS1110/Universal hashing and randomized hash maps.md",
     "LDACS1110/Gaussian-process regression as Bayesian learning.md",
-    "LDACS1110/Further generalization frameworks.md",
-    "LDACS1110/Sample compression and description length.md",
-    "LDACS1110/VC dimension and growth functions.md",
-    "LDACS1110/PAC learning and finite-class sample complexity.md",
-    "LDACS1110/Causal inference.md",
-    "LDACS1110/MAP estimation and regularization.md",
-    "LDACS1110/Bayesian inference.md",
-    "LDACS1110/Fano's inequality and information-theoretic lower bounds.md",
-    "LDACS1110/Statistical distance and couplings.md",
-    "LDACS1110/KL divergence, cross-entropy, and mutual information.md",
-    "LDACS1110/Shannon entropy and conditional entropy.md",
-    "LDACS1110/Markov-chain Monte Carlo.md",
-    "LDACS1110/Direct and weighted sampling methods.md",
-    "LDACS1110/Concentration inequalities.md",
-    "LDACS1110/Monte Carlo estimation.md",
-    "LDACS1110/Randomized algorithms and probabilistic analysis.md",
-    "LEPL1109/Practical software exposure.md",
-    "ic.txt~",
-    "ic.txt",
-    "split_topics.pl",
-    "LEPL1109",
-    "LDACS1110"
+    "LDACS1110/Further generalization frameworks.md"
   ]
 }
