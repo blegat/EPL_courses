@@ -1,8 +1,8 @@
 # LELEC2870: machine learning, regression, and dimensionality reduction
 
-This index summarizes the topics and principal results in the slide decks under
-[`slides/`](slides/). References use **physical PDF pages**, counted from the
-first page of each file.
+This index summarizes the topics and principal results in the locally available
+slide decks. References use **physical PDF pages**, counted from the first page
+of each file.
 
 ## Source abbreviations
 
@@ -47,4 +47,3 @@ perceptrons/MLPs, SVMs, feature selection, ICA, nonlinear embeddings, prototype
 methods, SOMs, and deep architectures. LDACS1110 overlaps mainly through
 regularization, information measures, generalization, robustness, and Gaussian
 kernels. Reciprocal links appear in the relevant notes.
-

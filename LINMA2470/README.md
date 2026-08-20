@@ -1,8 +1,8 @@
 # LINMA2470: stochastic modelling
 
-This index summarizes the topics and principal results in the slide decks under
-[`slides/`](slides/). References use **physical PDF pages**, counted from the
-first page of each file.
+This index summarizes the topics and principal results in the locally available
+slide decks. References use **physical PDF pages**, counted from the first page
+of each file.
 
 ## Source abbreviations
 
@@ -49,4 +49,3 @@ into stochastic-process and queueing models, then introduces sequential
 decisions and model-free learning. LINMA2725 revisits Markov systems, Bellman
 equations, TD/Q-learning, and fluid models with a stronger optimal-control and
 convergence emphasis. Reciprocal links are recorded in the topic notes.
-

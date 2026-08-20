@@ -1,8 +1,8 @@
 # LINMA2725: stochastic optimal control and reinforcement learning
 
-This index summarizes the topics and principal results in the slide decks under
-[`slides/`](slides/). References use **physical PDF pages**, counted from the
-first page of each file, independently of printed chapter pagination.
+This index summarizes the topics and principal results in the locally available
+slide decks. References use **physical PDF pages**, counted from the first page
+of each file, independently of printed chapter pagination.
 
 ## Source abbreviations
 
@@ -57,4 +57,3 @@ concentration and finite-sample learning language. LINMA2725 uses these tools in
 sequential decision problems, adding state-space dynamics, Bellman and Poisson
 equations, optimal control, reinforcement learning, regret, and partial
 observation. Reciprocal links are recorded in the relevant topic notes.
-
