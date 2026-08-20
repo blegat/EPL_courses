@@ -1,0 +1,71 @@
+name: Publish course graph
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Install Rust with WebAssembly support
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: wasm32-unknown-unknown
+
+      - name: Install Zola and Trunk
+        uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.22.1,trunk@0.21.14
+          fallback: none
+
+      - name: Generate Zola content and graph data
+        run: >-
+          cargo run --locked --release
+          --manifest-path website/Cargo.toml
+          -p epl-sitegen --
+          . website/content website/static/graph.json
+
+      - name: Build graph WebAssembly
+        working-directory: website/graph
+        run: trunk build --locked --release --public-url ./
+
+      - name: Add graph application to the static site
+        run: |
+          mkdir -p website/static/graph
+          cp -R website/graph/dist/. website/static/graph/
+
+      - name: Build Zola site
+        run: zola --root website build
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: website/public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

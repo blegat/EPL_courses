@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{% block description %}{{ config.description }}{% endblock description %}">
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <link rel="stylesheet" href="{{ get_url(path='site.css') }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="{{ config.base_url }}">EPL course notes</a>
+      <nav>
+        <a href="{{ get_url(path='graph/') }}">Graph</a>
+        <a href="{{ config.extra.repository_url }}">GitHub</a>
+      </nav>
+    </header>
+    <main>{% block content %}{% endblock content %}</main>
+    <footer>Generated from the Markdown notes with Zola.</footer>
+  </body>
+</html>
+

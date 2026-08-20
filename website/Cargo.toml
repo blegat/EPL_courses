@@ -1,0 +1,8 @@
+[workspace]
+members = ["graph", "sitegen"]
+resolver = "2"
+
+[workspace.package]
+edition = "2024"
+license = "MIT"
+

@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
+{% block content %}
+<div class="page-grid">
+  <aside class="course-nav">
+    {% set course_section = get_section(path=page.extra.course ~ '/_index.md') %}
+    <a href="{{ get_url(path=page.extra.course ~ '/') }}">← {{ course_section.title }}</a>
+    <ul>
+      {% for sibling in course_section.pages %}
+      <li{% if sibling.permalink == page.permalink %} class="current"{% endif %}>
+        <a href="{{ sibling.permalink }}">{{ sibling.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </aside>
+  <article class="prose">{{ page.content | safe }}</article>
+</div>
+{% endblock content %}

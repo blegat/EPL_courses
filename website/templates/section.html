@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}{{ section.title }} · {{ config.title }}{% endblock title %}
+{% block content %}
+<div class="page-grid">
+  <aside class="course-nav">
+    <a href="{{ config.base_url }}">← All courses</a>
+    <h2>{{ section.title }}</h2>
+    <ul>
+      {% for page in section.pages %}
+      <li><a href="{{ page.permalink }}">{{ page.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  <article class="prose">{{ section.content | safe }}</article>
+</div>
+{% endblock content %}
+
