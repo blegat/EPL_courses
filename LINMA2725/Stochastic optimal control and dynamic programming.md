@@ -21,4 +21,4 @@
 
 - Deterministic foundation: [Bellman equations, value iteration, and policy iteration](Bellman%20equations,%20value%20iteration,%20and%20policy%20iteration.md)
 - Decision-theoretic precursor: [LEPL1109 — statistical decision theory and Bayes optimality](../LEPL1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
-
+- Introductory algorithms: [LINMA2470 — policy iteration, value iteration, and linear programming](../LINMA2470/Policy%20iteration,%20value%20iteration,%20and%20linear%20programming.md)

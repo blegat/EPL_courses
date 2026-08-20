@@ -22,4 +22,4 @@
 
 - Deterministic derivation: [Temporal-difference learning and projected Bellman equations](Temporal-difference%20learning%20and%20projected%20Bellman%20equations.md)
 - Sampling assumptions: [Markov systems, invariant measures, and ergodicity](Markov%20systems,%20invariant%20measures,%20and%20ergodicity.md)
-
+- Introductory algorithms: [LINMA2470 — temporal-difference, SARSA, and Q-learning](../LINMA2470/Temporal-difference,%20SARSA,%20and%20Q-learning.md)

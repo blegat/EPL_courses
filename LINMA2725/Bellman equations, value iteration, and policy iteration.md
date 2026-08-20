@@ -18,3 +18,4 @@
 - Statistical decision precursor: [LEPL1109 — statistical decision theory and Bayes optimality](../LEPL1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
 - Approximate evaluation: [Temporal-difference learning and projected Bellman equations](Temporal-difference%20learning%20and%20projected%20Bellman%20equations.md)
 - Stochastic extension: [Stochastic optimal control and dynamic programming](Stochastic%20optimal%20control%20and%20dynamic%20programming.md)
+- Introductory MDP treatment: [LINMA2470 — Markov decision processes and Bellman equations](../LINMA2470/Markov%20decision%20processes%20and%20Bellman%20equations.md)

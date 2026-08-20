@@ -74,3 +74,7 @@ is unbiased, with an optimal coefficient determined by covariance.
 ### Bibliography
 
 [B3, Chs. 3-4](README.md#b3), [B4, Chs. 10-11](README.md#b4), [B2](README.md#b2).
+
+### Related courses
+
+- Sequential application: [LINMA2470 — bandits and Monte Carlo reinforcement learning](../LINMA2470/Bandits%20and%20Monte%20Carlo%20reinforcement%20learning.md)

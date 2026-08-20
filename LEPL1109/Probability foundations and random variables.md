@@ -76,3 +76,4 @@ p. 2]:
 - Related LDACS1110 topic: [Shannon entropy and conditional entropy](../LDACS1110/Shannon%20entropy%20and%20conditional%20entropy.md)
 - Related LDACS1110 topic: [Statistical distance and couplings](../LDACS1110/Statistical%20distance%20and%20couplings.md)
 - Related LDACS1110 topic: [Universal hashing and randomized hash maps](../LDACS1110/Universal%20hashing%20and%20randomized%20hash%20maps.md)
+- Stochastic-process continuation: [LINMA2470 — probability foundations and limit theorems](../LINMA2470/Probability%20foundations%20and%20limit%20theorems.md)

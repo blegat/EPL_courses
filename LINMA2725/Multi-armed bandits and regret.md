@@ -22,3 +22,4 @@
 - Finite-sample tool: [LDACS1110 — concentration inequalities](../LDACS1110/Concentration%20inequalities.md)
 - Statistical estimation precursor: [LEPL1109 — parametric estimation](../LEPL1109/Parametric%20estimation.md)
 - Exploration foundation: [Exploration and stochastic-approximation ODEs](Exploration%20and%20stochastic-approximation%20ODEs.md)
+- Introductory treatment: [LINMA2470 — bandits and Monte Carlo reinforcement learning](../LINMA2470/Bandits%20and%20Monte%20Carlo%20reinforcement%20learning.md)
