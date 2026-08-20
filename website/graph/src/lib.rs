@@ -178,7 +178,9 @@ impl CourseGraphApp {
                 topic.title.clone(),
                 Pos2::new(angle.cos() * 280.0, angle.sin() * 280.0),
             );
-            graph.node_mut(index).unwrap().set_color(base_color);
+            let node = graph.node_mut(index).unwrap();
+            node.set_color(base_color);
+            node.display_mut().radius = 12.0;
             indices.insert(topic.id.as_str(), index);
             node_topics.insert(index.index(), payload);
         }
