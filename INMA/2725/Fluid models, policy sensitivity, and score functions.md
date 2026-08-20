@@ -18,6 +18,6 @@
 
 ## Related courses
 
-- Estimation precursor: [LEPL1109 — parametric estimation](../LEPL1109/Parametric%20estimation.md)
+- Estimation precursor: [LEPL1109 — parametric estimation](../../EPL/1109/Parametric%20estimation.md)
 - Follow-on: [Advantage functions and actor-critic methods](Advantage%20functions%20and%20actor-critic%20methods.md)
-- Queueing application: [LINMA2470 — nonstationary queues and fluid approximations](../LINMA2470/Nonstationary%20queues%20and%20fluid%20approximations.md)
+- Queueing application: [LINMA2470 — nonstationary queues and fluid approximations](../../INMA/2470/Nonstationary%20queues%20and%20fluid%20approximations.md)

@@ -10,4 +10,4 @@ Source: `LM`, pp. 259–302.
 
 - [Statistical properties of OLS](Statistical%20properties%20of%20OLS.md) identifies which classical assumptions fail.
 - [Panel-data fixed and random effects](Panel-data%20fixed%20and%20random%20effects.md) handles repeated observations with structured dependence.
-- [Time series and autoregressive models](../LEPL1109/Time%20series%20and%20autoregressive%20models.md) develops temporal dependence and forecasting.
+- [Time series and autoregressive models](../../EPL/1109/Time%20series%20and%20autoregressive%20models.md) develops temporal dependence and forecasting.

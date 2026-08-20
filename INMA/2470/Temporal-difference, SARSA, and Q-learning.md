@@ -17,5 +17,4 @@
 ## Related courses
 
 - Monte Carlo precursor: [Bandits and Monte Carlo reinforcement learning](Bandits%20and%20Monte%20Carlo%20reinforcement%20learning.md)
-- Advanced convergence treatment: [LINMA2725 — stochastic TD and off-policy Q-learning](../LINMA2725/Stochastic%20TD%20and%20off-policy%20Q-learning.md)
-
+- Advanced convergence treatment: [LINMA2725 — stochastic TD and off-policy Q-learning](../../INMA/2725/Stochastic%20TD%20and%20off-policy%20Q-learning.md)

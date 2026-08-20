@@ -13,6 +13,5 @@
 
 ## Related courses
 
-- Finite-sample context: [LDACS1110 — concentration inequalities](../LDACS1110/Concentration%20inequalities.md)
+- Finite-sample context: [LDACS1110 — concentration inequalities](../../DACS/1110/Concentration%20inequalities.md)
 - Online exploration: [Multi-armed bandits and regret](Multi-armed%20bandits%20and%20regret.md)
-

@@ -18,7 +18,6 @@
 
 ## Related courses
 
-- Linear fitting: [LELEC2870 — linear regression, optimization, and the perceptron](../LELEC2870/Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
-- Neural approximation: [LELEC2870 — multilayer perceptrons and backpropagation](../LELEC2870/Multilayer%20perceptrons%20and%20backpropagation.md)
-- Kernel methods: [LELEC2870 — support-vector machines and kernels](../LELEC2870/Support-vector%20machines%20and%20kernels.md)
-
+- Linear fitting: [LELEC2870 — linear regression, optimization, and the perceptron](../../ELEC/2870/Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
+- Neural approximation: [LELEC2870 — multilayer perceptrons and backpropagation](../../ELEC/2870/Multilayer%20perceptrons%20and%20backpropagation.md)
+- Kernel methods: [LELEC2870 — support-vector machines and kernels](../../ELEC/2870/Support-vector%20machines%20and%20kernels.md)

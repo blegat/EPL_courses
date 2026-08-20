@@ -20,5 +20,4 @@
 ## Related courses
 
 - Foundation: [Markov decision processes and Bellman equations](Markov%20decision%20processes%20and%20Bellman%20equations.md)
-- Advanced treatment: [LINMA2725 — stochastic optimal control and dynamic programming](../LINMA2725/Stochastic%20optimal%20control%20and%20dynamic%20programming.md)
-
+- Advanced treatment: [LINMA2725 — stochastic optimal control and dynamic programming](../../INMA/2725/Stochastic%20optimal%20control%20and%20dynamic%20programming.md)

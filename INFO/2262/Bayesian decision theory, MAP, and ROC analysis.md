@@ -13,6 +13,5 @@
 
 ## Related courses
 
-- Prerequisite: [LEPL1109 — statistical decision theory and Bayes optimality](../LEPL1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
-- Bayesian extension: [LDACS1110 — Bayesian inference](../LDACS1110/Bayesian%20inference.md)
-
+- Prerequisite: [LEPL1109 — statistical decision theory and Bayes optimality](../../EPL/1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
+- Bayesian extension: [LDACS1110 — Bayesian inference](../../DACS/1110/Bayesian%20inference.md)

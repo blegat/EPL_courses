@@ -58,16 +58,16 @@ under regularity/uniqueness qualifications.
 ### LEPL1109 dependency
 
 - Conditional distributions and Bayes' rule:
-  [random vectors and conditioning](../LEPL1109/Dependence%20and%20multivariate%20probability.md#random-vectors-and-conditioning)
+  [random vectors and conditioning](../../EPL/1109/Dependence%20and%20multivariate%20probability.md#random-vectors-and-conditioning)
   [STAT, pp. 60-71].
 - Parametric models, likelihood, and MLE:
-  [parametric estimation](../LEPL1109/Parametric%20estimation.md)
+  [parametric estimation](../../EPL/1109/Parametric%20estimation.md)
   [STAT, pp. 83-105].
 - Bayes predictor and conditional risk:
-  [statistical decision theory](../LEPL1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
+  [statistical decision theory](../../EPL/1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
   [SL-3, pp. 7-19].
 - Confidence intervals:
-  [sampling distributions](../LEPL1109/Sampling%20distributions%20and%20confidence%20intervals.md)
+  [sampling distributions](../../EPL/1109/Sampling%20distributions%20and%20confidence%20intervals.md)
   [STAT, pp. 119-136].
 
 ### What is new beyond LEPL1109
@@ -88,4 +88,4 @@ sets, and posterior prediction.
 
 ### Related courses
 
-- Classification application: [LINFO2262 — Bayesian decision theory, MAP, and ROC analysis](../LINFO2262/Bayesian%20decision%20theory,%20MAP,%20and%20ROC%20analysis.md)
+- Classification application: [LINFO2262 — Bayesian decision theory, MAP, and ROC analysis](../../INFO/2262/Bayesian%20decision%20theory,%20MAP,%20and%20ROC%20analysis.md)

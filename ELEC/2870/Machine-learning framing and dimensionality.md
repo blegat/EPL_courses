@@ -19,7 +19,6 @@
 
 ## Related courses
 
-- Prerequisite: [LEPL1109 — supervised-learning formulation](../LEPL1109/Supervised-learning%20formulation.md)
-- Prerequisite: [LEPL1109 — bias–variance and dimensionality](../LEPL1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
-- Follow-on connection: [LDACS1110 — robustness and distribution shift](../LDACS1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)
-
+- Prerequisite: [LEPL1109 — supervised-learning formulation](../../EPL/1109/Supervised-learning%20formulation.md)
+- Prerequisite: [LEPL1109 — bias–variance and dimensionality](../../EPL/1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
+- Follow-on connection: [LDACS1110 — robustness and distribution shift](../../DACS/1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)

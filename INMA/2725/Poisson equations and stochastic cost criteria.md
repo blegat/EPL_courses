@@ -15,5 +15,4 @@
 
 ## Related courses
 
-- Long-run stochastic modeling: [LEPL1109 — time series and autoregressive models](../LEPL1109/Time%20series%20and%20autoregressive%20models.md)
-
+- Long-run stochastic modeling: [LEPL1109 — time series and autoregressive models](../../EPL/1109/Time%20series%20and%20autoregressive%20models.md)

@@ -16,4 +16,4 @@
 
 ## Related courses
 
-- Related LDACS1110 topic: [Robustness, sensitivity, and distribution shift](../LDACS1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)
+- Related LDACS1110 topic: [Robustness, sensitivity, and distribution shift](../../DACS/1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)

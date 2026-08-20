@@ -29,10 +29,10 @@ $$
 ### LEPL1109 dependency
 
 - Bias-variance and model selection:
-  [bias-variance](../LEPL1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
-  and [resampling](../LEPL1109/Resampling,%20model%20assessment,%20and%20model%20selection.md).
+  [bias-variance](../../EPL/1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
+  and [resampling](../../EPL/1109/Resampling,%20model%20assessment,%20and%20model%20selection.md).
 - Outliers and preprocessing:
-  [descriptive statistics](../LEPL1109/Descriptive%20statistics%20and%20exploratory%20data%20analysis.md).
+  [descriptive statistics](../../EPL/1109/Descriptive%20statistics%20and%20exploratory%20data%20analysis.md).
 - LEPL1109 does not develop distribution shift, robust statistics, or
   adversarial robustness; those qualifications are new.
 
@@ -48,5 +48,5 @@ property quantified over efficient adversaries.
 
 ### Related courses
 
-- Applied framing: [LELEC2870 — machine-learning framing and dimensionality](../LELEC2870/Machine-learning%20framing%20and%20dimensionality.md)
-- Modern-model context: [LELEC2870 — deep learning architectures and training](../LELEC2870/Deep%20learning%20architectures%20and%20training.md)
+- Applied framing: [LELEC2870 — machine-learning framing and dimensionality](../../ELEC/2870/Machine-learning%20framing%20and%20dimensionality.md)
+- Modern-model context: [LELEC2870 — deep learning architectures and training](../../ELEC/2870/Deep%20learning%20architectures%20and%20training.md)

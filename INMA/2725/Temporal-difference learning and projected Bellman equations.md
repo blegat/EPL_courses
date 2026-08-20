@@ -18,5 +18,5 @@
 ## Related courses
 
 - Foundation: [Bellman equations, value iteration, and policy iteration](Bellman%20equations,%20value%20iteration,%20and%20policy%20iteration.md)
-- Statistical regression precursor: [LEPL1109 — linear least squares and k-nearest neighbors](../LEPL1109/Linear%20least%20squares%20and%20k-nearest%20neighbors.md)
+- Statistical regression precursor: [LEPL1109 — linear least squares and k-nearest neighbors](../../EPL/1109/Linear%20least%20squares%20and%20k-nearest%20neighbors.md)
 - Stochastic and off-policy extension: [Stochastic TD and off-policy Q-learning](Stochastic%20TD%20and%20off-policy%20Q-learning.md)

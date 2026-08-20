@@ -8,6 +8,5 @@ Source: `S7`, pp. 2–85.
 
 ## Related courses
 
-- [Decision trees and random forests](../LINFO2262/Decision%20trees%20and%20random%20forests.md) develops the tree models from which rules can be extracted.
+- [Decision trees and random forests](../../INFO/2262/Decision%20trees%20and%20random%20forests.md) develops the tree models from which rules can be extracted.
 - [Probabilistic classification and model evaluation](Probabilistic%20classification%20and%20model%20evaluation.md) covers probabilistic models and reliable comparison.
-

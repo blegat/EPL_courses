@@ -17,5 +17,5 @@
 
 ## Related courses
 
-- Linear algebra/statistical precursor: [LEPL1109 — linear regression and ANOVA](../LEPL1109/Linear%20regression%20and%20ANOVA.md)
+- Linear algebra/statistical precursor: [LEPL1109 — linear regression and ANOVA](../../EPL/1109/Linear%20regression%20and%20ANOVA.md)
 - Constrained receding-horizon extension: [Model predictive control](Model%20predictive%20control.md)

@@ -32,10 +32,10 @@ diagnostic approximation.
 ### LEPL1109 dependency
 
 - Density transformations and common distributions:
-  [probability foundations](../LEPL1109/Probability%20foundations%20and%20random%20variables.md)
+  [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
   [STAT, pp. 7-23; APP, pp. 4-37].
 - Inverse-transform simulation:
-  [simulation and bootstrap](../LEPL1109/Simulation%20and%20bootstrap.md)
+  [simulation and bootstrap](../../EPL/1109/Simulation%20and%20bootstrap.md)
   [STAT, pp. 107-110].
 
 ### FoC reuse

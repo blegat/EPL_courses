@@ -19,6 +19,6 @@
 ## Related courses
 
 - MDP foundation: [Markov decision processes and Bellman equations](Markov%20decision%20processes%20and%20Bellman%20equations.md)
-- Regret-oriented extension: [LINMA2725 — multi-armed bandits and regret](../LINMA2725/Multi-armed%20bandits%20and%20regret.md)
-- Monte Carlo background: [LDACS1110 — Monte Carlo estimation](../LDACS1110/Monte%20Carlo%20estimation.md)
+- Regret-oriented extension: [LINMA2725 — multi-armed bandits and regret](../../INMA/2725/Multi-armed%20bandits%20and%20regret.md)
+- Monte Carlo background: [LDACS1110 — Monte Carlo estimation](../../DACS/1110/Monte%20Carlo%20estimation.md)
 - Bootstrapped continuation: [Temporal-difference, SARSA, and Q-learning](Temporal-difference,%20SARSA,%20and%20Q-learning.md)

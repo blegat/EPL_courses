@@ -10,5 +10,4 @@ Source: `LM`, pp. 100–122.
 
 - [Statistical properties of OLS](Statistical%20properties%20of%20OLS.md) states the moment-based guarantees that do not require normality.
 - [Inference, confidence regions, and hypothesis tests](Inference,%20confidence%20regions,%20and%20hypothesis%20tests.md) uses the resulting sampling distributions.
-- [Parametric estimation](../LEPL1109/Parametric%20estimation.md) develops maximum likelihood generally.
-
+- [Parametric estimation](../../EPL/1109/Parametric%20estimation.md) develops maximum likelihood generally.

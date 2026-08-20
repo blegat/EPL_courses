@@ -21,5 +21,4 @@
 ## Related courses
 
 - Sensitivity foundation: [Fluid models, policy sensitivity, and score functions](Fluid%20models,%20policy%20sensitivity,%20and%20score%20functions.md)
-- Optimization background: [LELEC2870 — model selection, validation, and regularization](../LELEC2870/Model%20selection,%20validation,%20and%20regularization.md)
-
+- Optimization background: [LELEC2870 — model selection, validation, and regularization](../../ELEC/2870/Model%20selection,%20validation,%20and%20regularization.md)

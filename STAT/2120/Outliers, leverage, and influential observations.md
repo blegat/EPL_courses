@@ -9,5 +9,4 @@ Source: `LM`, pp. 303–330.
 ## Related courses
 
 - [OLS estimation and projection geometry](OLS%20estimation%20and%20projection%20geometry.md) defines the hat matrix behind leverage.
-- [Outlier and anomaly detection](../LINFO2364/Outlier%20and%20anomaly%20detection.md) surveys broader statistical, proximity, and learning-based approaches.
-
+- [Outlier and anomaly detection](../../INFO/2364/Outlier%20and%20anomaly%20detection.md) surveys broader statistical, proximity, and learning-based approaches.

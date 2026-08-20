@@ -10,4 +10,4 @@ Source: `LM`, pp. 197–221.
 
 - [Inference, confidence regions, and hypothesis tests](Inference,%20confidence%20regions,%20and%20hypothesis%20tests.md) provides the general linear tests.
 - [Variable and model selection](Variable%20and%20model%20selection.md) addresses whether such terms should remain in a predictive model.
-- [Linear regression and ANOVA](../LEPL1109/Linear%20regression%20and%20ANOVA.md) introduces the ANOVA decomposition.
+- [Linear regression and ANOVA](../../EPL/1109/Linear%20regression%20and%20ANOVA.md) introduces the ANOVA decomposition.

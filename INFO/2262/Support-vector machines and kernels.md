@@ -13,6 +13,5 @@
 
 ## Related courses
 
-- Detailed counterpart: [LELEC2870 — support-vector machines and kernels](../LELEC2870/Support-vector%20machines%20and%20kernels.md)
+- Detailed counterpart: [LELEC2870 — support-vector machines and kernels](../../ELEC/2870/Support-vector%20machines%20and%20kernels.md)
 - Foundation: [Linear discriminants and perceptron learning](Linear%20discriminants%20and%20perceptron%20learning.md)
-

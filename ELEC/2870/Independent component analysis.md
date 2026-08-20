@@ -19,6 +19,5 @@
 ## Related courses
 
 - Linear precursor: [Principal component analysis](Principal%20component%20analysis.md)
-- Probability prerequisite: [LEPL1109 — dependence and multivariate probability](../LEPL1109/Dependence%20and%20multivariate%20probability.md)
-- Information-theoretic formulation: [LDACS1110 — KL divergence and mutual information](../LDACS1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
-
+- Probability prerequisite: [LEPL1109 — dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
+- Information-theoretic formulation: [LDACS1110 — KL divergence and mutual information](../../DACS/1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)

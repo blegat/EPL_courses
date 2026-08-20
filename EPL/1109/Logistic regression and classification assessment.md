@@ -45,6 +45,6 @@
 
 ## Related courses
 
-- Related LDACS1110 topic: [Integrated learning applications](../LDACS1110/Integrated%20learning%20applications.md)
-- Related LDACS1110 topic: [KL divergence, cross-entropy, and mutual information](../LDACS1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
-- Related LDACS1110 topic: [Shannon entropy and conditional entropy](../LDACS1110/Shannon%20entropy%20and%20conditional%20entropy.md)
+- Related LDACS1110 topic: [Integrated learning applications](../../DACS/1110/Integrated%20learning%20applications.md)
+- Related LDACS1110 topic: [KL divergence, cross-entropy, and mutual information](../../DACS/1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
+- Related LDACS1110 topic: [Shannon entropy and conditional entropy](../../DACS/1110/Shannon%20entropy%20and%20conditional%20entropy.md)

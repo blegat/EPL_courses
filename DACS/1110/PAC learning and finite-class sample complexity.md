@@ -77,16 +77,16 @@ samples, but only relative to the actual representation/modeling assumptions.
 ### LEPL1109 dependency
 
 - Function classes, parameters/hyperparameters, training error, and overfitting:
-  [supervised-learning formulation](../LEPL1109/Supervised-learning%20formulation.md)
+  [supervised-learning formulation](../../EPL/1109/Supervised-learning%20formulation.md)
   [SL-1, pp. 38-47].
 - Generalization error and CV:
-  [resampling](../LEPL1109/Resampling,%20model%20assessment,%20and%20model%20selection.md)
+  [resampling](../../EPL/1109/Resampling,%20model%20assessment,%20and%20model%20selection.md)
   [SL-2, pp. 3-19].
 - Expected/empirical risk and excess risk:
-  [statistical decision theory](../LEPL1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
+  [statistical decision theory](../../EPL/1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
   [SL-3, pp. 5-16].
 - Bias-variance:
-  [bias-variance](../LEPL1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
+  [bias-variance](../../EPL/1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
   [SL-3, pp. 22-29].
 
 ### What is new beyond LEPL1109

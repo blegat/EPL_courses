@@ -22,5 +22,4 @@
 ## Related courses
 
 - Arrival model: [Nonhomogeneous and spatial Poisson processes](Nonhomogeneous%20and%20spatial%20Poisson%20processes.md)
-- Optimal-control analogue: [LINMA2725 — fluid models, policy sensitivity, and score functions](../LINMA2725/Fluid%20models,%20policy%20sensitivity,%20and%20score%20functions.md)
-
+- Optimal-control analogue: [LINMA2725 — fluid models, policy sensitivity, and score functions](../../INMA/2725/Fluid%20models,%20policy%20sensitivity,%20and%20score%20functions.md)

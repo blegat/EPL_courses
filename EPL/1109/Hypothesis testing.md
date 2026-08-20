@@ -28,4 +28,4 @@
 
 ## Related courses
 
-- Linear-model application: [LSTAT2120 — inference, confidence regions, and hypothesis tests](../LSTAT2120/Inference,%20confidence%20regions,%20and%20hypothesis%20tests.md)
+- Linear-model application: [LSTAT2120 — inference, confidence regions, and hypothesis tests](../../STAT/2120/Inference,%20confidence%20regions,%20and%20hypothesis%20tests.md)

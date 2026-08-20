@@ -15,6 +15,6 @@
 ## Related courses
 
 - Model family: [Decision trees and random forests](Decision%20trees%20and%20random%20forests.md)
-- Regression counterpart: [LSTAT2120 — variable and model selection](../LSTAT2120/Variable%20and%20model%20selection.md)
-- Prerequisite: [LEPL1109 — resampling, model assessment, and model selection](../LEPL1109/Resampling,%20model%20assessment,%20and%20model%20selection.md)
-- Mining evaluation: [LINFO2364 — probabilistic classification and model evaluation](../LINFO2364/Probabilistic%20classification%20and%20model%20evaluation.md)
+- Regression counterpart: [LSTAT2120 — variable and model selection](../../STAT/2120/Variable%20and%20model%20selection.md)
+- Prerequisite: [LEPL1109 — resampling, model assessment, and model selection](../../EPL/1109/Resampling,%20model%20assessment,%20and%20model%20selection.md)
+- Mining evaluation: [LINFO2364 — probabilistic classification and model evaluation](../../INFO/2364/Probabilistic%20classification%20and%20model%20evaluation.md)

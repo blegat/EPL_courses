@@ -14,5 +14,4 @@
 
 ## Related courses
 
-- Detailed counterpart: [LELEC2870 — deep learning architectures and training](../LELEC2870/Deep%20learning%20architectures%20and%20training.md)
-
+- Detailed counterpart: [LELEC2870 — deep learning architectures and training](../../ELEC/2870/Deep%20learning%20architectures%20and%20training.md)

@@ -10,5 +10,4 @@
 ## Related courses
 
 - Probabilistic counterpart: [Naive Bayes and Gaussian classifiers](Naive%20Bayes%20and%20Gaussian%20classifiers.md)
-- Dimensionality comparison: [LELEC2870 — principal component analysis](../LELEC2870/Principal%20component%20analysis.md)
-
+- Dimensionality comparison: [LELEC2870 — principal component analysis](../../ELEC/2870/Principal%20component%20analysis.md)

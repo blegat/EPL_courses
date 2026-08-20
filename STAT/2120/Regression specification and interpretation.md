@@ -10,4 +10,4 @@ Source: `LM`, pp. 12–35.
 
 - [Panel-data fixed and random effects](Panel-data%20fixed%20and%20random%20effects.md) extends the specification to repeated units.
 - [OLS estimation and projection geometry](OLS%20estimation%20and%20projection%20geometry.md) derives the estimator for this specification.
-- [Linear regression and ANOVA](../LEPL1109/Linear%20regression%20and%20ANOVA.md) gives the broader statistical introduction.
+- [Linear regression and ANOVA](../../EPL/1109/Linear%20regression%20and%20ANOVA.md) gives the broader statistical introduction.

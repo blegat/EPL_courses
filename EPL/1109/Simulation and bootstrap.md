@@ -18,7 +18,7 @@
 
 ## Related courses
 
-- Related LDACS1110 topic: [Computational pseudorandomness and reductions](../LDACS1110/Computational%20pseudorandomness%20and%20reductions.md)
-- Related LDACS1110 topic: [Direct and weighted sampling methods](../LDACS1110/Direct%20and%20weighted%20sampling%20methods.md)
-- Related LDACS1110 topic: [Monte Carlo estimation](../LDACS1110/Monte%20Carlo%20estimation.md)
-- Related LDACS1110 topic: [Randomized algorithms and probabilistic analysis](../LDACS1110/Randomized%20algorithms%20and%20probabilistic%20analysis.md)
+- Related LDACS1110 topic: [Computational pseudorandomness and reductions](../../DACS/1110/Computational%20pseudorandomness%20and%20reductions.md)
+- Related LDACS1110 topic: [Direct and weighted sampling methods](../../DACS/1110/Direct%20and%20weighted%20sampling%20methods.md)
+- Related LDACS1110 topic: [Monte Carlo estimation](../../DACS/1110/Monte%20Carlo%20estimation.md)
+- Related LDACS1110 topic: [Randomized algorithms and probabilistic analysis](../../DACS/1110/Randomized%20algorithms%20and%20probabilistic%20analysis.md)

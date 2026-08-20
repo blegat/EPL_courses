@@ -11,7 +11,7 @@
 - RBF, Matern, and rational-quadratic kernels.
 - Marginal-likelihood hyperparameter fitting.
 
-See [Gaussian-process regression in LEPL1109](../LEPL1109/Gaussian-process%20regression.md)
+See [Gaussian-process regression in LEPL1109](../../EPL/1109/Gaussian-process%20regression.md)
 [STAT, pp. 222-232; ERR, p. 1].
 
 ### Candidate new connections

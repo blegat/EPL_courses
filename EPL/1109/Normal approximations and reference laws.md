@@ -15,5 +15,5 @@
 
 ## Related courses
 
-- Related LDACS1110 topic: [Concentration inequalities](../LDACS1110/Concentration%20inequalities.md)
-- Related LDACS1110 topic: [Monte Carlo estimation](../LDACS1110/Monte%20Carlo%20estimation.md)
+- Related LDACS1110 topic: [Concentration inequalities](../../DACS/1110/Concentration%20inequalities.md)
+- Related LDACS1110 topic: [Monte Carlo estimation](../../DACS/1110/Monte%20Carlo%20estimation.md)

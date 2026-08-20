@@ -34,10 +34,10 @@ effects.
 ### LEPL1109 dependency
 
 - Conditional distributions and regression:
-  [dependence and multivariate probability](../LEPL1109/Dependence%20and%20multivariate%20probability.md)
-  and [linear regression](../LEPL1109/Linear%20regression%20and%20ANOVA.md).
+  [dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
+  and [linear regression](../../EPL/1109/Linear%20regression%20and%20ANOVA.md).
 - Correlation captures linear association, not causation:
-  [independence covariance correlation](../LEPL1109/Dependence%20and%20multivariate%20probability.md#independence-covariance-and-correlation)
+  [independence covariance correlation](../../EPL/1109/Dependence%20and%20multivariate%20probability.md#independence-covariance-and-correlation)
   [STAT, pp. 38-45].
 
 ### What is new beyond LEPL1109

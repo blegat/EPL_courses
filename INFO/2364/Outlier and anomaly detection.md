@@ -8,6 +8,6 @@ Source: `S11`, pp. 2–122.
 
 ## Related courses
 
-- [LSTAT2120 — outliers, leverage, and influential observations](../LSTAT2120/Outliers,%20leverage,%20and%20influential%20observations.md) gives regression-specific diagnostics.
+- [LSTAT2120 — outliers, leverage, and influential observations](../../STAT/2120/Outliers,%20leverage,%20and%20influential%20observations.md) gives regression-specific diagnostics.
 - [Classical clustering methods and evaluation](Classical%20clustering%20methods%20and%20evaluation.md) introduces the proximity and density structures reused here.
 - [Rich-data mining, privacy, and emerging trends](Rich-data%20mining,%20privacy,%20and%20emerging%20trends.md) connects anomaly detection to responsible deployment.

@@ -31,10 +31,10 @@ number of alternatives that must be controlled by the union bound.
 ### LEPL1109 dependency
 
 - Dataset, generalization, and empirical risk:
-  [supervised-learning formulation](../LEPL1109/Supervised-learning%20formulation.md)
-  and [statistical decision theory](../LEPL1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md).
+  [supervised-learning formulation](../../EPL/1109/Supervised-learning%20formulation.md)
+  and [statistical decision theory](../../EPL/1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md).
 - PCA compression is a distinct concept:
-  [PCA](../LEPL1109/Unsupervised%20learning.md#principal-component-analysis).
+  [PCA](../../EPL/1109/Unsupervised%20learning.md#principal-component-analysis).
 
 ### What is new beyond LEPL1109
 

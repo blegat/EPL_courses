@@ -29,4 +29,4 @@ from the assumptions rather than merely memorize isolated formulas.
 
 ## Related courses
 
-- Related LDACS1110 topic: [Bayesian inference](../LDACS1110/Bayesian%20inference.md)
+- Related LDACS1110 topic: [Bayesian inference](../../DACS/1110/Bayesian%20inference.md)

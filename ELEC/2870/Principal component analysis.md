@@ -21,8 +21,8 @@
 
 ## Related courses
 
-- Supervised projection: [LINFO2262 — Fisher discriminant analysis](../LINFO2262/Fisher%20discriminant%20analysis.md)
-- Prerequisite: [LEPL1109 — unsupervised learning](../LEPL1109/Unsupervised%20learning.md)
-- Probability foundation: [LEPL1109 — dependence and multivariate probability](../LEPL1109/Dependence%20and%20multivariate%20probability.md)
+- Supervised projection: [LINFO2262 — Fisher discriminant analysis](../../INFO/2262/Fisher%20discriminant%20analysis.md)
+- Prerequisite: [LEPL1109 — unsupervised learning](../../EPL/1109/Unsupervised%20learning.md)
+- Probability foundation: [LEPL1109 — dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
 - Nonlinear extension: [Nonlinear dimensionality reduction and quality assessment](Nonlinear%20dimensionality%20reduction%20and%20quality%20assessment.md)
 - Independence-oriented extension: [Independent component analysis](Independent%20component%20analysis.md)

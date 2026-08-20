@@ -52,10 +52,10 @@ almost surely for integrable `f`.
 ### LEPL1109 dependency
 
 - Conditional and multivariate distributions:
-  [dependence and multivariate probability](../LEPL1109/Dependence%20and%20multivariate%20probability.md)
+  [dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
   [STAT, pp. 60-81].
 - Time-series autocorrelation:
-  [time series and autoregressive models](../LEPL1109/Time%20series%20and%20autoregressive%20models.md)
+  [time series and autoregressive models](../../EPL/1109/Time%20series%20and%20autoregressive%20models.md)
   [STAT, pp. 207-220].
 - Bayesian posterior distributions are new and must precede MCMC.
 
@@ -77,4 +77,4 @@ foundations of entropy, statistical distance, and hashing.
 
 ### Related courses
 
-- Sequential extension: [LINMA2725 — Markov systems, invariant measures, and ergodicity](../LINMA2725/Markov%20systems,%20invariant%20measures,%20and%20ergodicity.md)
+- Sequential extension: [LINMA2725 — Markov systems, invariant measures, and ergodicity](../../INMA/2725/Markov%20systems,%20invariant%20measures,%20and%20ergodicity.md)

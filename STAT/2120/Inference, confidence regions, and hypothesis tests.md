@@ -10,5 +10,4 @@ Source: `LM`, pp. 123–179.
 
 - [Maximum likelihood in Gaussian linear models](Maximum%20likelihood%20in%20Gaussian%20linear%20models.md) supplies the exact distributions.
 - [Dummy variables, interactions, and ANOVA](Dummy%20variables,%20interactions,%20and%20ANOVA.md) applies nested-model tests to group effects.
-- [Hypothesis testing](../LEPL1109/Hypothesis%20testing.md) gives the general testing framework.
-
+- [Hypothesis testing](../../EPL/1109/Hypothesis%20testing.md) gives the general testing framework.

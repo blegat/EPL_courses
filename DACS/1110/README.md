@@ -39,7 +39,7 @@ contact hours, so the complete catalogue cannot be taught in one edition.
 - **Defer**: too large, too advanced, redundant with LEPL1109, or weakly related
   to the course outcomes.
 - **LEPL1109 dependency** links point to the detailed prerequisite inventory:
-  [LEPL1109 content](../LEPL1109/README.md).
+  [LEPL1109 content](../../EPL/1109/README.md).
 - PDF references after those links are physical pages of the LEPL1109 source
   named in that inventory.
 

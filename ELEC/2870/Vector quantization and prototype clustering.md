@@ -20,6 +20,5 @@
 
 ## Related courses
 
-- Prerequisite: [LEPL1109 — unsupervised learning](../LEPL1109/Unsupervised%20learning.md)
+- Prerequisite: [LEPL1109 — unsupervised learning](../../EPL/1109/Unsupervised%20learning.md)
 - Topological extension: [Self-organizing maps and topology-preserving learning](Self-organizing%20maps%20and%20topology-preserving%20learning.md)
-

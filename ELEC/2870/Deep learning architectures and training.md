@@ -28,9 +28,9 @@
 
 ## Related courses
 
-- Classification survey: [LINFO2262 — deep neural classification](../LINFO2262/Deep%20neural%20classification.md)
+- Classification survey: [LINFO2262 — deep neural classification](../../INFO/2262/Deep%20neural%20classification.md)
 - Foundation: [Multilayer perceptrons and backpropagation](Multilayer%20perceptrons%20and%20backpropagation.md)
 - Autoencoder/embedding connection: [Nonlinear dimensionality reduction and quality assessment](Nonlinear%20dimensionality%20reduction%20and%20quality%20assessment.md)
-- Prerequisite boundary: [LEPL1109 — explicitly extra or not covered](../LEPL1109/Explicitly%20extra,%20deferred,%20or%20not%20covered.md)
-- Robustness context: [LDACS1110 — robustness and distribution shift](../LDACS1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)
-- Reinforcement-learning use: [LINMA2725 — deep and convex Q-learning](../LINMA2725/Deep%20and%20convex%20Q-learning.md)
+- Prerequisite boundary: [LEPL1109 — explicitly extra or not covered](../../EPL/1109/Explicitly%20extra,%20deferred,%20or%20not%20covered.md)
+- Robustness context: [LDACS1110 — robustness and distribution shift](../../DACS/1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)
+- Reinforcement-learning use: [LINMA2725 — deep and convex Q-learning](../../INMA/2725/Deep%20and%20convex%20Q-learning.md)

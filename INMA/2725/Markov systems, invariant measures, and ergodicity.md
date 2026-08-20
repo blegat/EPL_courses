@@ -16,7 +16,7 @@
 
 ## Related courses
 
-- Probability precursor: [LEPL1109 — dependence and multivariate probability](../LEPL1109/Dependence%20and%20multivariate%20probability.md)
-- Sampling connection: [LDACS1110 — Markov-chain Monte Carlo](../LDACS1110/Markov-chain%20Monte%20Carlo.md)
+- Probability precursor: [LEPL1109 — dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
+- Sampling connection: [LDACS1110 — Markov-chain Monte Carlo](../../DACS/1110/Markov-chain%20Monte%20Carlo.md)
 - Learning from Markov trajectories: [Stochastic TD and off-policy Q-learning](Stochastic%20TD%20and%20off-policy%20Q-learning.md)
-- Introductory treatment: [LINMA2470 — finite Markov chains and steady state](../LINMA2470/Finite%20Markov%20chains%20and%20steady%20state.md)
+- Introductory treatment: [LINMA2470 — finite Markov chains and steady state](../../INMA/2470/Finite%20Markov%20chains%20and%20steady%20state.md)

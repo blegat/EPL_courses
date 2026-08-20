@@ -40,7 +40,7 @@ to cryptographic assumptions.
 ### LEPL1109 dependency
 
 - LEPL1109 only treats numerical PRNGs for simulation:
-  [simulation](../LEPL1109/Simulation%20and%20bootstrap.md)
+  [simulation](../../EPL/1109/Simulation%20and%20bootstrap.md)
   [STAT, pp. 107-108].
 - This must not be mistaken for cryptographic pseudorandomness.
 

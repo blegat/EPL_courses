@@ -26,11 +26,11 @@
 
 ## Related courses
 
-- Classification extension: [LINFO2262 — Bayesian decision theory, MAP, and ROC analysis](../LINFO2262/Bayesian%20decision%20theory,%20MAP,%20and%20ROC%20analysis.md)
-- Related LDACS1110 topic: [Bayesian inference](../LDACS1110/Bayesian%20inference.md)
-- Related LDACS1110 topic: [Fano's inequality and information-theoretic lower bounds](<../LDACS1110/Fano's%20inequality%20and%20information-theoretic%20lower%20bounds.md>)
-- Related LDACS1110 topic: [Monte Carlo estimation](../LDACS1110/Monte%20Carlo%20estimation.md)
-- Related LDACS1110 topic: [PAC learning and finite-class sample complexity](../LDACS1110/PAC%20learning%20and%20finite-class%20sample%20complexity.md)
-- Related LDACS1110 topic: [Sample compression and description length](../LDACS1110/Sample%20compression%20and%20description%20length.md)
-- Sequential extension: [LINMA2725 — Bellman equations, value iteration, and policy iteration](../LINMA2725/Bellman%20equations,%20value%20iteration,%20and%20policy%20iteration.md)
-- Sequential extension: [LINMA2725 — stochastic optimal control and dynamic programming](../LINMA2725/Stochastic%20optimal%20control%20and%20dynamic%20programming.md)
+- Classification extension: [LINFO2262 — Bayesian decision theory, MAP, and ROC analysis](../../INFO/2262/Bayesian%20decision%20theory,%20MAP,%20and%20ROC%20analysis.md)
+- Related LDACS1110 topic: [Bayesian inference](../../DACS/1110/Bayesian%20inference.md)
+- Related LDACS1110 topic: [Fano's inequality and information-theoretic lower bounds](<../../DACS/1110/Fano's%20inequality%20and%20information-theoretic%20lower%20bounds.md>)
+- Related LDACS1110 topic: [Monte Carlo estimation](../../DACS/1110/Monte%20Carlo%20estimation.md)
+- Related LDACS1110 topic: [PAC learning and finite-class sample complexity](../../DACS/1110/PAC%20learning%20and%20finite-class%20sample%20complexity.md)
+- Related LDACS1110 topic: [Sample compression and description length](../../DACS/1110/Sample%20compression%20and%20description%20length.md)
+- Sequential extension: [LINMA2725 — Bellman equations, value iteration, and policy iteration](../../INMA/2725/Bellman%20equations,%20value%20iteration,%20and%20policy%20iteration.md)
+- Sequential extension: [LINMA2725 — stochastic optimal control and dynamic programming](../../INMA/2725/Stochastic%20optimal%20control%20and%20dynamic%20programming.md)

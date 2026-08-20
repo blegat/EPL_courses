@@ -43,9 +43,9 @@
 
 ## Related courses
 
-- Classification survey: [LINFO2262 — learning problems and classification workflow](../LINFO2262/Learning%20problems%20and%20classification%20workflow.md)
-- Follow-on: [LELEC2870 — machine-learning framing and dimensionality](../LELEC2870/Machine-learning%20framing%20and%20dimensionality.md)
-- Related LDACS1110 topic: [MAP estimation and regularization](../LDACS1110/MAP%20estimation%20and%20regularization.md)
-- Related LDACS1110 topic: [PAC learning and finite-class sample complexity](../LDACS1110/PAC%20learning%20and%20finite-class%20sample%20complexity.md)
-- Related LDACS1110 topic: [Sample compression and description length](../LDACS1110/Sample%20compression%20and%20description%20length.md)
-- Related LDACS1110 topic: [VC dimension and growth functions](../LDACS1110/VC%20dimension%20and%20growth%20functions.md)
+- Classification survey: [LINFO2262 — learning problems and classification workflow](../../INFO/2262/Learning%20problems%20and%20classification%20workflow.md)
+- Follow-on: [LELEC2870 — machine-learning framing and dimensionality](../../ELEC/2870/Machine-learning%20framing%20and%20dimensionality.md)
+- Related LDACS1110 topic: [MAP estimation and regularization](../../DACS/1110/MAP%20estimation%20and%20regularization.md)
+- Related LDACS1110 topic: [PAC learning and finite-class sample complexity](../../DACS/1110/PAC%20learning%20and%20finite-class%20sample%20complexity.md)
+- Related LDACS1110 topic: [Sample compression and description length](../../DACS/1110/Sample%20compression%20and%20description%20length.md)
+- Related LDACS1110 topic: [VC dimension and growth functions](../../DACS/1110/VC%20dimension%20and%20growth%20functions.md)

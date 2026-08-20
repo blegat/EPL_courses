@@ -13,6 +13,5 @@
 
 ## Related courses
 
-- Prerequisite: [LEPL1109 — linear least squares and k-nearest neighbors](../LEPL1109/Linear%20least%20squares%20and%20k-nearest%20neighbors.md)
-- Broader clustering: [LINFO2364 — classical clustering methods and evaluation](../LINFO2364/Classical%20clustering%20methods%20and%20evaluation.md)
-
+- Prerequisite: [LEPL1109 — linear least squares and k-nearest neighbors](../../EPL/1109/Linear%20least%20squares%20and%20k-nearest%20neighbors.md)
+- Broader clustering: [LINFO2364 — classical clustering methods and evaluation](../../INFO/2364/Classical%20clustering%20methods%20and%20evaluation.md)

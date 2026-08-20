@@ -38,10 +38,10 @@ version of the theorem.
 ### LEPL1109 dependency
 
 - Linear decision boundaries and k-NN flexibility:
-  [linear least squares and k-nearest neighbors](../LEPL1109/Linear%20least%20squares%20and%20k-nearest%20neighbors.md)
+  [linear least squares and k-nearest neighbors](../../EPL/1109/Linear%20least%20squares%20and%20k-nearest%20neighbors.md)
   [SL-1, pp. 22-35].
 - Model classes and overfitting:
-  [supervised-learning formulation](../LEPL1109/Supervised-learning%20formulation.md).
+  [supervised-learning formulation](../../EPL/1109/Supervised-learning%20formulation.md).
 
 ### What is new beyond LEPL1109
 

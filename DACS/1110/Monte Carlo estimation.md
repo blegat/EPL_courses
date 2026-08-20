@@ -49,14 +49,14 @@ is unbiased, with an optimal coefficient determined by covariance.
 ### LEPL1109 dependency
 
 - LLN, CLT, means, and variance of averages:
-  [probability foundations](../LEPL1109/Probability%20foundations%20and%20random%20variables.md)
-  and [normal approximations](../LEPL1109/Normal%20approximations%20and%20reference%20laws.md)
+  [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
+  and [normal approximations](../../EPL/1109/Normal%20approximations%20and%20reference%20laws.md)
   [STAT, pp. 13-18, 50-52].
 - Simulation and inverse transforms:
-  [simulation and bootstrap](../LEPL1109/Simulation%20and%20bootstrap.md)
+  [simulation and bootstrap](../../EPL/1109/Simulation%20and%20bootstrap.md)
   [STAT, pp. 107-117].
 - Risk and empirical risk:
-  [statistical decision theory](../LEPL1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
+  [statistical decision theory](../../EPL/1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
   [SL-3, pp. 5-6].
 
 ### What is new beyond LEPL1109
@@ -77,4 +77,4 @@ is unbiased, with an optimal coefficient determined by covariance.
 
 ### Related courses
 
-- Sequential application: [LINMA2470 — bandits and Monte Carlo reinforcement learning](../LINMA2470/Bandits%20and%20Monte%20Carlo%20reinforcement%20learning.md)
+- Sequential application: [LINMA2470 — bandits and Monte Carlo reinforcement learning](../../INMA/2470/Bandits%20and%20Monte%20Carlo%20reinforcement%20learning.md)

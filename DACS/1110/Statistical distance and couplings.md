@@ -46,7 +46,7 @@ $$
 ### LEPL1109 dependency
 
 - Discrete distributions, events, and conditional probability:
-  [probability foundations](../LEPL1109/Probability%20foundations%20and%20random%20variables.md)
+  [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
   [STAT, pp. 7-15].
 - Classification tests provide useful intuition but total variation is new.
 

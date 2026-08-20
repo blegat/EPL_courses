@@ -10,5 +10,4 @@ Source: `LM`, pp. 222–258.
 
 - [Multicollinearity and ridge regression](Multicollinearity%20and%20ridge%20regression.md) gives a continuous shrinkage alternative to subset selection.
 - [Dummy variables, interactions, and ANOVA](Dummy%20variables,%20interactions,%20and%20ANOVA.md) supplies structured groups of candidate terms.
-- [Classifier performance and model comparison](../LINFO2262/Classifier%20performance%20and%20model%20comparison.md) discusses held-out and resampling-based comparison.
-
+- [Classifier performance and model comparison](../../INFO/2262/Classifier%20performance%20and%20model%20comparison.md) discusses held-out and resampling-based comparison.

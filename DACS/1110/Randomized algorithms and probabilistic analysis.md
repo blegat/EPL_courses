@@ -46,13 +46,13 @@ The transition from unlikely to likely collision occurs around `q = Theta(sqrt(N
 ### LEPL1109 dependency
 
 - Random variables, expectation, indicators, and variance:
-  [probability foundations](../LEPL1109/Probability%20foundations%20and%20random%20variables.md)
+  [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
   [STAT, pp. 7-18; SL-1, pp. 4-7 for indicator notation].
 - Independence and covariance:
-  [dependence and multivariate probability](../LEPL1109/Dependence%20and%20multivariate%20probability.md)
+  [dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
   [STAT, pp. 38-45].
 - Numerical pseudorandom generators and seeds:
-  [simulation and bootstrap](../LEPL1109/Simulation%20and%20bootstrap.md)
+  [simulation and bootstrap](../../EPL/1109/Simulation%20and%20bootstrap.md)
   [STAT, pp. 107-110].
 - Algorithm/data-structure prerequisites mainly come from LEPL1402, not
   LEPL1109.

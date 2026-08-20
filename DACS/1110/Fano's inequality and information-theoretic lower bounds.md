@@ -27,7 +27,7 @@ the probability of identification error.
 ### LEPL1109 dependency
 
 - Conditional probability, classification error, and Bayes risk:
-  [statistical decision theory](../LEPL1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
+  [statistical decision theory](../../EPL/1109/Statistical%20decision%20theory%20and%20Bayes%20optimality.md)
   [SL-3, pp. 7-19].
 - Entropy and mutual information must first be taught in FoL.
 

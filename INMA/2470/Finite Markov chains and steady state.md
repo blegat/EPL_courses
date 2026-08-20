@@ -15,6 +15,5 @@
 
 ## Related courses
 
-- Advanced viewpoint: [LINMA2725 — Markov systems, invariant measures, and ergodicity](../LINMA2725/Markov%20systems,%20invariant%20measures,%20and%20ergodicity.md)
+- Advanced viewpoint: [LINMA2725 — Markov systems, invariant measures, and ergodicity](../../INMA/2725/Markov%20systems,%20invariant%20measures,%20and%20ergodicity.md)
 - Infinite-state extension: [Countable Markov chains and reversibility](Countable%20Markov%20chains%20and%20reversibility.md)
-

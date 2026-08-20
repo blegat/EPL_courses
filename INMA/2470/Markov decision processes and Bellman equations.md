@@ -16,6 +16,6 @@
 
 ## Related courses
 
-- Advanced formulation: [LINMA2725 — Bellman equations, value iteration, and policy iteration](../LINMA2725/Bellman%20equations,%20value%20iteration,%20and%20policy%20iteration.md)
+- Advanced formulation: [LINMA2725 — Bellman equations, value iteration, and policy iteration](../../INMA/2725/Bellman%20equations,%20value%20iteration,%20and%20policy%20iteration.md)
 - Algorithms: [Policy iteration, value iteration, and linear programming](Policy%20iteration,%20value%20iteration,%20and%20linear%20programming.md)
 - Model-free extension: [Bandits and Monte Carlo reinforcement learning](Bandits%20and%20Monte%20Carlo%20reinforcement%20learning.md)

@@ -35,7 +35,7 @@ pairwise-independent family.
 ### LEPL1109 dependency
 
 - Uniform discrete variables, indicators, independence, and expectation:
-  [probability foundations](../LEPL1109/Probability%20foundations%20and%20random%20variables.md).
+  [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md).
 - Algorithmic data structures come from LEPL1402.
 
 ### What is new beyond LEPL1109

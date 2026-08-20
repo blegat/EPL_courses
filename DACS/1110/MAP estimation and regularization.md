@@ -29,13 +29,13 @@ Bayesian prediction.
 ### LEPL1109 dependency
 
 - MLE and negative log-likelihood:
-  [maximum likelihood](../LEPL1109/Parametric%20estimation.md#maximum-likelihood)
+  [maximum likelihood](../../EPL/1109/Parametric%20estimation.md#maximum-likelihood)
   [STAT, pp. 97-105].
 - OLS and model flexibility:
-  [linear regression and ANOVA](../LEPL1109/Linear%20regression%20and%20ANOVA.md)
-  and [supervised-learning formulation](../LEPL1109/Supervised-learning%20formulation.md).
+  [linear regression and ANOVA](../../EPL/1109/Linear%20regression%20and%20ANOVA.md)
+  and [supervised-learning formulation](../../EPL/1109/Supervised-learning%20formulation.md).
 - Bias-variance tradeoff:
-  [bias-variance](../LEPL1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
+  [bias-variance](../../EPL/1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
   [SL-3, pp. 22-29].
 
 ### What is new beyond LEPL1109
@@ -55,5 +55,5 @@ outcome linking uncertainty, regularization, and generalization.
 
 ### Related courses
 
-- Applied continuation: [LELEC2870 — model selection, validation, and regularization](../LELEC2870/Model%20selection,%20validation,%20and%20regularization.md)
-- Applied continuation: [LELEC2870 — feature selection](../LELEC2870/Feature%20selection.md)
+- Applied continuation: [LELEC2870 — model selection, validation, and regularization](../../ELEC/2870/Model%20selection,%20validation,%20and%20regularization.md)
+- Applied continuation: [LELEC2870 — feature selection](../../ELEC/2870/Feature%20selection.md)

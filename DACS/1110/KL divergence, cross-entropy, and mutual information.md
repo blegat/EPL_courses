@@ -64,11 +64,11 @@ This connects information divergence to statistical distinguishing advantage.
 ### LEPL1109 dependency
 
 - Joint distributions, independence, conditioning, and likelihood:
-  [dependence and multivariate probability](../LEPL1109/Dependence%20and%20multivariate%20probability.md)
-  and [maximum likelihood](../LEPL1109/Parametric%20estimation.md#maximum-likelihood)
+  [dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
+  and [maximum likelihood](../../EPL/1109/Parametric%20estimation.md#maximum-likelihood)
   [STAT, pp. 38, 60-81, 97-105].
 - Logistic negative log-likelihood/cross-entropy:
-  [logistic regression](../LEPL1109/Logistic%20regression%20and%20classification%20assessment.md#logistic-regression)
+  [logistic regression](../../EPL/1109/Logistic%20regression%20and%20classification%20assessment.md#logistic-regression)
   [SL-2, pp. 33-35].
 
 ### What is new beyond LEPL1109
@@ -89,5 +89,5 @@ This connects information divergence to statistical distinguishing advantage.
 
 ### Related courses
 
-- Applied use in variable selection: [LELEC2870 — feature selection](../LELEC2870/Feature%20selection.md)
-- Applied use as an independence objective: [LELEC2870 — independent component analysis](../LELEC2870/Independent%20component%20analysis.md)
+- Applied use in variable selection: [LELEC2870 — feature selection](../../ELEC/2870/Feature%20selection.md)
+- Applied use as an independence objective: [LELEC2870 — independent component analysis](../../ELEC/2870/Independent%20component%20analysis.md)

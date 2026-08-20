@@ -68,12 +68,12 @@ p. 2]:
 
 ## Related courses
 
-- Related LDACS1110 topic: [Concentration inequalities](../LDACS1110/Concentration%20inequalities.md)
-- Related LDACS1110 topic: [Direct and weighted sampling methods](../LDACS1110/Direct%20and%20weighted%20sampling%20methods.md)
-- Related LDACS1110 topic: [Min-entropy and randomness extraction](../LDACS1110/Min-entropy%20and%20randomness%20extraction.md)
-- Related LDACS1110 topic: [Monte Carlo estimation](../LDACS1110/Monte%20Carlo%20estimation.md)
-- Related LDACS1110 topic: [Randomized algorithms and probabilistic analysis](../LDACS1110/Randomized%20algorithms%20and%20probabilistic%20analysis.md)
-- Related LDACS1110 topic: [Shannon entropy and conditional entropy](../LDACS1110/Shannon%20entropy%20and%20conditional%20entropy.md)
-- Related LDACS1110 topic: [Statistical distance and couplings](../LDACS1110/Statistical%20distance%20and%20couplings.md)
-- Related LDACS1110 topic: [Universal hashing and randomized hash maps](../LDACS1110/Universal%20hashing%20and%20randomized%20hash%20maps.md)
-- Stochastic-process continuation: [LINMA2470 — probability foundations and limit theorems](../LINMA2470/Probability%20foundations%20and%20limit%20theorems.md)
+- Related LDACS1110 topic: [Concentration inequalities](../../DACS/1110/Concentration%20inequalities.md)
+- Related LDACS1110 topic: [Direct and weighted sampling methods](../../DACS/1110/Direct%20and%20weighted%20sampling%20methods.md)
+- Related LDACS1110 topic: [Min-entropy and randomness extraction](../../DACS/1110/Min-entropy%20and%20randomness%20extraction.md)
+- Related LDACS1110 topic: [Monte Carlo estimation](../../DACS/1110/Monte%20Carlo%20estimation.md)
+- Related LDACS1110 topic: [Randomized algorithms and probabilistic analysis](../../DACS/1110/Randomized%20algorithms%20and%20probabilistic%20analysis.md)
+- Related LDACS1110 topic: [Shannon entropy and conditional entropy](../../DACS/1110/Shannon%20entropy%20and%20conditional%20entropy.md)
+- Related LDACS1110 topic: [Statistical distance and couplings](../../DACS/1110/Statistical%20distance%20and%20couplings.md)
+- Related LDACS1110 topic: [Universal hashing and randomized hash maps](../../DACS/1110/Universal%20hashing%20and%20randomized%20hash%20maps.md)
+- Stochastic-process continuation: [LINMA2470 — probability foundations and limit theorems](../../INMA/2470/Probability%20foundations%20and%20limit%20theorems.md)

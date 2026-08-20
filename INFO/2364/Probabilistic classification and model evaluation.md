@@ -8,6 +8,5 @@ Source: `S8`, pp. 2–181.
 
 ## Related courses
 
-- [Classifier performance and model comparison](../LINFO2262/Classifier%20performance%20and%20model%20comparison.md) develops resampling and performance estimates in detail.
+- [Classifier performance and model comparison](../../INFO/2262/Classifier%20performance%20and%20model%20comparison.md) develops resampling and performance estimates in detail.
 - [Rule-based and pattern-based classification](Rule-based%20and%20pattern-based%20classification.md) provides the complementary symbolic approach.
-

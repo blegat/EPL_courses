@@ -18,5 +18,4 @@
 
 - Foundation: [Vector quantization and prototype clustering](Vector%20quantization%20and%20prototype%20clustering.md)
 - Embedding context: [Nonlinear dimensionality reduction and quality assessment](Nonlinear%20dimensionality%20reduction%20and%20quality%20assessment.md)
-- Prerequisite: [LEPL1109 — unsupervised learning](../LEPL1109/Unsupervised%20learning.md)
-
+- Prerequisite: [LEPL1109 — unsupervised learning](../../EPL/1109/Unsupervised%20learning.md)

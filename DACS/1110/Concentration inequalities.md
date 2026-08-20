@@ -78,13 +78,13 @@ stable functions of independent data.
 ### LEPL1109 dependency
 
 - Expectation, variance, independence, and MGFs:
-  [probability foundations](../LEPL1109/Probability%20foundations%20and%20random%20variables.md)
+  [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
   [STAT, pp. 13-18; FORM, p. 1].
 - Bernoulli and binomial laws:
-  [assumed distribution family](../LEPL1109/Probability%20foundations%20and%20random%20variables.md#assumed-distribution-family)
+  [assumed distribution family](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md#assumed-distribution-family)
   [APP, pp. 5-9].
 - CLT, to contrast asymptotic and nonasymptotic statements:
-  [normal approximations](../LEPL1109/Normal%20approximations%20and%20reference%20laws.md)
+  [normal approximations](../../EPL/1109/Normal%20approximations%20and%20reference%20laws.md)
   [STAT, pp. 50-52].
 
 ### What is new beyond LEPL1109
@@ -106,6 +106,6 @@ stable functions of independent data.
 
 ### Related courses
 
-- Sequential-learning use: [LINMA2725 — exploration and stochastic-approximation ODEs](../LINMA2725/Exploration%20and%20stochastic-approximation%20ODEs.md)
-- Regret analysis: [LINMA2725 — multi-armed bandits and regret](../LINMA2725/Multi-armed%20bandits%20and%20regret.md)
-- Stochastic-process prerequisite: [LINMA2470 — probability foundations and limit theorems](../LINMA2470/Probability%20foundations%20and%20limit%20theorems.md)
+- Sequential-learning use: [LINMA2725 — exploration and stochastic-approximation ODEs](../../INMA/2725/Exploration%20and%20stochastic-approximation%20ODEs.md)
+- Regret analysis: [LINMA2725 — multi-armed bandits and regret](../../INMA/2725/Multi-armed%20bandits%20and%20regret.md)
+- Stochastic-process prerequisite: [LINMA2470 — probability foundations and limit theorems](../../INMA/2470/Probability%20foundations%20and%20limit%20theorems.md)

@@ -13,6 +13,5 @@
 
 ## Related courses
 
-- Pattern/rule view: [LINFO2364 — rule-based and pattern-based classification](../LINFO2364/Rule-based%20and%20pattern-based%20classification.md)
+- Pattern/rule view: [LINFO2364 — rule-based and pattern-based classification](../../INFO/2364/Rule-based%20and%20pattern-based%20classification.md)
 - Evaluation: [Classifier performance and model comparison](Classifier%20performance%20and%20model%20comparison.md)
-

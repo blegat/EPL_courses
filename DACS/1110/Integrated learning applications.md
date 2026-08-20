@@ -25,10 +25,10 @@
 ### LEPL1109 relations
 
 - Logistic regression and metrics:
-  [classification](../LEPL1109/Logistic%20regression%20and%20classification%20assessment.md).
+  [classification](../../EPL/1109/Logistic%20regression%20and%20classification%20assessment.md).
 - Resampling and model selection:
-  [resampling](../LEPL1109/Resampling,%20model%20assessment,%20and%20model%20selection.md).
+  [resampling](../../EPL/1109/Resampling,%20model%20assessment,%20and%20model%20selection.md).
 - Bias-variance:
-  [bias-variance](../LEPL1109/Bias-variance%20tradeoff%20and%20dimensionality.md).
+  [bias-variance](../../EPL/1109/Bias-variance%20tradeoff%20and%20dimensionality.md).
 - GP regression:
-  [Gaussian processes](../LEPL1109/Gaussian-process%20regression.md).
+  [Gaussian processes](../../EPL/1109/Gaussian-process%20regression.md).

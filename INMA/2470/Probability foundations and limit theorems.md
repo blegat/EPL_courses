@@ -17,6 +17,5 @@
 
 ## Related courses
 
-- Detailed prerequisite map: [LEPL1109 — probability foundations and random variables](../LEPL1109/Probability%20foundations%20and%20random%20variables.md)
-- Finite-sample extension: [LDACS1110 — concentration inequalities](../LDACS1110/Concentration%20inequalities.md)
-
+- Detailed prerequisite map: [LEPL1109 — probability foundations and random variables](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
+- Finite-sample extension: [LDACS1110 — concentration inequalities](../../DACS/1110/Concentration%20inequalities.md)

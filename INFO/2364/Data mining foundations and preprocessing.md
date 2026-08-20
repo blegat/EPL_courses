@@ -8,6 +8,5 @@ Source: `S0`, pp. 2–71.
 
 ## Related courses
 
-- [Learning problems and classification workflow](../LINFO2262/Learning%20problems%20and%20classification%20workflow.md) gives the corresponding supervised-learning workflow.
+- [Learning problems and classification workflow](../../INFO/2262/Learning%20problems%20and%20classification%20workflow.md) gives the corresponding supervised-learning workflow.
 - [Frequent itemset mining algorithms](Frequent%20itemset%20mining%20algorithms.md) develops the first major pattern-mining family.
-

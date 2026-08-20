@@ -21,7 +21,6 @@
 
 ## Related courses
 
-- Motivation: [LEPL1109 — bias–variance and dimensionality](../LEPL1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
-- Information criterion: [LDACS1110 — KL divergence and mutual information](../LDACS1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
-- Regularization: [LDACS1110 — MAP estimation and regularization](../LDACS1110/MAP%20estimation%20and%20regularization.md)
-
+- Motivation: [LEPL1109 — bias–variance and dimensionality](../../EPL/1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
+- Information criterion: [LDACS1110 — KL divergence and mutual information](../../DACS/1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
+- Regularization: [LDACS1110 — MAP estimation and regularization](../../DACS/1110/MAP%20estimation%20and%20regularization.md)

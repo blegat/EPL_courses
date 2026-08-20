@@ -13,6 +13,5 @@
 
 ## Related courses
 
-- Probability prerequisite: [LEPL1109 — dependence and multivariate probability](../LEPL1109/Dependence%20and%20multivariate%20probability.md)
+- Probability prerequisite: [LEPL1109 — dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
 - Projection counterpart: [Fisher discriminant analysis](Fisher%20discriminant%20analysis.md)
-

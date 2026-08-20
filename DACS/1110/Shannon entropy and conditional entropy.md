@@ -49,13 +49,13 @@ $$
 ### LEPL1109 dependency
 
 - Discrete distributions and expectation of functions:
-  [probability foundations](../LEPL1109/Probability%20foundations%20and%20random%20variables.md)
+  [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
   [STAT, pp. 7-15].
 - Joint and conditional distributions:
-  [random vectors and conditioning](../LEPL1109/Dependence%20and%20multivariate%20probability.md#random-vectors-and-conditioning)
+  [random vectors and conditioning](../../EPL/1109/Dependence%20and%20multivariate%20probability.md#random-vectors-and-conditioning)
   [STAT, pp. 60-71].
 - Logistic cross-entropy is known as a loss, but entropy theory is not:
-  [logistic regression](../LEPL1109/Logistic%20regression%20and%20classification%20assessment.md#logistic-regression)
+  [logistic regression](../../EPL/1109/Logistic%20regression%20and%20classification%20assessment.md#logistic-regression)
   [SL-2, pp. 33-35].
 
 ### What is new beyond LEPL1109

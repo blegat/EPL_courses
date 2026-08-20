@@ -11,4 +11,4 @@ Source: `LM`, pp. 76–99.
 - [Heteroskedasticity and autocorrelation](Heteroskedasticity%20and%20autocorrelation.md) studies failures of the classical covariance assumptions.
 - [OLS estimation and projection geometry](OLS%20estimation%20and%20projection%20geometry.md) provides the algebraic estimator.
 - [Maximum likelihood in Gaussian linear models](Maximum%20likelihood%20in%20Gaussian%20linear%20models.md) adds a full distributional assumption.
-- [Parametric estimation](../LEPL1109/Parametric%20estimation.md) places unbiasedness, efficiency, and consistency in a general framework.
+- [Parametric estimation](../../EPL/1109/Parametric%20estimation.md) places unbiasedness, efficiency, and consistency in a general framework.

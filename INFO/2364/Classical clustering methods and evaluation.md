@@ -8,7 +8,6 @@ Source: `S9`, pp. 2–127.
 
 ## Related courses
 
-- [Instance-based learning, prototypes, and clustering](../LINFO2262/Instance-based%20learning,%20prototypes,%20and%20clustering.md) introduces prototype and distance-based viewpoints.
+- [Instance-based learning, prototypes, and clustering](../../INFO/2262/Instance-based%20learning,%20prototypes,%20and%20clustering.md) introduces prototype and distance-based viewpoints.
 - [Advanced clustering and biclustering](Advanced%20clustering%20and%20biclustering.md) treats soft, high-dimensional, and structured variants.
 - [Outlier and anomaly detection](Outlier%20and%20anomaly%20detection.md) reuses distance and density concepts.
-

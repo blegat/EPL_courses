@@ -12,4 +12,4 @@ Source: `LM`, pp. 36–75.
 - [Outliers, leverage, and influential observations](Outliers,%20leverage,%20and%20influential%20observations.md) uses the projection's hat matrix.
 - [Regression specification and interpretation](Regression%20specification%20and%20interpretation.md) defines the model being fitted.
 - [Statistical properties of OLS](Statistical%20properties%20of%20OLS.md) studies the estimator under stochastic assumptions.
-- [Linear regression and ANOVA](../LEPL1109/Linear%20regression%20and%20ANOVA.md) develops the same projection and variance decomposition.
+- [Linear regression and ANOVA](../../EPL/1109/Linear%20regression%20and%20ANOVA.md) develops the same projection and variance decomposition.

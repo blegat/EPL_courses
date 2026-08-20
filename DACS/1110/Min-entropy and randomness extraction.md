@@ -62,8 +62,8 @@ hash-function seed to remain secret because the joint output includes it.
 ### LEPL1109 dependency
 
 - Discrete/joint distributions and independence:
-  [probability foundations](../LEPL1109/Probability%20foundations%20and%20random%20variables.md)
-  and [dependence](../LEPL1109/Dependence%20and%20multivariate%20probability.md).
+  [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
+  and [dependence](../../EPL/1109/Dependence%20and%20multivariate%20probability.md).
 - Shannon entropy, statistical distance, and universal hashing are new FoL
   prerequisites and should precede the lemma.
 

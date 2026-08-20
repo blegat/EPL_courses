@@ -24,5 +24,4 @@
 ## Related courses
 
 - Foundation: [Linear quadratic Gaussian control](Linear%20quadratic%20Gaussian%20control.md)
-- Estimation background: [LEPL1109 — parametric estimation](../LEPL1109/Parametric%20estimation.md)
-
+- Estimation background: [LEPL1109 — parametric estimation](../../EPL/1109/Parametric%20estimation.md)
