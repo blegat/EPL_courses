@@ -74,3 +74,7 @@ foundations of entropy, statistical distance, and hashing.
 ### Bibliography
 
 [B3, Chs. 7-9](README.md#b3), [B4, Chs. 10-12](README.md#b4).
+
+### Related courses
+
+- Sequential extension: [LINMA2725 — Markov systems, invariant measures, and ergodicity](../LINMA2725/Markov%20systems,%20invariant%20measures,%20and%20ergodicity.md)

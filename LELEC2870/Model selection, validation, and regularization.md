@@ -26,4 +26,4 @@
 - Prerequisite: [LEPL1109 — resampling, model assessment, and model selection](../LEPL1109/Resampling,%20model%20assessment,%20and%20model%20selection.md)
 - Prerequisite: [LEPL1109 — bias–variance tradeoff](../LEPL1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
 - Theoretical extension: [LDACS1110 — MAP estimation and regularization](../LDACS1110/MAP%20estimation%20and%20regularization.md)
-
+- Sequential optimization: [LINMA2725 — advantage functions and actor-critic methods](../LINMA2725/Advantage%20functions%20and%20actor-critic%20methods.md)

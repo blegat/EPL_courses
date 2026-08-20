@@ -103,3 +103,8 @@ stable functions of independent data.
 ### Bibliography
 
 [B2](README.md#b2), [B12, Chs. 2-3](README.md#b12), [B7, Parts I-II](README.md#b7).
+
+### Related courses
+
+- Sequential-learning use: [LINMA2725 — exploration and stochastic-approximation ODEs](../LINMA2725/Exploration%20and%20stochastic-approximation%20ODEs.md)
+- Regret analysis: [LINMA2725 — multi-armed bandits and regret](../LINMA2725/Multi-armed%20bandits%20and%20regret.md)

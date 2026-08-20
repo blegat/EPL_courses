@@ -23,3 +23,4 @@
 - Statistical formulation: [LEPL1109 — linear regression and ANOVA](../LEPL1109/Linear%20regression%20and%20ANOVA.md)
 - Nonlinear extension: [Multilayer perceptrons and backpropagation](Multilayer%20perceptrons%20and%20backpropagation.md)
 - Large-margin extension: [Support-vector machines and kernels](Support-vector%20machines%20and%20kernels.md)
+- Sequential approximation: [LINMA2725 — value-function approximation architectures](../LINMA2725/Value-function%20approximation%20architectures.md)

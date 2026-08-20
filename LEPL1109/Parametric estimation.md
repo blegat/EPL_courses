@@ -40,3 +40,6 @@
 - Related LDACS1110 topic: [Bayesian inference](../LDACS1110/Bayesian%20inference.md)
 - Related LDACS1110 topic: [KL divergence, cross-entropy, and mutual information](../LDACS1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
 - Related LDACS1110 topic: [MAP estimation and regularization](../LDACS1110/MAP%20estimation%20and%20regularization.md)
+- Sequential use: [LINMA2725 — fluid models, policy sensitivity, and score functions](../LINMA2725/Fluid%20models,%20policy%20sensitivity,%20and%20score%20functions.md)
+- Sequential use: [LINMA2725 — multi-armed bandits and regret](../LINMA2725/Multi-armed%20bandits%20and%20regret.md)
+- Sequential use: [LINMA2725 — adaptive LQR and partially observable control](../LINMA2725/Adaptive%20LQR%20and%20partially%20observable%20control.md)

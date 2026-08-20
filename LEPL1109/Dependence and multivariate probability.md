@@ -45,3 +45,5 @@
 - Related LDACS1110 topic: [Min-entropy and randomness extraction](../LDACS1110/Min-entropy%20and%20randomness%20extraction.md)
 - Related LDACS1110 topic: [Randomized algorithms and probabilistic analysis](../LDACS1110/Randomized%20algorithms%20and%20probabilistic%20analysis.md)
 - Related LDACS1110 topic: [Shannon entropy and conditional entropy](../LDACS1110/Shannon%20entropy%20and%20conditional%20entropy.md)
+- Control application: [LINMA2725 — linear quadratic Gaussian control](../LINMA2725/Linear%20quadratic%20Gaussian%20control.md)
+- Sequential extension: [LINMA2725 — Markov systems, invariant measures, and ergodicity](../LINMA2725/Markov%20systems,%20invariant%20measures,%20and%20ergodicity.md)

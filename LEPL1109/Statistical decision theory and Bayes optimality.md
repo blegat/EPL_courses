@@ -31,3 +31,5 @@
 - Related LDACS1110 topic: [Monte Carlo estimation](../LDACS1110/Monte%20Carlo%20estimation.md)
 - Related LDACS1110 topic: [PAC learning and finite-class sample complexity](../LDACS1110/PAC%20learning%20and%20finite-class%20sample%20complexity.md)
 - Related LDACS1110 topic: [Sample compression and description length](../LDACS1110/Sample%20compression%20and%20description%20length.md)
+- Sequential extension: [LINMA2725 — Bellman equations, value iteration, and policy iteration](../LINMA2725/Bellman%20equations,%20value%20iteration,%20and%20policy%20iteration.md)
+- Sequential extension: [LINMA2725 — stochastic optimal control and dynamic programming](../LINMA2725/Stochastic%20optimal%20control%20and%20dynamic%20programming.md)

@@ -32,4 +32,4 @@
 - Autoencoder/embedding connection: [Nonlinear dimensionality reduction and quality assessment](Nonlinear%20dimensionality%20reduction%20and%20quality%20assessment.md)
 - Prerequisite boundary: [LEPL1109 — explicitly extra or not covered](../LEPL1109/Explicitly%20extra,%20deferred,%20or%20not%20covered.md)
 - Robustness context: [LDACS1110 — robustness and distribution shift](../LDACS1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)
-
+- Reinforcement-learning use: [LINMA2725 — deep and convex Q-learning](../LINMA2725/Deep%20and%20convex%20Q-learning.md)
