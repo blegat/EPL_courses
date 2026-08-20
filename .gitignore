@@ -1,1 +1,9 @@
 *.pdf
+
+# Generated website output
+/website/content/
+/website/public/
+/website/static/graph.json
+/website/static/graph/
+/website/graph/dist/
+/website/target/

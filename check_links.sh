@@ -36,6 +36,7 @@ def markdown_files() -> list[Path]:
         path.resolve()
         for path in ROOT.rglob("*.md")
         if not any(part in IGNORED_DIRS for part in path.relative_to(ROOT).parts)
+        and not is_git_ignored(path)
     )
 
 
