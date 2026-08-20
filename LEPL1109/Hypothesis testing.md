@@ -25,3 +25,7 @@
   test is mentioned for two-sided equality [STAT, pp. 162-165].
 - Students calculate tests manually and through SciPy routines [STAT,
   pp. 146, 150, 161, 164-165].
+
+## Related courses
+
+- Linear-model application: [LSTAT2120 — inference, confidence regions, and hypothesis tests](../LSTAT2120/Inference,%20confidence%20regions,%20and%20hypothesis%20tests.md)

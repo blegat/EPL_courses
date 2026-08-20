@@ -37,6 +37,8 @@
 
 ## Related courses
 
+- Linear-model application: [LSTAT2120 — statistical properties of OLS](../LSTAT2120/Statistical%20properties%20of%20OLS.md)
+- Gaussian likelihood application: [LSTAT2120 — maximum likelihood in Gaussian linear models](../LSTAT2120/Maximum%20likelihood%20in%20Gaussian%20linear%20models.md)
 - Related LDACS1110 topic: [Bayesian inference](../LDACS1110/Bayesian%20inference.md)
 - Related LDACS1110 topic: [KL divergence, cross-entropy, and mutual information](../LDACS1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
 - Related LDACS1110 topic: [MAP estimation and regularization](../LDACS1110/MAP%20estimation%20and%20regularization.md)

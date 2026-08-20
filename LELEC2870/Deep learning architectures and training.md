@@ -28,6 +28,7 @@
 
 ## Related courses
 
+- Classification survey: [LINFO2262 — deep neural classification](../LINFO2262/Deep%20neural%20classification.md)
 - Foundation: [Multilayer perceptrons and backpropagation](Multilayer%20perceptrons%20and%20backpropagation.md)
 - Autoencoder/embedding connection: [Nonlinear dimensionality reduction and quality assessment](Nonlinear%20dimensionality%20reduction%20and%20quality%20assessment.md)
 - Prerequisite boundary: [LEPL1109 — explicitly extra or not covered](../LEPL1109/Explicitly%20extra,%20deferred,%20or%20not%20covered.md)

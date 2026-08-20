@@ -27,6 +27,7 @@
 
 ## Related courses
 
+- Classification application: [LINFO2262 — classifier performance and model comparison](../LINFO2262/Classifier%20performance%20and%20model%20comparison.md)
 - Follow-on: [LELEC2870 — model selection, validation, and regularization](../LELEC2870/Model%20selection,%20validation,%20and%20regularization.md)
 - Related LDACS1110 topic: [Integrated learning applications](../LDACS1110/Integrated%20learning%20applications.md)
 - Related LDACS1110 topic: [PAC learning and finite-class sample complexity](../LDACS1110/PAC%20learning%20and%20finite-class%20sample%20complexity.md)

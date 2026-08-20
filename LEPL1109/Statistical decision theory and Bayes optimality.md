@@ -26,6 +26,7 @@
 
 ## Related courses
 
+- Classification extension: [LINFO2262 — Bayesian decision theory, MAP, and ROC analysis](../LINFO2262/Bayesian%20decision%20theory,%20MAP,%20and%20ROC%20analysis.md)
 - Related LDACS1110 topic: [Bayesian inference](../LDACS1110/Bayesian%20inference.md)
 - Related LDACS1110 topic: [Fano's inequality and information-theoretic lower bounds](<../LDACS1110/Fano's%20inequality%20and%20information-theoretic%20lower%20bounds.md>)
 - Related LDACS1110 topic: [Monte Carlo estimation](../LDACS1110/Monte%20Carlo%20estimation.md)

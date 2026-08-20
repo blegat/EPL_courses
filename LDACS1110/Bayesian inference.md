@@ -85,3 +85,7 @@ sets, and posterior prediction.
 ### Bibliography
 
 [B4, Chs. 1-5](README.md#b4), [B6](README.md#b6), [B8](README.md#b8).
+
+### Related courses
+
+- Classification application: [LINFO2262 — Bayesian decision theory, MAP, and ROC analysis](../LINFO2262/Bayesian%20decision%20theory,%20MAP,%20and%20ROC%20analysis.md)

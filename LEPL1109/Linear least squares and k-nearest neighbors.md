@@ -39,6 +39,7 @@
 
 ## Related courses
 
+- Follow-on: [LINFO2262 — instance-based learning, prototypes, and clustering](../LINFO2262/Instance-based%20learning,%20prototypes,%20and%20clustering.md)
 - Follow-on: [LELEC2870 — linear regression, optimization, and the perceptron](../LELEC2870/Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
 - Related LDACS1110 topic: [VC dimension and growth functions](../LDACS1110/VC%20dimension%20and%20growth%20functions.md)
 - Sequential use: [LINMA2725 — temporal-difference learning and projected Bellman equations](../LINMA2725/Temporal-difference%20learning%20and%20projected%20Bellman%20equations.md)

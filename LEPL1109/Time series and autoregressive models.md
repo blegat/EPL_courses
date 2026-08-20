@@ -21,5 +21,6 @@
 
 ## Related courses
 
+- Regression diagnostics: [LSTAT2120 — heteroskedasticity and autocorrelation](../LSTAT2120/Heteroskedasticity%20and%20autocorrelation.md)
 - Related LDACS1110 topic: [Markov-chain Monte Carlo](../LDACS1110/Markov-chain%20Monte%20Carlo.md)
 - Sequential extension: [LINMA2725 — Poisson equations and stochastic cost criteria](../LINMA2725/Poisson%20equations%20and%20stochastic%20cost%20criteria.md)

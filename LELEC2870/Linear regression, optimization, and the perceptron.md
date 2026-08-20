@@ -19,6 +19,7 @@
 
 ## Related courses
 
+- Classification follow-on: [LINFO2262 — linear discriminants and perceptron learning](../LINFO2262/Linear%20discriminants%20and%20perceptron%20learning.md)
 - Prerequisite: [LEPL1109 — linear least squares and k-nearest neighbors](../LEPL1109/Linear%20least%20squares%20and%20k-nearest%20neighbors.md)
 - Statistical formulation: [LEPL1109 — linear regression and ANOVA](../LEPL1109/Linear%20regression%20and%20ANOVA.md)
 - Nonlinear extension: [Multilayer perceptrons and backpropagation](Multilayer%20perceptrons%20and%20backpropagation.md)

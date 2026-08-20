@@ -36,6 +36,7 @@
 
 ## Related courses
 
+- Classification application: [LINFO2262 — naive Bayes and Gaussian classifiers](../LINFO2262/Naive%20Bayes%20and%20Gaussian%20classifiers.md)
 - Follow-on decorrelation: [LELEC2870 — principal component analysis](../LELEC2870/Principal%20component%20analysis.md)
 - Follow-on independence modeling: [LELEC2870 — independent component analysis](../LELEC2870/Independent%20component%20analysis.md)
 - Related LDACS1110 topic: [Bayesian inference](../LDACS1110/Bayesian%20inference.md)

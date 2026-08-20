@@ -49,6 +49,9 @@
 
 ## Related courses
 
+- Linear-model specification: [LSTAT2120 — regression specification and interpretation](../LSTAT2120/Regression%20specification%20and%20interpretation.md)
+- Geometric development: [LSTAT2120 — OLS estimation and projection geometry](../LSTAT2120/OLS%20estimation%20and%20projection%20geometry.md)
+- Categorical-model development: [LSTAT2120 — dummy variables, interactions, and ANOVA](../LSTAT2120/Dummy%20variables,%20interactions,%20and%20ANOVA.md)
 - Algorithmic continuation: [LELEC2870 — linear regression, optimization, and the perceptron](../LELEC2870/Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
 - Related LDACS1110 topic: [Causal inference](../LDACS1110/Causal%20inference.md)
 - Related LDACS1110 topic: [MAP estimation and regularization](../LDACS1110/MAP%20estimation%20and%20regularization.md)

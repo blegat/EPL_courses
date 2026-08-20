@@ -20,6 +20,7 @@
 
 ## Related courses
 
+- Classification survey: [LINFO2262 — support-vector machines and kernels](../LINFO2262/Support-vector%20machines%20and%20kernels.md)
 - Linear precursor: [Linear regression, optimization, and the perceptron](Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
 - Prerequisite boundary: [LEPL1109 — explicitly extra or not covered](../LEPL1109/Explicitly%20extra,%20deferred,%20or%20not%20covered.md)
 - Kernel connection: [LEPL1109 — Gaussian-process regression](../LEPL1109/Gaussian-process%20regression.md)
