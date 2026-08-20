@@ -84,4 +84,4 @@ sets, and posterior prediction.
 
 ### Bibliography
 
-[B4, Chs. 1-5](content.md#b4), [B6](content.md#b6), [B8](content.md#b8).
+[B4, Chs. 1-5](README.md#b4), [B6](README.md#b6), [B8](README.md#b8).

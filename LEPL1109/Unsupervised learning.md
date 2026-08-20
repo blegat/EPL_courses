@@ -96,3 +96,4 @@
 - Follow-on embeddings: [LELEC2870 — nonlinear dimensionality reduction and quality assessment](../LELEC2870/Nonlinear%20dimensionality%20reduction%20and%20quality%20assessment.md)
 - Follow-on clustering: [LELEC2870 — vector quantization and prototype clustering](../LELEC2870/Vector%20quantization%20and%20prototype%20clustering.md)
 - Follow-on topology-preserving learning: [LELEC2870 — self-organizing maps](../LELEC2870/Self-organizing%20maps%20and%20topology-preserving%20learning.md)
+- Related LDACS1110 topic: [Sample compression and description length](../LDACS1110/Sample%20compression%20and%20description%20length.md)

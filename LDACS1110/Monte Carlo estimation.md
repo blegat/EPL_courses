@@ -73,4 +73,4 @@ is unbiased, with an optimal coefficient determined by covariance.
 
 ### Bibliography
 
-[B3, Chs. 3-4](content.md#b3), [B4, Chs. 10-11](content.md#b4), [B2](content.md#b2).
+[B3, Chs. 3-4](README.md#b3), [B4, Chs. 10-11](README.md#b4), [B2](README.md#b2).

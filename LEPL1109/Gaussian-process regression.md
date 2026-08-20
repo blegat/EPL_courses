@@ -25,3 +25,5 @@
 ## Related courses
 
 - Kernel-method connection: [LELEC2870 — support-vector machines and kernels](../LELEC2870/Support-vector%20machines%20and%20kernels.md)
+- Related LDACS1110 topic: [Gaussian-process regression as Bayesian learning](../LDACS1110/Gaussian-process%20regression%20as%20Bayesian%20learning.md)
+- Related LDACS1110 topic: [Integrated learning applications](../LDACS1110/Integrated%20learning%20applications.md)

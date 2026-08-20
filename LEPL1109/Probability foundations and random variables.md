@@ -65,3 +65,14 @@ p. 2]:
 - Bivariate and multivariate normal distributions, covariance parameterization,
   normal linear combinations, zero-correlation/independence equivalence in the
   jointly normal case, and affine closure [APP, pp. 34-37].
+
+## Related courses
+
+- Related LDACS1110 topic: [Concentration inequalities](../LDACS1110/Concentration%20inequalities.md)
+- Related LDACS1110 topic: [Direct and weighted sampling methods](../LDACS1110/Direct%20and%20weighted%20sampling%20methods.md)
+- Related LDACS1110 topic: [Min-entropy and randomness extraction](../LDACS1110/Min-entropy%20and%20randomness%20extraction.md)
+- Related LDACS1110 topic: [Monte Carlo estimation](../LDACS1110/Monte%20Carlo%20estimation.md)
+- Related LDACS1110 topic: [Randomized algorithms and probabilistic analysis](../LDACS1110/Randomized%20algorithms%20and%20probabilistic%20analysis.md)
+- Related LDACS1110 topic: [Shannon entropy and conditional entropy](../LDACS1110/Shannon%20entropy%20and%20conditional%20entropy.md)
+- Related LDACS1110 topic: [Statistical distance and couplings](../LDACS1110/Statistical%20distance%20and%20couplings.md)
+- Related LDACS1110 topic: [Universal hashing and randomized hash maps](../LDACS1110/Universal%20hashing%20and%20randomized%20hash%20maps.md)

@@ -44,4 +44,4 @@ Low direct value for the listed cryptography syllabus.
 
 ### Bibliography
 
-[B3, Chs. 3-4](content.md#b3), [B4](content.md#b4).
+[B3, Chs. 3-4](README.md#b3), [B4](README.md#b4).

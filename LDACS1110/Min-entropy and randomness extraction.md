@@ -82,4 +82,4 @@ hash-function seed to remain secret because the joint output includes it.
 
 ### Bibliography
 
-[B11, Ch. 6](content.md#b11), [B17](content.md#b17).
+[B11, Ch. 6](README.md#b11), [B17](README.md#b17).

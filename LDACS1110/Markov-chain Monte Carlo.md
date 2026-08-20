@@ -73,4 +73,4 @@ foundations of entropy, statistical distance, and hashing.
 
 ### Bibliography
 
-[B3, Chs. 7-9](content.md#b3), [B4, Chs. 10-12](content.md#b4).
+[B3, Chs. 7-9](README.md#b3), [B4, Chs. 10-12](README.md#b4).

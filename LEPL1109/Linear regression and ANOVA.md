@@ -50,3 +50,5 @@
 ## Related courses
 
 - Algorithmic continuation: [LELEC2870 — linear regression, optimization, and the perceptron](../LELEC2870/Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
+- Related LDACS1110 topic: [Causal inference](../LDACS1110/Causal%20inference.md)
+- Related LDACS1110 topic: [MAP estimation and regularization](../LDACS1110/MAP%20estimation%20and%20regularization.md)

@@ -38,3 +38,10 @@
 
 - Follow-on decorrelation: [LELEC2870 — principal component analysis](../LELEC2870/Principal%20component%20analysis.md)
 - Follow-on independence modeling: [LELEC2870 — independent component analysis](../LELEC2870/Independent%20component%20analysis.md)
+- Related LDACS1110 topic: [Bayesian inference](../LDACS1110/Bayesian%20inference.md)
+- Related LDACS1110 topic: [Causal inference](../LDACS1110/Causal%20inference.md)
+- Related LDACS1110 topic: [KL divergence, cross-entropy, and mutual information](../LDACS1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
+- Related LDACS1110 topic: [Markov-chain Monte Carlo](../LDACS1110/Markov-chain%20Monte%20Carlo.md)
+- Related LDACS1110 topic: [Min-entropy and randomness extraction](../LDACS1110/Min-entropy%20and%20randomness%20extraction.md)
+- Related LDACS1110 topic: [Randomized algorithms and probabilistic analysis](../LDACS1110/Randomized%20algorithms%20and%20probabilistic%20analysis.md)
+- Related LDACS1110 topic: [Shannon entropy and conditional entropy](../LDACS1110/Shannon%20entropy%20and%20conditional%20entropy.md)

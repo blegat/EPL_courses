@@ -18,3 +18,7 @@
   more strongly [STAT, pp. 217-220; SUPP, pp. 12-15].
 - Partial autocorrelation is explicitly mentioned but not covered [STAT,
   p. 220; SUPP, p. 15].
+
+## Related courses
+
+- Related LDACS1110 topic: [Markov-chain Monte Carlo](../LDACS1110/Markov-chain%20Monte%20Carlo.md)

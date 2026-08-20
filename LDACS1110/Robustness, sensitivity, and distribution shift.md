@@ -44,7 +44,7 @@ property quantified over efficient adversaries.
 
 ### Bibliography
 
-[B10](content.md#b10), [B7](content.md#b7), [B12](content.md#b12).
+[B10](README.md#b10), [B7](README.md#b7), [B12](README.md#b12).
 
 ### Related courses
 

@@ -10,20 +10,20 @@ design of a later course that takes LEPL1109 as a prerequisite.
   file. This remains unambiguous when a printed slide number differs from the
   PDF page.
 - `STAT` =
-  [`Slides partie 1 statistics-20260814/Slides_25_26.pdf`](Slides%20partie%201%20statistics-20260814/Slides_25_26.pdf).
+  [`slides/Slides partie 1 statistics-20260814/Slides_25_26.pdf`](slides/Slides%20partie%201%20statistics-20260814/Slides_25_26.pdf).
 - `APP` =
-  [`Slides partie 1 statistics-20260814/Appendix1.pdf`](Slides%20partie%201%20statistics-20260814/Appendix1.pdf).
+  [`slides/Slides partie 1 statistics-20260814/Appendix1.pdf`](slides/Slides%20partie%201%20statistics-20260814/Appendix1.pdf).
 - `FORM` =
-  [`Slides partie 1 statistics-20260814/formulaire.pdf`](Slides%20partie%201%20statistics-20260814/formulaire.pdf).
+  [`slides/Slides partie 1 statistics-20260814/formulaire.pdf`](slides/Slides%20partie%201%20statistics-20260814/formulaire.pdf).
 - `SUPP` =
-  [`Slides partie 1 statistics-20260814/slides_supplémentaires.pdf`](Slides%20partie%201%20statistics-20260814/slides_suppl%C3%A9mentaires.pdf).
+  [`slides/Slides partie 1 statistics-20260814/slides_supplémentaires.pdf`](slides/Slides%20partie%201%20statistics-20260814/slides_suppl%C3%A9mentaires.pdf).
 - `ERR` =
-  [`Slides partie 1 statistics-20260814/typo_25-26_stat.pdf`](Slides%20partie%201%20statistics-20260814/typo_25-26_stat.pdf).
-- `DS-I` = [`DS_intro_handout.pdf`](DS_intro_handout.pdf).
-- `SL-1` = [`SL_1_handout.pdf`](SL_1_handout.pdf).
-- `SL-2` = [`SL_2_handout.pdf`](SL_2_handout.pdf).
-- `SL-3` = [`SL_3_handout.pdf`](SL_3_handout.pdf).
-- `UL` = [`UL_handout.pdf`](UL_handout.pdf).
+  [`slides/Slides partie 1 statistics-20260814/typo_25-26_stat.pdf`](slides/Slides%20partie%201%20statistics-20260814/typo_25-26_stat.pdf).
+- `DS-I` = [`slides/DS_intro_handout.pdf`](slides/DS_intro_handout.pdf).
+- `SL-1` = [`slides/SL_1_handout.pdf`](slides/SL_1_handout.pdf).
+- `SL-2` = [`slides/SL_2_handout.pdf`](slides/SL_2_handout.pdf).
+- `SL-3` = [`slides/SL_3_handout.pdf`](slides/SL_3_handout.pdf).
+- `UL` = [`slides/UL_handout.pdf`](slides/UL_handout.pdf).
 - The data-science exam scope includes all slides not tagged "Extra Material",
   lecture additions, and definitions/concepts from practical sessions and the
   hackathon. External links are excluded. Students must explain definitions and

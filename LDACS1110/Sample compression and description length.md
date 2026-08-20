@@ -46,4 +46,4 @@ Moderate proof-pattern value through counting and encodings.
 
 ### Bibliography
 
-[B15](content.md#b15), [B8](content.md#b8).
+[B15](README.md#b15), [B8](README.md#b8).

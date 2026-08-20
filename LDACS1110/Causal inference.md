@@ -51,4 +51,4 @@ realistic; a responsible causal-inference module requires more time.
 
 ### Bibliography
 
-[B10, Chs. 9-10](content.md#b10), [B13](content.md#b13), [B14](content.md#b14).
+[B10, Chs. 9-10](README.md#b10), [B13](README.md#b13), [B14](README.md#b14).

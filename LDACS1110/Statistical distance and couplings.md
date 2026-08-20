@@ -64,4 +64,4 @@ $$
 
 ### Bibliography
 
-[B11, Chs. 3 and 6](content.md#b11), [B17, probability appendix](content.md#b17).
+[B11, Chs. 3 and 6](README.md#b11), [B17, probability appendix](README.md#b17).

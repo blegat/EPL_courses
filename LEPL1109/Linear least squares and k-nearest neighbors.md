@@ -40,3 +40,4 @@
 ## Related courses
 
 - Follow-on: [LELEC2870 — linear regression, optimization, and the perceptron](../LELEC2870/Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
+- Related LDACS1110 topic: [VC dimension and growth functions](../LDACS1110/VC%20dimension%20and%20growth%20functions.md)

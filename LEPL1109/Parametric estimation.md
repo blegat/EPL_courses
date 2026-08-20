@@ -34,3 +34,9 @@
 - Normal variance MLE uses denominator $n$ and has expectation
   $(n-1)\sigma^2/n$; replacing it by denominator $n-1$ gives the unbiased
   sample variance [STAT, pp. 104-105].
+
+## Related courses
+
+- Related LDACS1110 topic: [Bayesian inference](../LDACS1110/Bayesian%20inference.md)
+- Related LDACS1110 topic: [KL divergence, cross-entropy, and mutual information](../LDACS1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
+- Related LDACS1110 topic: [MAP estimation and regularization](../LDACS1110/MAP%20estimation%20and%20regularization.md)

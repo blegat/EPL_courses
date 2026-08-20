@@ -51,7 +51,7 @@ outcome linking uncertainty, regularization, and generalization.
 
 ### Bibliography
 
-[B6](content.md#b6), [B8](content.md#b8), [B9](content.md#b9).
+[B6](README.md#b6), [B8](README.md#b8), [B9](README.md#b9).
 
 ### Related courses
 

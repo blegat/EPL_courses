@@ -26,3 +26,7 @@
 `FORM`, pp. 1-2 consolidates these pivots, degrees of freedom, and quantile
 conventions, indicating that students are expected to select the correct law
 from the assumptions rather than merely memorize isolated formulas.
+
+## Related courses
+
+- Related LDACS1110 topic: [Bayesian inference](../LDACS1110/Bayesian%20inference.md)

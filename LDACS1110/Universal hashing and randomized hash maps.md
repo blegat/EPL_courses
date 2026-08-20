@@ -53,4 +53,4 @@ pairwise-independent family.
 
 ### Bibliography
 
-[B1, Ch. 11](content.md#b1), [B11, Ch. 6](content.md#b11), [B17, universal hashing](content.md#b17).
+[B1, Ch. 11](README.md#b1), [B11, Ch. 6](README.md#b11), [B17, universal hashing](README.md#b17).

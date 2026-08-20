@@ -104,4 +104,4 @@ samples, but only relative to the actual representation/modeling assumptions.
 
 ### Bibliography
 
-[B7, Parts I-II](content.md#b7), [B8, Chs. 2-6](content.md#b8), [B10, Ch. 6](content.md#b10).
+[B7, Parts I-II](README.md#b7), [B8, Chs. 2-6](README.md#b8), [B10, Ch. 6](README.md#b10).

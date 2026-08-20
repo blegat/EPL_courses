@@ -23,3 +23,11 @@
 - A Gaussian-mixture example derives the Bayes decision by comparing
   class-conditional density times prior and compares it with k-NN [SL-3,
   pp. 17-19].
+
+## Related courses
+
+- Related LDACS1110 topic: [Bayesian inference](../LDACS1110/Bayesian%20inference.md)
+- Related LDACS1110 topic: [Fano's inequality and information-theoretic lower bounds](<../LDACS1110/Fano's%20inequality%20and%20information-theoretic%20lower%20bounds.md>)
+- Related LDACS1110 topic: [Monte Carlo estimation](../LDACS1110/Monte%20Carlo%20estimation.md)
+- Related LDACS1110 topic: [PAC learning and finite-class sample complexity](../LDACS1110/PAC%20learning%20and%20finite-class%20sample%20complexity.md)
+- Related LDACS1110 topic: [Sample compression and description length](../LDACS1110/Sample%20compression%20and%20description%20length.md)

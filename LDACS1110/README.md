@@ -13,23 +13,23 @@ contact hours, so the complete catalogue cannot be taught in one edition.
 
 - The course has 30 hours of lectures and 30 hours of practical work, is worth
   5 credits, and is taught in English
-  [[course template, p. 1](../Template_fiche%20et%20cahier%20des%20charges.pdf#page=1)].
+  [[course template, p. 1](slides/Template_fiche%20et%20cahier%20des%20charges.pdf#page=1)].
 - The first 15 hours are FoL for engineering students and precede the FoC part
-  [[FoLC proposal, p. 1](../FoLC.pdf#page=1)].
+  [[FoLC proposal, p. 1](slides/FoLC.pdf#page=1)].
 - Prerequisites are LEPL1101 Linear Algebra, LEPL1109 Statistics and Data
   Science, and LEPL1402 Computer Science II; LEPL1108 Discrete Mathematics and
   Probability is prior knowledge
-  [[course template, p. 1](../Template_fiche%20et%20cahier%20des%20charges.pdf#page=1)].
+  [[course template, p. 1](slides/Template_fiche%20et%20cahier%20des%20charges.pdf#page=1)].
 - The prescribed FoL headings are concentration, Monte Carlo and sampling,
   randomness and pseudorandomness, information theory, Bayesian inference and
   causality, generalization/PAC/sample complexity/compression/VC dimension,
   Gaussian-process regression, and applications
-  [[FoLC proposal, pp. 1-2](../FoLC.pdf#page=1);
-  [course template, p. 2](../Template_fiche%20et%20cahier%20des%20charges.pdf#page=2)].
+  [[FoLC proposal, pp. 1-2](slides/FoLC.pdf#page=1);
+  [course template, p. 2](slides/Template_fiche%20et%20cahier%20des%20charges.pdf#page=2)].
 - The intended learning outcomes emphasize convergence guarantees, the links
   between information/Bayesian uncertainty and learning, and the roles of
   bias-variance, regularization, generalization, evaluation, and robustness
-  [[course template, pp. 1-2](../Template_fiche%20et%20cahier%20des%20charges.pdf#page=1)].
+  [[course template, pp. 1-2](slides/Template_fiche%20et%20cahier%20des%20charges.pdf#page=1)].
 
 ## Notation used below
 
@@ -39,7 +39,7 @@ contact hours, so the complete catalogue cannot be taught in one edition.
 - **Defer**: too large, too advanced, redundant with LEPL1109, or weakly related
   to the course outcomes.
 - **LEPL1109 dependency** links point to the detailed prerequisite inventory:
-  [LEPL1109 content](../LEPL1109/content.md).
+  [LEPL1109 content](../LEPL1109/README.md).
 - PDF references after those links are physical pages of the LEPL1109 source
   named in that inventory.
 

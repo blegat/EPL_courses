@@ -36,8 +36,8 @@ prevent adequate treatment of entropy, Bayes, and the crypto bridge.
 ### LEPL1109 dependency
 
 - Empirical/expected risk, optimization, model selection, and bias-variance:
-  [Parts 13-18 of the LEPL1109 map](../LEPL1109/content.md#part-b-data-science-and-machine-learning).
+  [Parts 13-18 of the LEPL1109 map](../LEPL1109/README.md#part-b-data-science-and-machine-learning).
 
 ### Bibliography
 
-[B7](content.md#b7), [B8](content.md#b8), [B9](content.md#b9).
+[B7](README.md#b7), [B8](README.md#b8), [B9](README.md#b9).

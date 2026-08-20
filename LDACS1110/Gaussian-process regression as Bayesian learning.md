@@ -40,4 +40,4 @@ not displace shared crypto foundations.
 
 ### Bibliography
 
-[B16, Chs. 2, 4, and 5](content.md#b16), [B6](content.md#b6).
+[B16, Chs. 2, 4, and 5](README.md#b16), [B6](README.md#b6).

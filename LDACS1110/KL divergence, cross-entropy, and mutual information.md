@@ -85,7 +85,7 @@ This connects information divergence to statistical distinguishing advantage.
 
 ### Bibliography
 
-[B5, Chs. 2 and 11](content.md#b5), [B6](content.md#b6), [B7](content.md#b7).
+[B5, Chs. 2 and 11](README.md#b5), [B6](README.md#b6), [B7](README.md#b7).
 
 ### Related courses
 

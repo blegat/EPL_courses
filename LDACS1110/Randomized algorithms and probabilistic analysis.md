@@ -73,4 +73,4 @@ The transition from unlikely to likely collision occurs around `q = Theta(sqrt(N
 
 ### Bibliography
 
-[B1, Chs. 5 and 11](content.md#b1), [B2, Chs. 3-5](content.md#b2), [B11](content.md#b11).
+[B1, Chs. 5 and 11](README.md#b1), [B2, Chs. 3-5](README.md#b2), [B11](README.md#b11).

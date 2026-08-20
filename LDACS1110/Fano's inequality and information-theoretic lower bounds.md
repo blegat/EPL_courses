@@ -43,4 +43,4 @@ the probability of identification error.
 
 ### Bibliography
 
-[B5, Ch. 2](content.md#b5), [B7](content.md#b7).
+[B5, Ch. 2](README.md#b5), [B7](README.md#b7).

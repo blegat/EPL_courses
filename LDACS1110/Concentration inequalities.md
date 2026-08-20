@@ -102,4 +102,4 @@ stable functions of independent data.
 
 ### Bibliography
 
-[B2](content.md#b2), [B12, Chs. 2-3](content.md#b12), [B7, Parts I-II](content.md#b7).
+[B2](README.md#b2), [B12, Chs. 2-3](README.md#b12), [B7, Parts I-II](README.md#b7).

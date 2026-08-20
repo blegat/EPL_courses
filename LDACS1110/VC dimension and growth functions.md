@@ -55,4 +55,4 @@ little direct dependency for the listed primitives.
 
 ### Bibliography
 
-[B8, Chs. 5-7](content.md#b8), [B7](content.md#b7), [B15](content.md#b15).
+[B8, Chs. 5-7](README.md#b8), [B7](README.md#b7), [B15](README.md#b15).

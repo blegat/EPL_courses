@@ -12,3 +12,8 @@
 - Binomial normal approximation [STAT, pp. 51-52].
 - Definitions, densities, moments, numerical use, and constructions of
   chi-square, Student, and Fisher laws [STAT, pp. 54-58].
+
+## Related courses
+
+- Related LDACS1110 topic: [Concentration inequalities](../LDACS1110/Concentration%20inequalities.md)
+- Related LDACS1110 topic: [Monte Carlo estimation](../LDACS1110/Monte%20Carlo%20estimation.md)

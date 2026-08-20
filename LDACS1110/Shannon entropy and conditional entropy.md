@@ -72,4 +72,4 @@ $$
 
 ### Bibliography
 
-[B5, Ch. 2](content.md#b5), [B6, Parts I-II](content.md#b6).
+[B5, Ch. 2](README.md#b5), [B6, Parts I-II](README.md#b6).

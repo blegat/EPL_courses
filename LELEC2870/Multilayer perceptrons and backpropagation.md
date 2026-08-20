@@ -22,4 +22,4 @@
 
 - Foundation: [Linear regression, optimization, and the perceptron](Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
 - Boundary in prerequisite course: [LEPL1109 — explicitly extra or not covered](../LEPL1109/Explicitly%20extra,%20deferred,%20or%20not%20covered.md)
-
+- Follow-on: [Deep learning architectures and training](Deep%20learning%20architectures%20and%20training.md)

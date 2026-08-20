@@ -50,4 +50,4 @@ Directly foundational for every computational-security topic in part B.
 
 ### Bibliography
 
-[B11, Chs. 2-7](content.md#b11), [B17, introductory chapters](content.md#b17), [B18](content.md#b18).
+[B11, Chs. 2-7](README.md#b11), [B17, introductory chapters](README.md#b17), [B18](README.md#b18).

@@ -42,3 +42,9 @@
   ranking classifier, while random classification gives about 0.5. PR is
   preferred for rare positives/imbalanced classes or when false positives
   matter especially; ROC is suggested otherwise [SL-2, p. 50].
+
+## Related courses
+
+- Related LDACS1110 topic: [Integrated learning applications](../LDACS1110/Integrated%20learning%20applications.md)
+- Related LDACS1110 topic: [KL divergence, cross-entropy, and mutual information](../LDACS1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
+- Related LDACS1110 topic: [Shannon entropy and conditional entropy](../LDACS1110/Shannon%20entropy%20and%20conditional%20entropy.md)

@@ -13,3 +13,7 @@
   ranges/histograms/plots, impute or correct anomalies, recode, regroup, smooth,
   subset, and present each visualization for a defined analytical purpose
   [DS-I, pp. 9-11].
+
+## Related courses
+
+- Related LDACS1110 topic: [Robustness, sensitivity, and distribution shift](../LDACS1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)
