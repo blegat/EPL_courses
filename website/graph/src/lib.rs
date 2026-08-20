@@ -256,7 +256,7 @@ impl CourseGraphApp {
 impl eframe::App for CourseGraphApp {
     fn ui(&mut self, ui: &mut egui::Ui, _: &mut eframe::Frame) {
         self.sidebar_hovered_course = None;
-        ui.horizontal(|ui| {
+        ui.horizontal_top(|ui| {
             let sidebar_size = egui::vec2(285.0, ui.available_height());
             ui.allocate_ui_with_layout(
                 sidebar_size,
@@ -349,7 +349,8 @@ impl eframe::App for CourseGraphApp {
                 .with_navigations(
                     &SettingsNavigation::new()
                         .with_zoom_and_pan_enabled(true)
-                        .with_fit_to_screen_enabled(true),
+                        .with_fit_to_screen_enabled(true)
+                        .with_fit_to_screen_padding(0.03),
                 )
                 .with_styles(&SettingsStyle::new().with_labels_always(false))
                 .with_event_sink(&events);
@@ -376,6 +377,10 @@ impl eframe::App for CourseGraphApp {
             });
         });
         ui.ctx().request_repaint();
+    }
+
+    fn clear_color(&self, _: &egui::Visuals) -> [f32; 4] {
+        Color32::from_rgb(251, 250, 252).to_normalized_gamma_f32()
     }
 }
 
@@ -445,7 +450,15 @@ async fn run() -> Result<(), JsValue> {
         .start(
             canvas,
             eframe::WebOptions::default(),
-            Box::new(move |_| Ok(Box::new(CourseGraphApp::new(data)))),
+            Box::new(move |creation_context| {
+                let mut visuals = egui::Visuals::light();
+                let paper = Color32::from_rgb(251, 250, 252);
+                visuals.panel_fill = paper;
+                visuals.window_fill = paper;
+                visuals.extreme_bg_color = Color32::WHITE;
+                creation_context.egui_ctx.set_visuals(visuals);
+                Ok(Box::new(CourseGraphApp::new(data)))
+            }),
         )
         .await
 }

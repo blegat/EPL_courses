@@ -7,7 +7,7 @@
     <title>EPL course graph</title>
     <style>
       html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; background: #fbfafc; }
-      #graph-canvas { display: block; width: 100vw; height: 100vh; outline: none; }
+      #graph-canvas { position: fixed; inset: 0; display: block; width: 100%; height: 100dvh; outline: none; background: #fbfafc; }
       #loading { position: fixed; inset: 0; display: grid; place-items: center; font: 1rem system-ui; color: #504c5a; }
     </style>
     <link data-trunk rel="rust" data-cargo-manifest="Cargo.toml">
@@ -17,4 +17,3 @@
     <canvas id="graph-canvas"></canvas>
   </body>
 </html>
-
