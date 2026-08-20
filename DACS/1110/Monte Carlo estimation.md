@@ -78,3 +78,4 @@ is unbiased, with an optimal coefficient determined by covariance.
 ### Related courses
 
 - Sequential application: [LINMA2470 — bandits and Monte Carlo reinforcement learning](../../INMA/2470/Bandits%20and%20Monte%20Carlo%20reinforcement%20learning.md)
+- Sequential Monte Carlo application: [LELEC2885 — recursive appearance-based tracking](../../ELEC/2885/Recursive%20appearance-based%20tracking.md)

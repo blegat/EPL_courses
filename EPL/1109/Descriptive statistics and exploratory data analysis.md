@@ -17,3 +17,4 @@
 ## Related courses
 
 - Related LDACS1110 topic: [Robustness, sensitivity, and distribution shift](../../DACS/1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)
+- Image-data application: [LELEC2885 — digital images and Fourier analysis](../../ELEC/2885/Digital%20images%20and%20Fourier%20analysis.md)

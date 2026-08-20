@@ -43,3 +43,4 @@
 - Follow-on: [LELEC2870 — linear regression, optimization, and the perceptron](../../ELEC/2870/Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
 - Related LDACS1110 topic: [VC dimension and growth functions](../../DACS/1110/VC%20dimension%20and%20growth%20functions.md)
 - Sequential use: [LINMA2725 — temporal-difference learning and projected Bellman equations](../../INMA/2725/Temporal-difference%20learning%20and%20projected%20Bellman%20equations.md)
+- Vision application: [LELEC2885 — camera calibration, homographies, and image stitching](../../ELEC/2885/Camera%20calibration,%20homographies,%20and%20image%20stitching.md)

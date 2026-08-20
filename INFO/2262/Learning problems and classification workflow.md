@@ -17,3 +17,4 @@
 
 - Prerequisite: [LEPL1109 — supervised-learning formulation](../../EPL/1109/Supervised-learning%20formulation.md)
 - Broader mining context: [LINFO2364 — data mining foundations and preprocessing](../../INFO/2364/Data%20mining%20foundations%20and%20preprocessing.md)
+- Computer-vision application: [LELEC2885 — feature-based classification and active contours](../../ELEC/2885/Feature-based%20classification%20and%20active%20contours.md)

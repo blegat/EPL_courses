@@ -24,3 +24,4 @@
 - Motivation: [LEPL1109 — bias–variance and dimensionality](../../EPL/1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
 - Information criterion: [LDACS1110 — KL divergence and mutual information](../../DACS/1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
 - Regularization: [LDACS1110 — MAP estimation and regularization](../../DACS/1110/MAP%20estimation%20and%20regularization.md)
+- Sparse imaging application: [LELEC2885 — sparse representations and inverse problems](../2885/Sparse%20representations%20and%20inverse%20problems.md)

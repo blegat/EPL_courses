@@ -34,3 +34,4 @@
 - Prerequisite boundary: [LEPL1109 — explicitly extra or not covered](../../EPL/1109/Explicitly%20extra,%20deferred,%20or%20not%20covered.md)
 - Robustness context: [LDACS1110 — robustness and distribution shift](../../DACS/1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)
 - Reinforcement-learning use: [LINMA2725 — deep and convex Q-learning](../../INMA/2725/Deep%20and%20convex%20Q-learning.md)
+- Computer-vision specialization: [LELEC2885 — convolutional neural networks for vision](../2885/Convolutional%20neural%20networks%20for%20vision.md)

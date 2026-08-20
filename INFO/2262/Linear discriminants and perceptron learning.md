@@ -15,3 +15,4 @@
 
 - Algorithmic counterpart: [LELEC2870 — linear regression, optimization, and the perceptron](../../ELEC/2870/Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
 - Large-margin extension: [Support-vector machines and kernels](Support-vector%20machines%20and%20kernels.md)
+- Computer-vision application: [LELEC2885 — hand-crafted features and classical vision learning](../../ELEC/2885/Hand-crafted%20features%20and%20classical%20vision%20learning.md)
