@@ -1,4 +1,4 @@
-# 6. Simulation and bootstrap
+# Simulation and bootstrap
 
 - Pseudorandom-number generators and the linear congruential generator
   $X_{n+1}=(aX_n+c)\bmod m$ [STAT, pp. 107-108].

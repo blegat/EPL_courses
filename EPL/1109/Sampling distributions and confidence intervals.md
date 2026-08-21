@@ -1,4 +1,4 @@
-# 7. Sampling distributions and confidence intervals
+# Sampling distributions and confidence intervals
 
 ### One normal population
 

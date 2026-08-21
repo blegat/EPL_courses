@@ -1,4 +1,4 @@
-# 2. Descriptive statistics and exploratory data analysis
+# Descriptive statistics and exploratory data analysis
 
 - Population, sample, and descriptive statistics; loading tabular data and
   obtaining a summary with pandas [STAT, pp. 25-27, 30].

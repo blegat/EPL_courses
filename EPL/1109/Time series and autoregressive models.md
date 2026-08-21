@@ -1,4 +1,4 @@
-# 10. Time series and autoregressive models
+# Time series and autoregressive models
 
 - Time series $(X_t)$, mean function, autocovariance
   $\gamma(t,s)$, autocorrelation $\rho(t,s)$, and interpretation of

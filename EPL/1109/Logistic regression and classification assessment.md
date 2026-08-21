@@ -1,4 +1,4 @@
-# 16. Logistic regression and classification assessment
+# Logistic regression and classification assessment
 
 ### Logistic regression
 

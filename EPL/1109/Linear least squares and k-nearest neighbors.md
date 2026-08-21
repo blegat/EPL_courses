@@ -1,4 +1,4 @@
-# 14. Linear least squares and k-nearest neighbors
+# Linear least squares and k-nearest neighbors
 
 ### Multivariate linear model and least squares
 

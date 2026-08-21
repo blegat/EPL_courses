@@ -1,4 +1,4 @@
-# 4. Normal approximations and reference laws
+# Normal approximations and reference laws
 
 - Normal density, mean/variance, MGF, and numerical PDF/CDF/quantile evaluation
   [STAT, pp. 47-48].

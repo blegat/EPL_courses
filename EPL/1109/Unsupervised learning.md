@@ -1,4 +1,4 @@
-# 19. Unsupervised learning
+# Unsupervised learning
 
 ### Scope and limitations
 

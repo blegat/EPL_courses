@@ -1,4 +1,4 @@
-# 9. Linear regression and ANOVA
+# Linear regression and ANOVA
 
 ### Multiple and simple linear regression
 

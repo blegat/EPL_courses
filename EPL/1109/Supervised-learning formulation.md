@@ -1,4 +1,4 @@
-# 13. Supervised-learning formulation
+# Supervised-learning formulation
 
 ### Data, objectives, and preprocessing
 

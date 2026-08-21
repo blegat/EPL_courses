@@ -1,4 +1,4 @@
-# 8. Hypothesis testing
+# Hypothesis testing
 
 ### General framework
 

@@ -1,4 +1,4 @@
-# 15. Resampling, model assessment, and model selection
+# Resampling, model assessment, and model selection
 
 - Generalization error is empirical risk on an independent dataset. Resampling
   simulates held-out data from the available sample to assess models and select

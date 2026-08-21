@@ -1,4 +1,4 @@
-# 3. Dependence and multivariate probability
+# Dependence and multivariate probability
 
 ### Independence, covariance, and correlation
 

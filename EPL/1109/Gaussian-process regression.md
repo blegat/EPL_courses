@@ -1,4 +1,4 @@
-# 11. Gaussian-process regression
+# Gaussian-process regression
 
 - Motivation: flexible nonlinear, nonparametric regression with a predictive
   distribution and uncertainty [STAT, p. 222].

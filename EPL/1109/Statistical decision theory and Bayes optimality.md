@@ -1,4 +1,4 @@
-# 17. Statistical decision theory and Bayes optimality
+# Statistical decision theory and Bayes optimality
 
 - Inputs and outputs are jointly distributed, and the training set is an i.i.d.
   sample from this population [SL-3, pp. 3-4].

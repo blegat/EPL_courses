@@ -1,4 +1,4 @@
-# 18. Bias-variance tradeoff and dimensionality
+# Bias-variance tradeoff and dimensionality
 
 ### Bias-variance decomposition
 

@@ -1,4 +1,4 @@
-# 12. Data-science framing and workflow
+# Data-science framing and workflow
 
 - Historical motivation through John Snow's cholera map and Gauss/Legendre's
   least-squares orbit fitting for Ceres [DS-I, pp. 4-7].

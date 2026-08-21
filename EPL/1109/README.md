@@ -114,12 +114,28 @@ developed [DS-I, p. 13; SL-2, p. 22; UL, p. 40].
 | 18 | [Bias-variance tradeoff and dimensionality](Bias-variance%20tradeoff%20and%20dimensionality.md) |
 | 19 | [Unsupervised learning](Unsupervised%20learning.md) |
 
-# Part C: boundaries, caveats, and source corrections
+## Boundaries and source caveats
 
-| Topic | Note |
-|---:|---|
-| 20 | [Explicitly extra, deferred, or not covered](Explicitly%20extra,%20deferred,%20or%20not%20covered.md) |
-| 21 | [Important modeling assumptions students have seen](Important%20modeling%20assumptions%20students%20have%20seen.md) |
-| 22 | [Errata affecting substantive formulas](Errata%20affecting%20substantive%20formulas.md) |
-| 23 | [Formula-sheet evidence of expected mastery](Formula-sheet%20evidence%20of%20expected%20mastery.md) |
-| 24 | [Practical software exposure](Practical%20software%20exposure.md) |
+Deep neural networks, semi-supervised and self-supervised learning,
+reinforcement learning, LDA/QDA, SVMs, kernel SVMs, hierarchical clustering,
+and density-based clustering are named but not developed. The curse of
+dimensionality and several matrix proofs are explicitly supporting or extra
+material. Welch's unequal-variance test is absent from the available slides.
+
+Many taught procedures rely on assumptions that must be checked: independent
+or i.i.d. sampling, normal populations for exact finite-sample inference, equal
+variances for the pooled two-sample Student test, full column rank for the
+closed-form OLS inverse, and exchangeability for randomized validation splits.
+PCA, k-NN, and K-means are sensitive to scaling and the chosen geometry.
+
+The statistics formula sheet confirms expected familiarity with probability
+identities, sampling pivots, tests, OLS/ANOVA formulas, confidence intervals,
+and prediction intervals. Practical exposure uses NumPy, pandas, Matplotlib,
+SciPy, Statsmodels, and scikit-learn at an introductory data-analysis level;
+these tools are part of the course workflow rather than separate topics.
+
+The supplied errata correct the conditional-density example (`STAT`, p. 66),
+the Gaussian-process posterior mean (`STAT`, p. 227), and the noisy GP
+observation covariance (`STAT`, p. 232). In particular, the posterior mean uses
+$k(x_*,X)^T[K+\sigma_\epsilon^2I]^{-1}y$ and noisy observations have covariance
+$K+\sigma_\epsilon^2I$.

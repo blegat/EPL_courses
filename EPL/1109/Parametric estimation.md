@@ -1,4 +1,4 @@
-# 5. Parametric estimation
+# Parametric estimation
 
 ### Estimators and their quality
 

@@ -1,4 +1,4 @@
-# 1. Probability foundations and random variables
+# Probability foundations and random variables
 
 ### Random variables and distributions
 
