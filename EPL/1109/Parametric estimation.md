@@ -39,6 +39,8 @@
 
 - Linear-model application: [LSTAT2120 — statistical properties of OLS](../../STAT/2120/Statistical%20properties%20of%20OLS.md)
 - Gaussian likelihood application: [LSTAT2120 — maximum likelihood in Gaussian linear models](../../STAT/2120/Maximum%20likelihood%20in%20Gaussian%20linear%20models.md)
+- Finite-sample estimator criteria: [LINMA1731 — estimator performance and minimum-variance unbiased estimation](../../INMA/1731/Estimator%20performance%20and%20minimum-variance%20unbiased%20estimation.md)
+- Advanced likelihood treatment: [LINMA1731 — maximum likelihood and least squares](../../INMA/1731/Maximum%20likelihood%20and%20least%20squares.md)
 - Related LDACS1110 topic: [Bayesian inference](../../DACS/1110/Bayesian%20inference.md)
 - Related LDACS1110 topic: [KL divergence, cross-entropy, and mutual information](../../DACS/1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
 - Related LDACS1110 topic: [MAP estimation and regularization](../../DACS/1110/MAP%20estimation%20and%20regularization.md)

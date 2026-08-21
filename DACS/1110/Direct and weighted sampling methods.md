@@ -44,3 +44,7 @@ to cryptographic foundations is limited.
 ## References
 
 [B3, Chs. 3-4](README.md#b3), [B4](README.md#b4).
+
+## Related courses
+
+- Sequential application: [LINMA1731 — particle filtering and sequential importance sampling](../../INMA/1731/Particle%20filtering%20and%20sequential%20importance%20sampling.md)

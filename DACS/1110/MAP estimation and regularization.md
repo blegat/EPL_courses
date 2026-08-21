@@ -56,3 +56,4 @@ outcome linking uncertainty, regularization, and generalization.
 - Applied continuation: [LELEC2870 — model selection, validation, and regularization](../../ELEC/2870/Model%20selection,%20validation,%20and%20regularization.md)
 - Applied continuation: [LELEC2870 — feature selection](../../ELEC/2870/Feature%20selection.md)
 - Imaging application: [LELEC2885 — sparse representations and inverse problems](../../ELEC/2885/Sparse%20representations%20and%20inverse%20problems.md)
+- Estimation-theory treatment: [LINMA1731 — Bayesian linear models, MAP, and linear MMSE](../../INMA/1731/Bayesian%20linear%20models,%20MAP,%20and%20linear%20MMSE.md)

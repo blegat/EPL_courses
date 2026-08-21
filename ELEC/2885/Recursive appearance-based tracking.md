@@ -23,5 +23,7 @@
 ## Related courses
 
 - Monte Carlo foundation: [LDACS1110 — Monte Carlo estimation](../../DACS/1110/Monte%20Carlo%20estimation.md)
+- Kalman-filter foundation: [LINMA1731 — state-space models and Kalman filtering](../../INMA/1731/State-space%20models%20and%20Kalman%20filtering.md)
+- Particle-filter foundation: [LINMA1731 — particle filtering and sequential importance sampling](../../INMA/1731/Particle%20filtering%20and%20sequential%20importance%20sampling.md)
 - Geometric correspondences: [Stereo vision and view interpolation](Stereo%20vision%20and%20view%20interpolation.md)
 - Alternative tracking paradigm: [Detection-based multi-object tracking](Detection-based%20multi-object%20tracking.md)

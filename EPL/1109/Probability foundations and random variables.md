@@ -77,3 +77,4 @@ p. 2]:
 - Related LDACS1110 topic: [Statistical distance and couplings](../../DACS/1110/Statistical%20distance%20and%20couplings.md)
 - Related LDACS1110 topic: [Universal hashing and randomized hash maps](../../DACS/1110/Universal%20hashing%20and%20randomized%20hash%20maps.md)
 - Stochastic-process continuation: [LINMA2470 — probability foundations and limit theorems](../../INMA/2470/Probability%20foundations%20and%20limit%20theorems.md)
+- Estimation continuation: [LINMA1731 — probability and random-process foundations](../../INMA/1731/Probability%20and%20random-process%20foundations.md)

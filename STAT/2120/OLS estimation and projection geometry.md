@@ -13,3 +13,4 @@ Source: `LM`, pp. 36–75.
 - [Regression specification and interpretation](Regression%20specification%20and%20interpretation.md) defines the model being fitted.
 - [Statistical properties of OLS](Statistical%20properties%20of%20OLS.md) studies the estimator under stochastic assumptions.
 - [Linear regression and ANOVA](../../EPL/1109/Linear%20regression%20and%20ANOVA.md) develops the same projection and variance decomposition.
+- [LINMA1731 — linear models and best linear unbiased estimation](../../INMA/1731/Linear%20models%20and%20best%20linear%20unbiased%20estimation.md) develops generalized least squares and Gauss–Markov estimation.

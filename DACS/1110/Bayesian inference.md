@@ -87,3 +87,4 @@ sets, and posterior prediction.
 ## Related courses
 
 - Classification application: [LINFO2262 — Bayesian decision theory, MAP, and ROC analysis](../../INFO/2262/Bayesian%20decision%20theory,%20MAP,%20and%20ROC%20analysis.md)
+- Estimation-theory treatment: [LINMA1731 — Bayesian risk and minimum-mean-square estimation](../../INMA/1731/Bayesian%20risk%20and%20minimum-mean-square%20estimation.md)
