@@ -351,7 +351,7 @@ impl eframe::App for CourseGraphApp {
                 .with_navigations(
                     &SettingsNavigation::new()
                         .with_zoom_and_pan_enabled(true)
-                        .with_fit_to_screen_enabled(true)
+                        .with_fit_to_screen_enabled(false)
                         .with_fit_to_screen_padding(0.03),
                 )
                 .with_styles(&SettingsStyle::new().with_labels_always(false))
