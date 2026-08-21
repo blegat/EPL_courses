@@ -92,6 +92,8 @@ impl Visibility {
 
 type TopicGraph = Graph<TopicPayload, ()>;
 
+const NODE_RADIUS_SCREEN: f32 = 12.0;
+
 struct CourseGraphApp {
     data: GraphData,
     graph: TopicGraph,
@@ -99,6 +101,7 @@ struct CourseGraphApp {
     node_topics: HashMap<usize, TopicPayload>,
     hovered_course: Option<String>,
     sidebar_hovered_course: Option<String>,
+    graph_zoom: f32,
 }
 
 impl CourseGraphApp {
@@ -115,6 +118,7 @@ impl CourseGraphApp {
             node_topics: HashMap::new(),
             hovered_course: None,
             sidebar_hovered_course: None,
+            graph_zoom: 1.0,
         };
         app.rebuild_graph();
         app
@@ -180,7 +184,7 @@ impl CourseGraphApp {
             );
             let node = graph.node_mut(index).unwrap();
             node.set_color(base_color);
-            node.display_mut().radius = 12.0;
+            node.display_mut().radius = NODE_RADIUS_SCREEN / self.graph_zoom;
             indices.insert(topic.id.as_str(), index);
             node_topics.insert(index.index(), payload);
         }
@@ -242,6 +246,15 @@ impl CourseGraphApp {
                 Some(_) => Color32::from_gray(175),
             };
             self.graph.node_mut(index).unwrap().set_color(color);
+        }
+    }
+
+    fn set_graph_zoom(&mut self, zoom: f32) {
+        self.graph_zoom = zoom.max(f32::EPSILON);
+        let radius = NODE_RADIUS_SCREEN / self.graph_zoom;
+        let indices: Vec<_> = self.graph.nodes_iter().map(|(index, _)| index).collect();
+        for index in indices {
+            self.graph.node_mut(index).unwrap().display_mut().radius = radius;
         }
     }
 
@@ -373,6 +386,7 @@ impl eframe::App for CourseGraphApp {
                                 navigate(&topic.url);
                             }
                         }
+                        Event::Zoom(event) => self.set_graph_zoom(event.new_zoom),
                         _ => {}
                     }
                 }
