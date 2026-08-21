@@ -14,4 +14,5 @@
 ## Related courses
 
 - Detailed counterpart: [LELEC2870 — support-vector machines and kernels](../../ELEC/2870/Support-vector%20machines%20and%20kernels.md)
+- Kernel classification derivation: [LINMA2472 — support-vector machines and kernel classification](../../INMA/2472/Support-vector%20machines%20and%20kernel%20classification.md)
 - Foundation: [Linear discriminants and perceptron learning](Linear%20discriminants%20and%20perceptron%20learning.md)

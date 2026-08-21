@@ -30,3 +30,4 @@
 - Neural approach: [Deep learning architectures and training](Deep%20learning%20architectures%20and%20training.md)
 - Prerequisite: [LEPL1109 — unsupervised learning](../../EPL/1109/Unsupervised%20learning.md)
 - Topology-preserving method: [Self-organizing maps and topology-preserving learning](Self-organizing%20maps%20and%20topology-preserving%20learning.md)
+- Kernel spectral method: [LINMA2472 — kernel PCA and nonlinear structure discovery](../../INMA/2472/Kernel%20PCA%20and%20nonlinear%20structure%20discovery.md)

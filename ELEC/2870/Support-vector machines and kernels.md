@@ -26,4 +26,5 @@
 - Kernel connection: [LEPL1109 — Gaussian-process regression](../../EPL/1109/Gaussian-process%20regression.md)
 - Sequential approximation: [LINMA2725 — value-function approximation architectures](../../INMA/2725/Value-function%20approximation%20architectures.md)
 - Sequential approximation: [LINMA2725 — deep and convex Q-learning](../../INMA/2725/Deep%20and%20convex%20Q-learning.md)
+- Kernel geometry and the kernel trick: [LINMA2472 — feature spaces and the kernel trick](../../INMA/2472/Feature%20spaces%20and%20the%20kernel%20trick.md)
 - Visual-feature application: [LELEC2885 — hand-crafted features and classical vision learning](../2885/Hand-crafted%20features%20and%20classical%20vision%20learning.md)

@@ -35,3 +35,6 @@
 - Robustness context: [LDACS1110 — robustness and distribution shift](../../DACS/1110/Robustness,%20sensitivity,%20and%20distribution%20shift.md)
 - Reinforcement-learning use: [LINMA2725 — deep and convex Q-learning](../../INMA/2725/Deep%20and%20convex%20Q-learning.md)
 - Computer-vision specialization: [LELEC2885 — convolutional neural networks for vision](../2885/Convolutional%20neural%20networks%20for%20vision.md)
+- Program differentiation: [LINMA2472 — forward and reverse automatic differentiation](../../INMA/2472/Forward%20and%20reverse%20automatic%20differentiation.md)
+- Transformer derivation: [LINMA2472 — attention and transformer architectures](../../INMA/2472/Attention%20and%20transformer%20architectures.md)
+- Generative latent models: [LINMA2472 — variational autoencoders and latent-variable learning](../../INMA/2472/Variational%20autoencoders%20and%20latent-variable%20learning.md)

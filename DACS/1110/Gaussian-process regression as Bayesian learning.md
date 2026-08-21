@@ -41,3 +41,7 @@ not displace shared crypto foundations.
 ### Bibliography
 
 [B16, Chs. 2, 4, and 5](README.md#b16), [B6](README.md#b6).
+
+### Related courses
+
+- RKHS optimization counterpart: [LINMA2472 — kernel ridge regression and the representer theorem](../../INMA/2472/Kernel%20ridge%20regression%20and%20the%20representer%20theorem.md)
