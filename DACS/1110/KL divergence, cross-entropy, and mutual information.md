@@ -1,8 +1,6 @@
-# 7. KL divergence, cross-entropy, and mutual information
+# KL divergence, cross-entropy, and mutual information
 
-**Status:** Core, Bridge.
-
-### Concepts
+## Concepts
 
 - Divergence between distributions rather than distance between parameters.
 - Asymmetry and possible infinity of KL divergence.
@@ -11,7 +9,7 @@
   gain.
 - Markov chains in the information-theoretic sense `X -> Y -> Z`.
 
-### Candidate results
+## Principal results
 
 **KL divergence.**
 
@@ -53,7 +51,7 @@ $$
 I(X;Z)\leq I(X;Y).
 $$
 
-**Pinsker inequality, recommended bridge.** Under natural logarithms,
+**Pinsker inequality.** Under natural logarithms,
 
 $$
 \Delta(P,Q)\leq\sqrt{\frac12D_{\mathrm{KL}}(P\|Q)}.
@@ -61,7 +59,7 @@ $$
 
 This connects information divergence to statistical distinguishing advantage.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Joint distributions, independence, conditioning, and likelihood:
   [dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
@@ -71,23 +69,23 @@ This connects information divergence to statistical distinguishing advantage.
   [logistic regression](../../EPL/1109/Logistic%20regression%20and%20classification%20assessment.md#logistic-regression)
   [SL-2, pp. 33-35].
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 - Information divergence and mutual information.
 - Data processing and chain rules.
 - Connection between log-loss, likelihood, and distribution approximation.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 - Perfect secrecy as zero mutual information.
 - Information leakage and processing of adversarial observations.
 - Pinsker as a route from information bounds to indistinguishability.
 
-### Bibliography
+## References
 
 [B5, Chs. 2 and 11](README.md#b5), [B6](README.md#b6), [B7](README.md#b7).
 
-### Related courses
+## Related courses
 
 - Applied use in variable selection: [LELEC2870 — feature selection](../../ELEC/2870/Feature%20selection.md)
 - Applied use as an independence objective: [LELEC2870 — independent component analysis](../../ELEC/2870/Independent%20component%20analysis.md)

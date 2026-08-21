@@ -1,8 +1,6 @@
-# 21. Integrated learning applications
+# Integrated learning applications
 
-**Status:** Core, distributed through lectures and practical sessions.
-
-### Candidate applications
+## Applications
 
 - Estimate a classifier's true risk from an independent test sample and attach
   a Hoeffding confidence guarantee.
@@ -22,7 +20,7 @@
 - Show a causal counterexample in which high predictive accuracy does not
   identify an intervention effect.
 
-### LEPL1109 relations
+## Prerequisites from LEPL1109
 
 - Logistic regression and metrics:
   [classification](../../EPL/1109/Logistic%20regression%20and%20classification%20assessment.md).

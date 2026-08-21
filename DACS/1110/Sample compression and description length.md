@@ -1,15 +1,13 @@
-# 15. Sample compression and description length
+# Sample compression and description length
 
-**Status:** Optional alternative/complement to VC dimension.
-
-### Concepts
+## Concepts
 
 - Compress a labeled sample to a small subset plus finite side information.
 - Reconstruct a hypothesis from the compression.
 - Generalization by counting the possible compressed descriptions.
 - Difference between sample compression and PCA/data compression.
 
-### Candidate results
+## Principal results
 
 **Compression generalization.** A consistent hypothesis reconstructed from `k`
 sample points and bounded side information admits a realizable bound of the
@@ -28,7 +26,7 @@ two extremal labeled examples.
 **Description-length principle.** Shorter hypothesis descriptions reduce the
 number of alternatives that must be controlled by the union bound.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Dataset, generalization, and empirical risk:
   [supervised-learning formulation](../../EPL/1109/Supervised-learning%20formulation.md)
@@ -36,14 +34,14 @@ number of alternatives that must be controlled by the union bound.
 - PCA compression is a distinct concept:
   [PCA](../../EPL/1109/Unsupervised%20learning.md#principal-component-analysis).
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 - Generalization from reconstructibility and short combinatorial descriptions.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 Moderate proof-pattern value through counting and encodings.
 
-### Bibliography
+## References
 
 [B15](README.md#b15), [B8](README.md#b8).

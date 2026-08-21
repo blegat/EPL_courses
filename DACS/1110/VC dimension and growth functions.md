@@ -1,14 +1,12 @@
-# 14. VC dimension and growth functions
+# VC dimension and growth functions
 
-**Status:** Core candidate; choose this or sample compression if time is tight.
-
-### Concepts
+## Concepts
 
 - Dichotomies, shattering, growth function, and VC dimension.
 - Capacity is combinatorial and need not equal parameter count.
 - Infinite classes can be learnable if their growth is controlled.
 
-### Candidate results
+## Principal results
 
 **Examples.** Thresholds on the real line have VC dimension 1; intervals have
 VC dimension 2; affine halfspaces in `R^d` have VC dimension `d+1`.
@@ -35,7 +33,7 @@ binary classification, finite VC dimension characterizes distribution-free PAC
 learnability and uniform convergence, up to the distinctions made in the exact
 version of the theorem.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Linear decision boundaries and k-NN flexibility:
   [linear least squares and k-nearest neighbors](../../EPL/1109/Linear%20least%20squares%20and%20k-nearest%20neighbors.md)
@@ -43,16 +41,16 @@ version of the theorem.
 - Model classes and overfitting:
   [supervised-learning formulation](../../EPL/1109/Supervised-learning%20formulation.md).
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 - Shattering, growth functions, and capacity of infinite classes.
 - Capacity-dependent sample complexity.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 Moderate methodological value through counting and uniform adversarial choices;
 little direct dependency for the listed primitives.
 
-### Bibliography
+## References
 
 [B8, Chs. 5-7](README.md#b8), [B7](README.md#b7), [B15](README.md#b15).

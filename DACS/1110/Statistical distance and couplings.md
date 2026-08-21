@@ -1,8 +1,6 @@
-# 8. Statistical distance and couplings
+# Statistical distance and couplings
 
-**Status:** Core, Bridge.
-
-### Concepts
+## Concepts
 
 - Statistical/total-variation distance between discrete distributions.
 - Event and test characterizations.
@@ -10,7 +8,7 @@
 - Coupling as a joint construction with prescribed marginals.
 - Data processing under randomized mappings.
 
-### Candidate results
+## Principal results
 
 **Total-variation distance.**
 
@@ -43,25 +41,25 @@ $$
 **Coupling lemma.** For every coupling `(X,Y)`,
 `Delta(P_X,P_Y) <= P(X != Y)`, and an optimal coupling attains equality.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Discrete distributions, events, and conditional probability:
   [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
   [STAT, pp. 7-15].
 - Classification tests provide useful intuition but total variation is new.
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 - A metric on distributions with operational test meaning.
 - Statistical indistinguishability and data processing.
 - Coupling and hybrids as proof tools.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 - Real-versus-ideal definitions of information-theoretic security.
 - Statistical secrecy, extractors, and privacy amplification.
 - Game hops and distinguishing advantage.
 
-### Bibliography
+## References
 
 [B11, Chs. 3 and 6](README.md#b11), [B17, probability appendix](README.md#b17).

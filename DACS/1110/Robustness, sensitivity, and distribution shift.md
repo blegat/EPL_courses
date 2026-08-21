@@ -1,8 +1,6 @@
-# 22. Robustness, sensitivity, and distribution shift
+# Robustness, sensitivity, and distribution shift
 
-**Status:** Core application supporting an explicit course learning outcome.
-
-### Concepts and candidate results
+## Topics and results
 
 - Distinguish robustness to sampling variation, outliers/contamination,
   covariate shift, label noise, and adversarial perturbations.
@@ -26,7 +24,7 @@ $$
   validation set can overfit that set, and the untouched test set remains an
   estimate rather than a proof under future shift.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Bias-variance and model selection:
   [bias-variance](../../EPL/1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
@@ -36,17 +34,17 @@ $$
 - LEPL1109 does not develop distribution shift, robust statistics, or
   adversarial robustness; those qualifications are new.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 The distinction between empirical robustness and worst-case security is
 important: robustness experiments do not establish a cryptographic security
 property quantified over efficient adversaries.
 
-### Bibliography
+## References
 
 [B10](README.md#b10), [B7](README.md#b7), [B12](README.md#b12).
 
-### Related courses
+## Related courses
 
 - Applied framing: [LELEC2870 — machine-learning framing and dimensionality](../../ELEC/2870/Machine-learning%20framing%20and%20dimensionality.md)
 - Modern-model context: [LELEC2870 — deep learning architectures and training](../../ELEC/2870/Deep%20learning%20architectures%20and%20training.md)

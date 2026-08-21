@@ -1,8 +1,6 @@
-# 6. Shannon entropy and conditional entropy
+# Shannon entropy and conditional entropy
 
-**Status:** Core, Bridge.
-
-### Concepts
+## Concepts
 
 - Self-information `-log p(x)`.
 - Shannon entropy in bits when logarithms have base 2.
@@ -12,7 +10,7 @@
 - Compression as an operational motivation; coding theorems can be stated but
   need not be proved.
 
-### Candidate results
+## Principal results
 
 **Shannon entropy.** For a discrete random variable,
 
@@ -46,7 +44,7 @@ $$
 **Entropy of a function.** For deterministic `g`,
 `H(g(X)) <= H(X)`.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Discrete distributions and expectation of functions:
   [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
@@ -58,18 +56,18 @@ $$
   [logistic regression](../../EPL/1109/Logistic%20regression%20and%20classification%20assessment.md#logistic-regression)
   [SL-2, pp. 33-35].
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 - Entropy and its chain rules.
 - Quantitative uncertainty accounting.
 - Operational link to compression and information.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 - Perfect secrecy and key uncertainty.
 - Leakage and information-theoretic security.
 - Impossibility and key-length lower bounds.
 
-### Bibliography
+## References
 
 [B5, Ch. 2](README.md#b5), [B6, Parts I-II](README.md#b6).

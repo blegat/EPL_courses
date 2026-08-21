@@ -1,8 +1,6 @@
-# 19. Min-entropy and randomness extraction
+# Min-entropy and randomness extraction
 
-**Status:** Core, Bridge.
-
-### Concepts
+## Concepts
 
 - Weak random source versus uniform distribution.
 - Average uncertainty (Shannon entropy) versus maximum guessing probability
@@ -11,7 +9,7 @@
 - Public independent seed.
 - Statistical closeness to uniform.
 
-### Candidate results
+## Principal results
 
 **Min-entropy.**
 
@@ -54,32 +52,31 @@ by the same type of expression with conditional min-entropy
 `\widetilde H_\infty(X|E)`. This is the form needed for privacy amplification;
 the unconditional statement alone only supports extraction when no correlated
 observer information is present. Quantum side information requires a stronger
-version outside the proposed scope.
+formulation.
 
 **Public seed principle.** Security does not require the independently chosen
 hash-function seed to remain secret because the joint output includes it.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Discrete/joint distributions and independence:
   [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
   and [dependence](../../EPL/1109/Dependence%20and%20multivariate%20probability.md).
-- Shannon entropy, statistical distance, and universal hashing are new FoL
-  prerequisites and should precede the lemma.
+- The lemma uses Shannon entropy, statistical distance, and universal hashing.
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 - Min-entropy and worst-case predictability.
 - Statistical extraction from weak randomness.
 - A theorem joining hashing, entropy, and indistinguishability.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 - Privacy amplification and key derivation from imperfect randomness.
 - Information-theoretic secrecy and public discussion.
 - Distinction between high Shannon entropy, high min-entropy, statistical
   uniformity, and computational pseudorandomness.
 
-### Bibliography
+## References
 
 [B11, Ch. 6](README.md#b11), [B17](README.md#b17).

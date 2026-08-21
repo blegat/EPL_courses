@@ -1,8 +1,6 @@
-# 10. Bayesian inference
+# Bayesian inference
 
-**Status:** Core.
-
-### Concepts
+## Concepts
 
 - Unknown parameter as a random variable.
 - Prior, likelihood, evidence/marginal likelihood, and posterior.
@@ -14,7 +12,7 @@
   uncertainty.
 - Credible intervals versus frequentist confidence intervals.
 
-### Candidate results
+## Principal results
 
 **Bayes formula for parameters.**
 
@@ -55,7 +53,7 @@ $$
 posterior median minimizes absolute loss; posterior mode is a MAP point estimate
 under regularity/uniqueness qualifications.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Conditional distributions and Bayes' rule:
   [random vectors and conditioning](../../EPL/1109/Dependence%20and%20multivariate%20probability.md#random-vectors-and-conditioning)
@@ -70,22 +68,22 @@ under regularity/uniqueness qualifications.
   [sampling distributions](../../EPL/1109/Sampling%20distributions%20and%20confidence%20intervals.md)
   [STAT, pp. 119-136].
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 LEPL1109's Bayes predictor assumes a known joint population distribution. FoL
 adds uncertainty over unknown parameters, prior/posterior updating, credible
 sets, and posterior prediction.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 - Adversarial inference and updating beliefs from observations.
 - Important boundary: cryptographic security must not rely on a favorable
   subjective prior over adversaries.
 
-### Bibliography
+## References
 
 [B4, Chs. 1-5](README.md#b4), [B6](README.md#b6), [B8](README.md#b8).
 
-### Related courses
+## Related courses
 
 - Classification application: [LINFO2262 — Bayesian decision theory, MAP, and ROC analysis](../../INFO/2262/Bayesian%20decision%20theory,%20MAP,%20and%20ROC%20analysis.md)

@@ -18,5 +18,6 @@
 ## Connections
 
 - Required geometry: [Reproducing-kernel Hilbert spaces and kernel construction](Reproducing-kernel%20Hilbert%20spaces%20and%20kernel%20construction.md)
-- Bayesian equivalence: [LDACS1110 — Gaussian-process regression as Bayesian learning](../../DACS/1110/Gaussian-process%20regression%20as%20Bayesian%20learning.md)
+- Bayesian equivalence: [LEPL1109 — Gaussian-process regression](../../EPL/1109/Gaussian-process%20regression.md)
+- Bayesian synthesis: [LDACS1110 — Gaussian-process regression as Bayesian learning](../../DACS/1110/Gaussian-process%20regression%20as%20Bayesian%20learning.md)
 - Control application: [LINMA2725 — value-function approximation architectures](../2725/Value-function%20approximation%20architectures.md)

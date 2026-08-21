@@ -1,8 +1,6 @@
-# 17. Gaussian-process regression as Bayesian learning
+# Gaussian-process regression as Bayesian learning
 
-**Status:** Optional synthesis; do not reteach the LEPL1109 derivation.
-
-### Already covered by LEPL1109
+## Foundation from LEPL1109
 
 - GP prior as finite-dimensional jointly Gaussian function values.
 - Mean and covariance kernel.
@@ -14,7 +12,7 @@
 See [Gaussian-process regression in LEPL1109](../../EPL/1109/Gaussian-process%20regression.md)
 [STAT, pp. 222-232; ERR, p. 1].
 
-### Candidate new connections
+## Connections
 
 **GP as a function prior.** Kernel choice expresses prior assumptions about
 smoothness, scale, and structure.
@@ -33,15 +31,15 @@ log-determinant complexity term, often called an Occam factor.
 noise model, and hyperparameters; misspecification can invalidate uncertainty
 claims.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
-Low. This is useful for the Bayesian/regularization learning outcome but should
-not displace shared crypto foundations.
+Gaussian-process regression primarily supports Bayesian and regularization
+reasoning; its connection to cryptographic foundations is indirect.
 
-### Bibliography
+## References
 
 [B16, Chs. 2, 4, and 5](README.md#b16), [B6](README.md#b6).
 
-### Related courses
+## Related courses
 
 - RKHS optimization counterpart: [LINMA2472 — kernel ridge regression and the representer theorem](../../INMA/2472/Kernel%20ridge%20regression%20and%20the%20representer%20theorem.md)

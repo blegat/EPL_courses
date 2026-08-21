@@ -1,8 +1,6 @@
-# 5. Markov-chain Monte Carlo
+# Markov-chain Monte Carlo
 
-**Status:** Optional; Defer rigorous mixing theory.
-
-### Concepts
+## Concepts
 
 - Sampling from a target distribution known up to a normalizing constant.
 - Markov transition kernel, stationary distribution, irreducibility,
@@ -12,7 +10,7 @@
 - Metropolis-Hastings proposal and accept/reject correction.
 - Gibbs sampling from full conditional distributions.
 
-### Candidate results
+## Principal results
 
 **Detailed balance implies stationarity.** If
 
@@ -49,7 +47,7 @@ almost surely for integrable `f`.
 **MCMC variance warning.** Dependent draws do not have variance
 `sigma^2/n`; integrated autocorrelation inflates Monte Carlo variance.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Conditional and multivariate distributions:
   [dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
@@ -57,24 +55,23 @@ almost surely for integrable `f`.
 - Time-series autocorrelation:
   [time series and autoregressive models](../../EPL/1109/Time%20series%20and%20autoregressive%20models.md)
   [STAT, pp. 207-220].
-- Bayesian posterior distributions are new and must precede MCMC.
+- Bayesian posterior distributions provide the target distributions for MCMC.
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 - Markov-chain stationarity and detailed balance.
 - Dependent sampling and ergodic convergence.
 - Sampling from unnormalized posterior distributions.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
-Limited for the prescribed FoC topics. Random walks and sampling appear in
-specialized cryptography, but MCMC should not displace the stronger shared
-foundations of entropy, statistical distance, and hashing.
+Random walks and sampling also appear in specialized areas of cryptography;
+the direct connection to the course's cryptographic foundations is limited.
 
-### Bibliography
+## References
 
 [B3, Chs. 7-9](README.md#b3), [B4, Chs. 10-12](README.md#b4).
 
-### Related courses
+## Related courses
 
 - Sequential extension: [LINMA2725 — Markov systems, invariant measures, and ergodicity](../../INMA/2725/Markov%20systems,%20invariant%20measures,%20and%20ergodicity.md)

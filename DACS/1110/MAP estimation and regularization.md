@@ -1,8 +1,6 @@
-# 11. MAP estimation and regularization
+# MAP estimation and regularization
 
-**Status:** Core.
-
-### Candidate results
+## Principal results
 
 **MAP objective.**
 
@@ -26,7 +24,7 @@ quadratic posterior and a regularized least-squares posterior mean/MAP.
 does not retain posterior uncertainty; it should not be equated with full
 Bayesian prediction.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - MLE and negative log-likelihood:
   [maximum likelihood](../../EPL/1109/Parametric%20estimation.md#maximum-likelihood)
@@ -38,22 +36,22 @@ Bayesian prediction.
   [bias-variance](../../EPL/1109/Bias-variance%20tradeoff%20and%20dimensionality.md)
   [SL-3, pp. 22-29].
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 - Prior-penalty equivalence and an explicit probabilistic view of
   regularization.
 - Distinction between posterior uncertainty, MAP, and regularized ERM.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 Low direct dependence, but this topic is central to the official learning
 outcome linking uncertainty, regularization, and generalization.
 
-### Bibliography
+## References
 
 [B6](README.md#b6), [B8](README.md#b8), [B9](README.md#b9).
 
-### Related courses
+## Related courses
 
 - Applied continuation: [LELEC2870 — model selection, validation, and regularization](../../ELEC/2870/Model%20selection,%20validation,%20and%20regularization.md)
 - Applied continuation: [LELEC2870 — feature selection](../../ELEC/2870/Feature%20selection.md)

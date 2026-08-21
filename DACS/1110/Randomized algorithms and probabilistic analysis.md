@@ -1,8 +1,6 @@
-# 1. Randomized algorithms and probabilistic analysis
+# Randomized algorithms and probabilistic analysis
 
-**Status:** Core, Bridge.
-
-### Concepts
+## Concepts
 
 - Probability space attached to an algorithm's internal random choices.
 - Random seed and random bits; deterministic behavior conditional on the seed.
@@ -16,7 +14,7 @@
 - Indicator variables and linearity of expectation for algorithm analysis.
 - Universal hashing as the principal randomized-data-structure example.
 
-### Candidate results
+## Principal results
 
 **Union bound.** For events `A_1, ..., A_m`,
 
@@ -43,7 +41,7 @@ $$
 
 The transition from unlikely to likely collision occurs around `q = Theta(sqrt(N))`.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Random variables, expectation, indicators, and variance:
   [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
@@ -57,20 +55,20 @@ The transition from unlikely to likely collision occurs around `q = Theta(sqrt(N
 - Algorithm/data-structure prerequisites mainly come from LEPL1402, not
   LEPL1109.
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 - Algorithms as probability experiments.
 - Explicit failure probabilities and amplification.
 - Randomness as a computational resource.
 - Birthday-scale collision behavior.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 - Security games, probabilistic adversaries, and reduction success probability.
 - Hash collisions and random-oracle query bounds.
 - PRF/PRP switching bounds and block-cipher analysis.
 - Amplification and accounting for multiple bad events.
 
-### Bibliography
+## References
 
 [B1, Chs. 5 and 11](README.md#b1), [B2, Chs. 3-5](README.md#b2), [B11](README.md#b11).

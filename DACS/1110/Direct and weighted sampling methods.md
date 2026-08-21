@@ -1,11 +1,9 @@
-# 4. Direct and weighted sampling methods
+# Direct and weighted sampling methods
 
-**Status:** Optional.
+## Principal results
 
-### Candidate results
-
-**Inverse-transform sampling.** Already covered by LEPL1109; use only as a
-starting point.
+**Inverse-transform sampling.** LEPL1109 provides this direct-sampling
+foundation.
 
 **Rejection sampling.** If `p(x) <= M q(x)`, draw `X ~ q` and accept it with
 probability `p(X)/(M q(X))`. The accepted sample has distribution `p`; the mean
@@ -29,7 +27,7 @@ weights are known, but generally biased at finite sample size.
 weights can make the estimator unusable; effective sample size is only a
 diagnostic approximation.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Density transformations and common distributions:
   [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
@@ -38,10 +36,11 @@ diagnostic approximation.
   [simulation and bootstrap](../../EPL/1109/Simulation%20and%20bootstrap.md)
   [STAT, pp. 107-110].
 
-### FoC reuse
+## Connection to foundations of cryptography
 
-Low direct value for the listed cryptography syllabus.
+These methods mainly support statistical computation; their direct connection
+to cryptographic foundations is limited.
 
-### Bibliography
+## References
 
 [B3, Chs. 3-4](README.md#b3), [B4](README.md#b4).

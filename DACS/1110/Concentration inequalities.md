@@ -1,8 +1,6 @@
-# 3. Concentration inequalities
+# Concentration inequalities
 
-**Status:** Core, Bridge.
-
-### Concepts
+## Concepts
 
 - Tail probability versus variance and asymptotic approximation.
 - Polynomial versus exponential tails.
@@ -13,7 +11,7 @@
   confidence `1 - delta`.
 - Chernoff's exponential-moment method as a reusable proof technique.
 
-### Candidate results
+## Principal results
 
 **Markov inequality.** If `X >= 0` and `a > 0`,
 
@@ -57,7 +55,7 @@ $$
 
 to obtain error at most `epsilon` with probability at least `1-delta`.
 
-**Multiplicative Chernoff bounds, recommended extension.** For a sum of
+**Multiplicative Chernoff bounds.** For a sum of
 independent Bernoulli variables with mean `mu`, representative forms are
 
 $$
@@ -68,14 +66,14 @@ P(S\leq(1-\eta)\mu)
 \leq e^{-\eta^2\mu/2}.
 $$
 
-**Bernstein inequality, optional.** Add a variance-sensitive exponential bound
+**Bernstein inequality.** Add a variance-sensitive exponential bound
 for bounded independent variables.
 
-**McDiarmid inequality, optional.** A function with bounded coordinate changes
+**McDiarmid inequality.** A function with bounded coordinate changes
 concentrates around its expectation; this extends concentration from sums to
 stable functions of independent data.
 
-### LEPL1109 dependency
+## Prerequisites from LEPL1109
 
 - Expectation, variance, independence, and MGFs:
   [probability foundations](../../EPL/1109/Probability%20foundations%20and%20random%20variables.md)
@@ -87,24 +85,24 @@ stable functions of independent data.
   [normal approximations](../../EPL/1109/Normal%20approximations%20and%20reference%20laws.md)
   [STAT, pp. 50-52].
 
-### What is new beyond LEPL1109
+## Developments beyond LEPL1109
 
 - Finite-sample exponential guarantees.
 - Explicit `epsilon`, `delta`, and sample-complexity dependence.
 - Uniform control through a union bound.
 - MGF-based proof techniques.
 
-### FoC reuse
+## Connection to foundations of cryptography
 
 - Security amplification and negligible bad-event probabilities.
 - Collision/occupancy analysis and random constructions.
 - Bounding adversarial success over many keys, messages, or queries.
 
-### Bibliography
+## References
 
 [B2](README.md#b2), [B12, Chs. 2-3](README.md#b12), [B7, Parts I-II](README.md#b7).
 
-### Related courses
+## Related courses
 
 - Sequential-learning use: [LINMA2725 — exploration and stochastic-approximation ODEs](../../INMA/2725/Exploration%20and%20stochastic-approximation%20ODEs.md)
 - Regret analysis: [LINMA2725 — multi-armed bandits and regret](../../INMA/2725/Multi-armed%20bandits%20and%20regret.md)
