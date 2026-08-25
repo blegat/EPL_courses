@@ -14,3 +14,7 @@
 - A nonzero degree-$d$ polynomial over a field has at most $d$ roots.
   Evaluation and interpolation underpin Reed–Solomon codes (`ALG`, pp. 32–41).
 - Reed–Solomon redundancy supports erasure recovery and bounded error correction.
+
+## Related courses
+
+- Coding-theory continuation: [LELEC2348 — finite fields and Reed-Solomon codes](../../ELEC/2348/Finite%20fields%20and%20Reed-Solomon%20codes.md)

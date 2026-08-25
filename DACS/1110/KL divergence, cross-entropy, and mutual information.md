@@ -87,6 +87,7 @@ This connects information divergence to statistical distinguishing advantage.
 
 ## Related courses
 
+- Coding-theory treatment: [LELEC2348 — entropy, conditional entropy, and mutual information](../../ELEC/2348/Entropy,%20conditional%20entropy,%20and%20mutual%20information.md)
 - Applied use in variable selection: [LELEC2870 — feature selection](../../ELEC/2870/Feature%20selection.md)
 - Applied use as an independence objective: [LELEC2870 — independent component analysis](../../ELEC/2870/Independent%20component%20analysis.md)
 - Language-modelling application: [LINMA2472 — autoregressive language models and token embeddings](../../INMA/2472/Autoregressive%20language%20models%20and%20token%20embeddings.md)

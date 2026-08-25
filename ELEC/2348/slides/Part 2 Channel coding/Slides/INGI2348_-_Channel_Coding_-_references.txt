@@ -1,0 +1,29 @@
+Basic refererences:
+-------------------
+
+S. Lin and D.J Costello, "Error Control Coding", second edition
+
+R. Roth: Introduction to Coding Theory, Cambridge University Press, 2006.
+
+
+More specialized ones:
+----------------------
+
+Richard E. Blahut, Algebraic Codes for Data Transmission 
+
+Fundamentals of Convolutional Coding by R. Johannesson and K. Zigangirov, IEEE Press, New York, 1999. 
+
+
+Other possible references:
+--------------------------
+
+V. PLess, Introduction to the theory of error-correcting codes, John Wiley&Sons, NY, 1998
+
+S. B. Wicker, Error Control Systems for Digital Communication and Storage
+
+A. D. Houghton, The Engineer's Error Coding Handbook
+
+Peter Sweeney, Error Control Coding: From Theory to Practice
+
+Juergen Bierbrauer, Introduction to Coding Theory 
+

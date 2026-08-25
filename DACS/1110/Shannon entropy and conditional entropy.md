@@ -71,3 +71,8 @@ $$
 ## References
 
 [B5, Ch. 2](README.md#b5), [B6, Parts I-II](README.md#b6).
+
+## Related courses
+
+- Coding-theory treatment: [LELEC2348 — entropy, conditional entropy, and mutual information](../../ELEC/2348/Entropy,%20conditional%20entropy,%20and%20mutual%20information.md)
+- Perfect-secrecy application: [LELEC2348 — perfect secrecy, one-time pads, and wiretap channels](../../ELEC/2348/Perfect%20secrecy,%20one-time%20pads,%20and%20wiretap%20channels.md)
