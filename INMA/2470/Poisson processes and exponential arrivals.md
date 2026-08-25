@@ -18,5 +18,6 @@
 
 ## Related courses
 
+- Introductory treatment: [LEPL1108 — exponential, Poisson, and normal laws](../../EPL/1108/Exponential,%20Poisson,%20and%20normal%20laws.md)
 - Foundation: [Renewal processes and renewal limits](Renewal%20processes%20and%20renewal%20limits.md)
 - Generalizations: [Nonhomogeneous and spatial Poisson processes](Nonhomogeneous%20and%20spatial%20Poisson%20processes.md)

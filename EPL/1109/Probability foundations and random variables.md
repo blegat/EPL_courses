@@ -68,6 +68,8 @@ p. 2]:
 
 ## Related courses
 
+- Discrete-mathematics prerequisite: [LEPL1108 — probability spaces, conditioning, and independence](../1108/Probability%20spaces,%20conditioning,%20and%20independence.md)
+- Discrete-mathematics prerequisite: [LEPL1108 — random variables, distributions, and expectation](../1108/Random%20variables,%20distributions,%20and%20expectation.md)
 - Related LDACS1110 topic: [Concentration inequalities](../../DACS/1110/Concentration%20inequalities.md)
 - Related LDACS1110 topic: [Direct and weighted sampling methods](../../DACS/1110/Direct%20and%20weighted%20sampling%20methods.md)
 - Related LDACS1110 topic: [Min-entropy and randomness extraction](../../DACS/1110/Min-entropy%20and%20randomness%20extraction.md)

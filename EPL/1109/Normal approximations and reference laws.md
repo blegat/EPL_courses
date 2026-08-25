@@ -15,5 +15,6 @@
 
 ## Related courses
 
+- Discrete-mathematics prerequisite: [LEPL1108 — central limit theorem and normal approximation](../1108/Central%20limit%20theorem%20and%20normal%20approximation.md)
 - Related LDACS1110 topic: [Concentration inequalities](../../DACS/1110/Concentration%20inequalities.md)
 - Related LDACS1110 topic: [Monte Carlo estimation](../../DACS/1110/Monte%20Carlo%20estimation.md)

@@ -104,6 +104,7 @@ stable functions of independent data.
 
 ## Related courses
 
+- Introductory bounds: [LEPL1108 — moments, covariance, and concentration](../../EPL/1108/Moments,%20covariance,%20and%20concentration.md)
 - Sequential-learning use: [LINMA2725 — exploration and stochastic-approximation ODEs](../../INMA/2725/Exploration%20and%20stochastic-approximation%20ODEs.md)
 - Regret analysis: [LINMA2725 — multi-armed bandits and regret](../../INMA/2725/Multi-armed%20bandits%20and%20regret.md)
 - Stochastic-process prerequisite: [LINMA2470 — probability foundations and limit theorems](../../INMA/2470/Probability%20foundations%20and%20limit%20theorems.md)

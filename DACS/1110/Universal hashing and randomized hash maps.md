@@ -52,3 +52,7 @@ pairwise-independent family.
 ## References
 
 [B1, Ch. 11](README.md#b1), [B11, Ch. 6](README.md#b11), [B17, universal hashing](README.md#b17).
+
+## Related courses
+
+- Introductory collision analysis: [LEPL1108 — hash functions, collisions, and birthday bounds](../../EPL/1108/Hash%20functions,%20collisions,%20and%20birthday%20bounds.md)

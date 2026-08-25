@@ -31,11 +31,13 @@ p(y_{\mathrm{new}}\mid x)
 p(\theta\mid x)d\theta.
 $$
 
-This reduces to `integral p(y_new|theta) p(theta|x) dtheta` when the new
-observation is conditionally independent of the observed data given `theta`.
+This reduces to
+$\int p(y_{\mathrm{new}}\mid\theta)p(\theta\mid x)\,d\theta$ when the new
+observation is conditionally independent of the observed data given $\theta$.
 
 **Beta-Bernoulli conjugacy.** If
-`theta ~ Beta(alpha,beta)` and `s` successes occur in `n` Bernoulli trials,
+$\theta\sim\operatorname{Beta}(\alpha,\beta)$ and $s$ successes occur in $n$
+Bernoulli trials,
 
 $$
 \theta\mid x_{1:n}
