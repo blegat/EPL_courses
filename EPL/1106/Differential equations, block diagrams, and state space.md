@@ -23,3 +23,10 @@
 ## Related courses
 
 - Estimation continuation: [LINMA1731 — state-space models and Kalman filtering](../../INMA/1731/State-space%20models%20and%20Kalman%20filtering.md)
+
+## Internal connections
+
+- [LTI systems, impulse responses, and convolution](LTI%20systems%2C%20impulse%20responses%2C%20and%20convolution.md)
+- [Transfer functions and unilateral Laplace transform](Transfer%20functions%20and%20unilateral%20Laplace%20transform.md)
+- [Eigenvalues, poles, and Cayley-Hamilton](Eigenvalues%2C%20poles%2C%20and%20Cayley-Hamilton.md)
+- [Controllability and observability](Controllability%20and%20observability.md)

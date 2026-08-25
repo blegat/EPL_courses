@@ -15,3 +15,9 @@
   provide explicit forgery bounds (`CRYPTO`, pp. 29–31).
 - Authentication does not itself conceal the message, and repeated-key use must
   be included in the security accounting.
+
+## Internal connections
+
+- [Entropy, conditional entropy, and mutual information](Entropy%2C%20conditional%20entropy%2C%20and%20mutual%20information.md)
+- [Perfect secrecy, one-time pads, and wiretap channels](Perfect%20secrecy%2C%20one-time%20pads%2C%20and%20wiretap%20channels.md)
+- [Secret sharing and secure function evaluation](Secret%20sharing%20and%20secure%20function%20evaluation.md)

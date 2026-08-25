@@ -15,3 +15,9 @@
   equivalent to absolute summability or integrability of $h$.
 - The impulse response describes zero-state behavior; nonzero initial
   conditions require a state or differential-equation model.
+
+## Internal connections
+
+- [Signals, transformations, and system properties](Signals%2C%20transformations%2C%20and%20system%20properties.md)
+- [Differential equations, block diagrams, and state space](Differential%20equations%2C%20block%20diagrams%2C%20and%20state%20space.md)
+- [Continuous and discrete Fourier transforms](Continuous%20and%20discrete%20Fourier%20transforms.md)

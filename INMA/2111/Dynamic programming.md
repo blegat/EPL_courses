@@ -15,3 +15,8 @@
   different stored information.
 - Generating functions provide an algebraic alternative for recurrences such as
   Fibonacci and Catalan numbers (`NOTES`, pp. 39–45).
+
+## Internal connections
+
+- [Divide-and-conquer and the Master theorem](Divide-and-conquer%20and%20the%20Master%20theorem.md)
+- [Greedy algorithms and exchange arguments](Greedy%20algorithms%20and%20exchange%20arguments.md)

@@ -15,3 +15,7 @@
   integers with short descriptions for small values (`SOURCE`, pp. 35–36).
 - Compression performance reflects model mismatch, adaptation cost, finite
   block length and implementation constraints, not entropy alone.
+
+## Internal connections
+
+- [Prefix codes, Kraft inequality, and Huffman coding](Prefix%20codes%2C%20Kraft%20inequality%2C%20and%20Huffman%20coding.md)

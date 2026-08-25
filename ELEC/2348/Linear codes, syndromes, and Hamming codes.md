@@ -14,3 +14,9 @@
   and meet the Hamming bound (`LINEAR`, pp. 18–21).
 - The dual code is the row space of $H$; simplex codes arise as duals of Hamming
   codes (`LINEAR`, pp. 22–23).
+
+## Internal connections
+
+- [Block codes, Hamming distance, and bounds](Block%20codes%2C%20Hamming%20distance%2C%20and%20bounds.md)
+- [Finite fields and Reed-Solomon codes](Finite%20fields%20and%20Reed-Solomon%20codes.md)
+- [LDPC codes and message-passing decoding](LDPC%20codes%20and%20message-passing%20decoding.md)

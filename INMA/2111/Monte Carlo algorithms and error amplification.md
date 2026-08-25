@@ -18,3 +18,9 @@
 ## Related courses
 
 - Statistical continuation: [LDACS1110 — Monte Carlo estimation](../../DACS/1110/Monte%20Carlo%20estimation.md)
+
+## Internal connections
+
+- [Probabilistic analysis and random sampling](Probabilistic%20analysis%20and%20random%20sampling.md)
+- [Las Vegas algorithms, hashing, and derandomization](Las%20Vegas%20algorithms%2C%20hashing%2C%20and%20derandomization.md)
+- [Complexity classes, reductions, and NP-completeness](Complexity%20classes%2C%20reductions%2C%20and%20NP-completeness.md)

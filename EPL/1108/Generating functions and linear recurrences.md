@@ -13,3 +13,8 @@
   for labelled structures (`NOTES`, pp. 76–78).
 - Probability and moment-generating functions encode laws and turn sums of
   independent variables into products (`GF`, pp. 19–22).
+
+## Internal connections
+
+- [Binomial coefficients, functions, and partitions](Binomial%20coefficients%2C%20functions%2C%20and%20partitions.md)
+- [Moments, covariance, and concentration](Moments%2C%20covariance%2C%20and%20concentration.md)

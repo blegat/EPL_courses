@@ -43,8 +43,12 @@
 
 ## Related courses
 
+- Generalization continuation: [LDACS1110 — further generalization frameworks](../../DACS/1110/Further%20generalization%20frameworks.md)
 - Classification survey: [LINFO2262 — learning problems and classification workflow](../../INFO/2262/Learning%20problems%20and%20classification%20workflow.md)
 - Follow-on: [LELEC2870 — machine-learning framing and dimensionality](../../ELEC/2870/Machine-learning%20framing%20and%20dimensionality.md)
+- Neural-network continuation: [LELEC2870 — multilayer perceptrons and backpropagation](../../ELEC/2870/Multilayer%20perceptrons%20and%20backpropagation.md)
+- Deep-learning continuation: [LELEC2870 — deep learning architectures and training](../../ELEC/2870/Deep%20learning%20architectures%20and%20training.md)
+- Margin-method continuation: [LELEC2870 — support-vector machines and kernels](../../ELEC/2870/Support-vector%20machines%20and%20kernels.md)
 - Related LDACS1110 topic: [MAP estimation and regularization](../../DACS/1110/MAP%20estimation%20and%20regularization.md)
 - Related LDACS1110 topic: [PAC learning and finite-class sample complexity](../../DACS/1110/PAC%20learning%20and%20finite-class%20sample%20complexity.md)
 - Related LDACS1110 topic: [Sample compression and description length](../../DACS/1110/Sample%20compression%20and%20description%20length.md)

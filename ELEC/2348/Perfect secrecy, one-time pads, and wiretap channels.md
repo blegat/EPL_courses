@@ -19,3 +19,9 @@
 ## Related courses
 
 - Entropy foundation: [LDACS1110 — Shannon entropy and conditional entropy](../../DACS/1110/Shannon%20entropy%20and%20conditional%20entropy.md)
+
+## Internal connections
+
+- [Entropy, conditional entropy, and mutual information](Entropy%2C%20conditional%20entropy%2C%20and%20mutual%20information.md)
+- [Discrete memoryless channels and capacity](Discrete%20memoryless%20channels%20and%20capacity.md)
+- [Secret-key agreement and information-theoretic authentication](Secret-key%20agreement%20and%20information-theoretic%20authentication.md)

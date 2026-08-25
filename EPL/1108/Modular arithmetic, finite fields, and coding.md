@@ -18,3 +18,8 @@
 ## Related courses
 
 - Coding-theory continuation: [LELEC2348 — finite fields and Reed-Solomon codes](../../ELEC/2348/Finite%20fields%20and%20Reed-Solomon%20codes.md)
+
+## Internal connections
+
+- [Monoids, groups, and finite cyclic groups](Monoids%2C%20groups%2C%20and%20finite%20cyclic%20groups.md)
+- [Hash functions, collisions, and birthday bounds](Hash%20functions%2C%20collisions%2C%20and%20birthday%20bounds.md)

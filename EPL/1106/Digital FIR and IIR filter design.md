@@ -17,3 +17,8 @@
   mapping and possible warping must be accounted for.
 - FIR and IIR design trade phase, order, delay, stability robustness and
   computational cost rather than admitting one universally superior choice.
+
+## Internal connections
+
+- [Z-transform and discrete-time systems](Z-transform%20and%20discrete-time%20systems.md)
+- [Frequency response and filtering specifications](Frequency%20response%20and%20filtering%20specifications.md)

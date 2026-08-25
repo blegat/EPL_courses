@@ -19,3 +19,7 @@
 ## Related courses
 
 - Multidimensional continuation: [LELEC2870 — vector quantization and prototype clustering](../2870/Vector%20quantization%20and%20prototype%20clustering.md)
+
+## Internal connections
+
+- [Rate-distortion, transform, and predictive coding](Rate-distortion%2C%20transform%2C%20and%20predictive%20coding.md)

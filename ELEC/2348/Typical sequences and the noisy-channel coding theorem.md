@@ -16,3 +16,7 @@
 - Conversely, reliable communication above capacity is impossible.
 - The theorem is asymptotic and existential; finite-length code design must
   trade rate, error probability, delay and decoding complexity.
+
+## Internal connections
+
+- [Discrete memoryless channels and capacity](Discrete%20memoryless%20channels%20and%20capacity.md)

@@ -13,3 +13,8 @@
   algorithms also have expected complexity for a fixed input.
 - A complexity statement is relative to a computation model and a choice of
   elementary operations (`S1`, pp. 5, 13–15).
+
+## Internal connections
+
+- [Sorting, heaps, and comparison lower bounds](Sorting%2C%20heaps%2C%20and%20comparison%20lower%20bounds.md)
+- [Turing machines, computability, and undecidability](Turing%20machines%2C%20computability%2C%20and%20undecidability.md)

@@ -17,3 +17,9 @@
   the outermost pole, while BIBO stability requires the unit circle in the ROC.
 - The unilateral Z-transform incorporates initial conditions in difference
   equations (`Z`, pp. 60–75).
+
+## Internal connections
+
+- [Continuous and discrete Fourier transforms](Continuous%20and%20discrete%20Fourier%20transforms.md)
+- [BIBO and internal stability](BIBO%20and%20internal%20stability.md)
+- [Digital FIR and IIR filter design](Digital%20FIR%20and%20IIR%20filter%20design.md)

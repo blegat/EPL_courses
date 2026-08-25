@@ -15,3 +15,8 @@
   (`SOURCE`, pp. 47–48).
 - Operational performance includes finite block size, side information, delay
   and model mismatch in addition to the asymptotic rate-distortion limit.
+
+## Internal connections
+
+- [Entropy, conditional entropy, and mutual information](Entropy%2C%20conditional%20entropy%2C%20and%20mutual%20information.md)
+- [Scalar quantization and quantization noise](Scalar%20quantization%20and%20quantization%20noise.md)

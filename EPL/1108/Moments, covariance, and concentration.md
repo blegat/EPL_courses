@@ -17,3 +17,9 @@
 ## Related courses
 
 - Stronger finite-sample bounds: [LDACS1110 — concentration inequalities](../../DACS/1110/Concentration%20inequalities.md)
+
+## Internal connections
+
+- [Generating functions and linear recurrences](Generating%20functions%20and%20linear%20recurrences.md)
+- [Random variables, distributions, and expectation](Random%20variables%2C%20distributions%2C%20and%20expectation.md)
+- [Central limit theorem and normal approximation](Central%20limit%20theorem%20and%20normal%20approximation.md)

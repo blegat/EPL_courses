@@ -16,3 +16,8 @@
 - Diagonalization proves the acceptance problem undecidable, and the halting
   problem and an unrecognizable language expose strict limits of algorithms
   (`S11`, pp. 11–17; `NOTES`, pp. 82–86).
+
+## Internal connections
+
+- [Algorithm correctness and asymptotic complexity](Algorithm%20correctness%20and%20asymptotic%20complexity.md)
+- [Complexity classes, reductions, and NP-completeness](Complexity%20classes%2C%20reductions%2C%20and%20NP-completeness.md)

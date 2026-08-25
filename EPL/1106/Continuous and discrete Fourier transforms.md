@@ -20,3 +20,12 @@
 ## Related courses
 
 - Two-dimensional application: [LELEC2885 — digital images and Fourier analysis](../../ELEC/2885/Digital%20images%20and%20Fourier%20analysis.md)
+
+## Internal connections
+
+- [LTI systems, impulse responses, and convolution](LTI%20systems%2C%20impulse%20responses%2C%20and%20convolution.md)
+- [Continuous and discrete Fourier series](Continuous%20and%20discrete%20Fourier%20series.md)
+- [Sampling, aliasing, and reconstruction](Sampling%2C%20aliasing%2C%20and%20reconstruction.md)
+- [Laplace transform and region of convergence](Laplace%20transform%20and%20region%20of%20convergence.md)
+- [Z-transform and discrete-time systems](Z-transform%20and%20discrete-time%20systems.md)
+- [Frequency response and filtering specifications](Frequency%20response%20and%20filtering%20specifications.md)

@@ -18,3 +18,8 @@
 - Shor reduces integer factoring to order finding and obtains polynomial-time
   quantum complexity, subject to a sufficiently reliable quantum computer
   (`NOTES`, pp. 126–129).
+
+## Internal connections
+
+- [Discrete Fourier transform and fast multiplication](Discrete%20Fourier%20transform%20and%20fast%20multiplication.md)
+- [Complexity classes, reductions, and NP-completeness](Complexity%20classes%2C%20reductions%2C%20and%20NP-completeness.md)

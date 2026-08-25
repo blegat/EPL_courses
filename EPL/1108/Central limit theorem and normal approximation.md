@@ -15,3 +15,8 @@
 ## Related courses
 
 - Statistical use: [LEPL1109 — normal approximations and reference laws](../1109/Normal%20approximations%20and%20reference%20laws.md)
+
+## Internal connections
+
+- [Exponential, Poisson, and normal laws](Exponential%2C%20Poisson%2C%20and%20normal%20laws.md)
+- [Moments, covariance, and concentration](Moments%2C%20covariance%2C%20and%20concentration.md)

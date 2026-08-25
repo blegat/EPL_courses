@@ -14,3 +14,8 @@
   unobservable modes can cancel from $C(sI-A)^{-1}B+D$ (`STAB`, pp. 54–58).
 - Minimal realizations eliminate such hidden modes and align internal and
   external modal descriptions.
+
+## Internal connections
+
+- [Differential equations, block diagrams, and state space](Differential%20equations%2C%20block%20diagrams%2C%20and%20state%20space.md)
+- [BIBO and internal stability](BIBO%20and%20internal%20stability.md)

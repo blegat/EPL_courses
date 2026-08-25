@@ -28,8 +28,12 @@
 
 ## Prerequisites from LEPL1109
 
-- Empirical/expected risk, optimization, model selection, and bias-variance:
-  [Parts 13-18 of the LEPL1109 map](../../EPL/1109/README.md#part-b-data-science-and-machine-learning).
+- Empirical and expected risk and optimization:
+  [LEPL1109 — supervised-learning formulation](../../EPL/1109/Supervised-learning%20formulation.md).
+- Validation and model selection:
+  [LEPL1109 — resampling, model assessment, and model selection](../../EPL/1109/Resampling,%20model%20assessment,%20and%20model%20selection.md).
+- Bias-variance and dimensionality:
+  [LEPL1109 — bias-variance tradeoff and dimensionality](../../EPL/1109/Bias-variance%20tradeoff%20and%20dimensionality.md).
 
 ## References
 

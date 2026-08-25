@@ -16,3 +16,9 @@
   quality, requiring estimation and feedback (`DESIGN`, p. 8).
 - Finite-length performance and decoder complexity remain essential even below
   Shannon capacity (`DESIGN`, p. 9).
+
+## Internal connections
+
+- [Finite fields and Reed-Solomon codes](Finite%20fields%20and%20Reed-Solomon%20codes.md)
+- [Convolutional codes and trellis decoding](Convolutional%20codes%20and%20trellis%20decoding.md)
+- [LDPC codes and message-passing decoding](LDPC%20codes%20and%20message-passing%20decoding.md)

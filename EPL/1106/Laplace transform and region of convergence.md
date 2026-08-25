@@ -15,3 +15,8 @@
   fractions together with the ROC (`LAPLACE`, pp. 36–38).
 - Initial- and final-value theorems require pole/ROC hypotheses and cannot be
   applied purely formally.
+
+## Internal connections
+
+- [Continuous and discrete Fourier transforms](Continuous%20and%20discrete%20Fourier%20transforms.md)
+- [Transfer functions and unilateral Laplace transform](Transfer%20functions%20and%20unilateral%20Laplace%20transform.md)

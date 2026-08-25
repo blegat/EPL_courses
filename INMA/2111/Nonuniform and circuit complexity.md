@@ -13,3 +13,7 @@
   uniform algorithm (`NOTES`, pp. 110–112).
 - The distinction clarifies why a small circuit family is not automatically an
   executable algorithm for constructing those circuits.
+
+## Internal connections
+
+- [Complexity classes, reductions, and NP-completeness](Complexity%20classes%2C%20reductions%2C%20and%20NP-completeness.md)

@@ -14,3 +14,8 @@
   trellis; the Viterbi algorithm keeps the best survivor for every state
   (`CONV`, pp. 10–11).
 - Termination, tail biting and truncation trade rate, delay and boundary effects.
+
+## Internal connections
+
+- [Block codes, Hamming distance, and bounds](Block%20codes%2C%20Hamming%20distance%2C%20and%20bounds.md)
+- [Code selection and parameter design](Code%20selection%20and%20parameter%20design.md)

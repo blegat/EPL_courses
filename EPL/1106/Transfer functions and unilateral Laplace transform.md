@@ -14,3 +14,9 @@
 - The unilateral transform starts at $0^-$ and incorporates initial conditions
   into derivative formulas, making it convenient for initial-value differential
   equations (`LAPLACE`, pp. 60–72).
+
+## Internal connections
+
+- [Differential equations, block diagrams, and state space](Differential%20equations%2C%20block%20diagrams%2C%20and%20state%20space.md)
+- [Laplace transform and region of convergence](Laplace%20transform%20and%20region%20of%20convergence.md)
+- [BIBO and internal stability](BIBO%20and%20internal%20stability.md)

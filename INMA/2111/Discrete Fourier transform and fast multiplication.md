@@ -14,3 +14,8 @@
 - Evaluation, pointwise multiplication and interpolation therefore multiply
   degree-$n$ polynomials quasi-linearly; Schönhage–Strassen transfers this idea
   to large integers (`S4`, pp. 8–9).
+
+## Internal connections
+
+- [Divide-and-conquer and the Master theorem](Divide-and-conquer%20and%20the%20Master%20theorem.md)
+- [Quantum circuits, Grover search, and Shor factoring](Quantum%20circuits%2C%20Grover%20search%2C%20and%20Shor%20factoring.md)

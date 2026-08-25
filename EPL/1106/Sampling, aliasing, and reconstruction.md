@@ -16,3 +16,7 @@
   pp. 153–158).
 - An analog anti-aliasing filter limits bandwidth before sampling; practical
   reconstruction replaces the ideal brick-wall filter by an approximation.
+
+## Internal connections
+
+- [Continuous and discrete Fourier transforms](Continuous%20and%20discrete%20Fourier%20transforms.md)

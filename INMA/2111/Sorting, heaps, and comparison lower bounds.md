@@ -15,3 +15,9 @@
   pp. 2–5).
 - Counting sort escapes the lower bound by using more than comparisons and runs
   in $O(n+k)$ for keys in a range of size $k$ (`S2`, pp. 13–16).
+
+## Internal connections
+
+- [Algorithm correctness and asymptotic complexity](Algorithm%20correctness%20and%20asymptotic%20complexity.md)
+- [Divide-and-conquer and the Master theorem](Divide-and-conquer%20and%20the%20Master%20theorem.md)
+- [Fast matrix multiplication, reductions, and selection](Fast%20matrix%20multiplication%2C%20reductions%2C%20and%20selection.md)

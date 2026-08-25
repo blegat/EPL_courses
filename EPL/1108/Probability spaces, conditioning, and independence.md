@@ -16,3 +16,9 @@
 ## Related courses
 
 - Statistical continuation: [LEPL1109 — probability foundations and random variables](../1109/Probability%20foundations%20and%20random%20variables.md)
+
+## Internal connections
+
+- [Counting principles and inclusion-exclusion](Counting%20principles%20and%20inclusion-exclusion.md)
+- [Random variables, distributions, and expectation](Random%20variables%2C%20distributions%2C%20and%20expectation.md)
+- [Bernoulli trials and discrete distributions](Bernoulli%20trials%20and%20discrete%20distributions.md)

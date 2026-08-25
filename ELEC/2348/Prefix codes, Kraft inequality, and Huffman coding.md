@@ -15,3 +15,8 @@
   at the cost of larger codebooks and delay.
 - Adaptive Huffman coding updates a tree when source probabilities are not
   known in advance.
+
+## Internal connections
+
+- [Entropy, conditional entropy, and mutual information](Entropy%2C%20conditional%20entropy%2C%20and%20mutual%20information.md)
+- [Arithmetic, dictionary, and universal coding](Arithmetic%2C%20dictionary%2C%20and%20universal%20coding.md)

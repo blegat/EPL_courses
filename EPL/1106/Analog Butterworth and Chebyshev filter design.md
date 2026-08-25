@@ -15,3 +15,7 @@
   high-pass and band-pass filters (`FILTER`, pp. 32–38).
 - Pole-zero geometry, realizability and numerical conditioning complement the
   magnitude-only design calculation.
+
+## Internal connections
+
+- [Frequency response and filtering specifications](Frequency%20response%20and%20filtering%20specifications.md)

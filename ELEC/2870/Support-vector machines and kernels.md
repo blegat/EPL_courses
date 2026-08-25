@@ -22,7 +22,7 @@
 
 - Classification survey: [LINFO2262 — support-vector machines and kernels](../../INFO/2262/Support-vector%20machines%20and%20kernels.md)
 - Linear precursor: [Linear regression, optimization, and the perceptron](Linear%20regression,%20optimization,%20and%20the%20perceptron.md)
-- Prerequisite boundary: [LEPL1109 — boundaries and source caveats](../../EPL/1109/README.md#boundaries-and-source-caveats)
+- Learning-problem prerequisite: [LEPL1109 — supervised-learning formulation](../../EPL/1109/Supervised-learning%20formulation.md)
 - Kernel connection: [LEPL1109 — Gaussian-process regression](../../EPL/1109/Gaussian-process%20regression.md)
 - Sequential approximation: [LINMA2725 — value-function approximation architectures](../../INMA/2725/Value-function%20approximation%20architectures.md)
 - Sequential approximation: [LINMA2725 — deep and convex Q-learning](../../INMA/2725/Deep%20and%20convex%20Q-learning.md)

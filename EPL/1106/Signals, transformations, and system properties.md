@@ -15,3 +15,7 @@
   (`INTRO`, pp. 54–67).
 - Complex exponentials are especially useful because LTI systems preserve
   their waveform up to a complex gain.
+
+## Internal connections
+
+- [LTI systems, impulse responses, and convolution](LTI%20systems%2C%20impulse%20responses%2C%20and%20convolution.md)

@@ -17,3 +17,9 @@
   assumptions.
 - Degree distributions, girth, block length and stopping criteria jointly
   determine threshold, error floor and implementation cost.
+
+## Internal connections
+
+- [Block codes, Hamming distance, and bounds](Block%20codes%2C%20Hamming%20distance%2C%20and%20bounds.md)
+- [Linear codes, syndromes, and Hamming codes](Linear%20codes%2C%20syndromes%2C%20and%20Hamming%20codes.md)
+- [Code selection and parameter design](Code%20selection%20and%20parameter%20design.md)

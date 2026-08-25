@@ -15,3 +15,7 @@
   coefficients.
 - LTI response to a periodic input multiplies each harmonic coefficient by the
   system frequency response at that harmonic.
+
+## Internal connections
+
+- [Continuous and discrete Fourier transforms](Continuous%20and%20discrete%20Fourier%20transforms.md)

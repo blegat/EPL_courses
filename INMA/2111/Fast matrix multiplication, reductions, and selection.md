@@ -14,3 +14,8 @@
   obtains deterministic worst-case $O(n)$ selection (`NOTES`, pp. 29–31).
 - Binary search and the Towers of Hanoi provide contrasting divide-and-conquer
   recurrences (`S4`, pp. 22–25).
+
+## Internal connections
+
+- [Sorting, heaps, and comparison lower bounds](Sorting%2C%20heaps%2C%20and%20comparison%20lower%20bounds.md)
+- [Divide-and-conquer and the Master theorem](Divide-and-conquer%20and%20the%20Master%20theorem.md)

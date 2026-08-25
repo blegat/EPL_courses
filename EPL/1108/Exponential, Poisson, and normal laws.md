@@ -16,3 +16,9 @@
 ## Related courses
 
 - Process continuation: [LINMA2470 — Poisson processes and exponential arrivals](../../INMA/2470/Poisson%20processes%20and%20exponential%20arrivals.md)
+
+## Internal connections
+
+- [Random variables, distributions, and expectation](Random%20variables%2C%20distributions%2C%20and%20expectation.md)
+- [Bernoulli trials and discrete distributions](Bernoulli%20trials%20and%20discrete%20distributions.md)
+- [Central limit theorem and normal approximation](Central%20limit%20theorem%20and%20normal%20approximation.md)

@@ -16,3 +16,9 @@
 ## Related courses
 
 - Statistical continuation: [LEPL1109 — probability foundations and random variables](../1109/Probability%20foundations%20and%20random%20variables.md)
+
+## Internal connections
+
+- [Probability spaces, conditioning, and independence](Probability%20spaces%2C%20conditioning%2C%20and%20independence.md)
+- [Exponential, Poisson, and normal laws](Exponential%2C%20Poisson%2C%20and%20normal%20laws.md)
+- [Moments, covariance, and concentration](Moments%2C%20covariance%2C%20and%20concentration.md)

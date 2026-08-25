@@ -18,3 +18,8 @@
 - Arithmetic circuits reduce general computation to secure additions and
   multiplications, yielding composition from secure building blocks
   (`CRYPTO`, pp. 43–49; `MPC`, Ch. 3).
+
+## Internal connections
+
+- [Finite fields and Reed-Solomon codes](Finite%20fields%20and%20Reed-Solomon%20codes.md)
+- [Secret-key agreement and information-theoretic authentication](Secret-key%20agreement%20and%20information-theoretic%20authentication.md)

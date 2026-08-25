@@ -37,6 +37,7 @@ $$
 
 ## Related courses
 
+- Generalization continuation: [LDACS1110 — further generalization frameworks](../../DACS/1110/Further%20generalization%20frameworks.md)
 - Follow-on: [LELEC2870 — machine-learning framing and dimensionality](../../ELEC/2870/Machine-learning%20framing%20and%20dimensionality.md)
 - Follow-on: [LELEC2870 — feature selection](../../ELEC/2870/Feature%20selection.md)
 - Follow-on: [LELEC2870 — model selection, validation, and regularization](../../ELEC/2870/Model%20selection,%20validation,%20and%20regularization.md)

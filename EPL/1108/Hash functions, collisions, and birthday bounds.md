@@ -16,3 +16,8 @@
 ## Related courses
 
 - Algorithmic continuation: [LDACS1110 — universal hashing and randomized hash maps](../../DACS/1110/Universal%20hashing%20and%20randomized%20hash%20maps.md)
+
+## Internal connections
+
+- [Counting principles and inclusion-exclusion](Counting%20principles%20and%20inclusion-exclusion.md)
+- [Modular arithmetic, finite fields, and coding](Modular%20arithmetic%2C%20finite%20fields%2C%20and%20coding.md)

@@ -27,6 +27,7 @@
 
 ## Related courses
 
+- Generalization continuation: [LDACS1110 — further generalization frameworks](../../DACS/1110/Further%20generalization%20frameworks.md)
 - Classification application: [LINFO2262 — classifier performance and model comparison](../../INFO/2262/Classifier%20performance%20and%20model%20comparison.md)
 - Follow-on: [LELEC2870 — model selection, validation, and regularization](../../ELEC/2870/Model%20selection,%20validation,%20and%20regularization.md)
 - Related LDACS1110 topic: [Integrated learning applications](../../DACS/1110/Integrated%20learning%20applications.md)

@@ -12,3 +12,8 @@
   and the pigeonhole principle (`NOTES`, pp. 25–29).
 - Recursive definitions, well ordering and mathematical induction, including
   strong induction (`NOTES`, pp. 30–33).
+
+## Internal connections
+
+- [Counting principles and inclusion-exclusion](Counting%20principles%20and%20inclusion-exclusion.md)
+- [Graphs, connectivity, and traversal](Graphs%2C%20connectivity%2C%20and%20traversal.md)

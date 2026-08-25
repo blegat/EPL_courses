@@ -11,3 +11,7 @@
 - The order of an element divides the finite group order.
 - Euler's theorem $a^{\varphi(n)}\equiv1\pmod n$ for $\gcd(a,n)=1$ includes
   Fermat's little theorem as a prime-modulus case (`ALG`, pp. 18–20).
+
+## Internal connections
+
+- [Modular arithmetic, finite fields, and coding](Modular%20arithmetic%2C%20finite%20fields%2C%20and%20coding.md)

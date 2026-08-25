@@ -18,3 +18,9 @@
 ## Related courses
 
 - Algebraic prerequisite: [LEPL1108 — modular arithmetic, finite fields, and coding](../../EPL/1108/Modular%20arithmetic,%20finite%20fields,%20and%20coding.md)
+
+## Internal connections
+
+- [Linear codes, syndromes, and Hamming codes](Linear%20codes%2C%20syndromes%2C%20and%20Hamming%20codes.md)
+- [Code selection and parameter design](Code%20selection%20and%20parameter%20design.md)
+- [Secret sharing and secure function evaluation](Secret%20sharing%20and%20secure%20function%20evaluation.md)

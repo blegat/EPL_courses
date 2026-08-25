@@ -20,3 +20,7 @@
 ## Related courses
 
 - Control continuation: [LINMA2725 — linear quadratic Gaussian control](../../INMA/2725/Linear%20quadratic%20Gaussian%20control.md)
+
+## Internal connections
+
+- [Differential equations, block diagrams, and state space](Differential%20equations%2C%20block%20diagrams%2C%20and%20state%20space.md)

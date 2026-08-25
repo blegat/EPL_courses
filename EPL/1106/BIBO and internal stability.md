@@ -17,3 +17,9 @@
 - Internal asymptotic stability implies BIBO stability for a finite-dimensional
   realization, but pole-zero cancellations can make an externally stable
   transfer function hide unstable internal modes (`STAB`, pp. 35–43).
+
+## Internal connections
+
+- [Transfer functions and unilateral Laplace transform](Transfer%20functions%20and%20unilateral%20Laplace%20transform.md)
+- [Z-transform and discrete-time systems](Z-transform%20and%20discrete-time%20systems.md)
+- [Eigenvalues, poles, and Cayley-Hamilton](Eigenvalues%2C%20poles%2C%20and%20Cayley-Hamilton.md)

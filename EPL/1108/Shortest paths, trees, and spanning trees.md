@@ -12,3 +12,7 @@
   (`GRAPH`, pp. 31–38).
 - Running time depends on representation and data structures; adjacency lists
   suit sparse graphs (`GRAPH`, pp. 47–54).
+
+## Internal connections
+
+- [Graphs, connectivity, and traversal](Graphs%2C%20connectivity%2C%20and%20traversal.md)

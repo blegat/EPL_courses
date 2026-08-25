@@ -11,3 +11,9 @@
   (`PROBA`, pp. 45–47; `P2`, pp. 17–23).
 - Infinite independent trials motivate almost-sure and limiting calculations
   (`P2`, pp. 10–16).
+
+## Internal connections
+
+- [Binomial coefficients, functions, and partitions](Binomial%20coefficients%2C%20functions%2C%20and%20partitions.md)
+- [Probability spaces, conditioning, and independence](Probability%20spaces%2C%20conditioning%2C%20and%20independence.md)
+- [Exponential, Poisson, and normal laws](Exponential%2C%20Poisson%2C%20and%20normal%20laws.md)

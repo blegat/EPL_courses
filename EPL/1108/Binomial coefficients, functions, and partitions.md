@@ -11,3 +11,9 @@
 - Derangements and $!n=n!\sum_{k=0}^n(-1)^k/k!$ (`COUNT`, pp. 44–47).
 - Occupancy interpretations connect functions to distributing labelled
   objects among labelled boxes.
+
+## Internal connections
+
+- [Counting principles and inclusion-exclusion](Counting%20principles%20and%20inclusion-exclusion.md)
+- [Generating functions and linear recurrences](Generating%20functions%20and%20linear%20recurrences.md)
+- [Bernoulli trials and discrete distributions](Bernoulli%20trials%20and%20discrete%20distributions.md)

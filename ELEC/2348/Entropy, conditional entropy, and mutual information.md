@@ -21,3 +21,11 @@
 
 - Foundations treatment: [LDACS1110 — Shannon entropy and conditional entropy](../../DACS/1110/Shannon%20entropy%20and%20conditional%20entropy.md)
 - Divergence viewpoint: [LDACS1110 — KL divergence, cross-entropy, and mutual information](../../DACS/1110/KL%20divergence,%20cross-entropy,%20and%20mutual%20information.md)
+
+## Internal connections
+
+- [Prefix codes, Kraft inequality, and Huffman coding](Prefix%20codes%2C%20Kraft%20inequality%2C%20and%20Huffman%20coding.md)
+- [Rate-distortion, transform, and predictive coding](Rate-distortion%2C%20transform%2C%20and%20predictive%20coding.md)
+- [Discrete memoryless channels and capacity](Discrete%20memoryless%20channels%20and%20capacity.md)
+- [Perfect secrecy, one-time pads, and wiretap channels](Perfect%20secrecy%2C%20one-time%20pads%2C%20and%20wiretap%20channels.md)
+- [Secret-key agreement and information-theoretic authentication](Secret-key%20agreement%20and%20information-theoretic%20authentication.md)

@@ -17,3 +17,11 @@
   NP-completeness (`S12`, pp. 20–31).
 - The older notes also situate $P$, $NP$, $coNP$, $PSPACE$, $EXPTIME$, $RP$,
   $coRP$, $BPP$ and $ZPP$ (`NOTES`, pp. 87–105).
+
+## Internal connections
+
+- [Monte Carlo algorithms and error amplification](Monte%20Carlo%20algorithms%20and%20error%20amplification.md)
+- [Las Vegas algorithms, hashing, and derandomization](Las%20Vegas%20algorithms%2C%20hashing%2C%20and%20derandomization.md)
+- [Turing machines, computability, and undecidability](Turing%20machines%2C%20computability%2C%20and%20undecidability.md)
+- [Nonuniform and circuit complexity](Nonuniform%20and%20circuit%20complexity.md)
+- [Quantum circuits, Grover search, and Shor factoring](Quantum%20circuits%2C%20Grover%20search%2C%20and%20Shor%20factoring.md)

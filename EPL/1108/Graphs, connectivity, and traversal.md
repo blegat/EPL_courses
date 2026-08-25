@@ -12,3 +12,8 @@
   produce search trees (`NOTES`, pp. 93–98; `GRAPH`, pp. 5–15).
 - Eulerian circuits use every edge; Hamiltonian cycles visit every vertex
   (`NOTES`, pp. 103–107).
+
+## Internal connections
+
+- [Proofs, sets, relations, and induction](Proofs%2C%20sets%2C%20relations%2C%20and%20induction.md)
+- [Shortest paths, trees, and spanning trees](Shortest%20paths%2C%20trees%2C%20and%20spanning%20trees.md)

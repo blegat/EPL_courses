@@ -20,3 +20,9 @@
 
 - Hashing continuation: [LDACS1110 — universal hashing and randomized hash maps](../../DACS/1110/Universal%20hashing%20and%20randomized%20hash%20maps.md)
 - Cryptographic continuation: [LDACS1110 — computational pseudorandomness and reductions](../../DACS/1110/Computational%20pseudorandomness%20and%20reductions.md)
+
+## Internal connections
+
+- [Probabilistic analysis and random sampling](Probabilistic%20analysis%20and%20random%20sampling.md)
+- [Monte Carlo algorithms and error amplification](Monte%20Carlo%20algorithms%20and%20error%20amplification.md)
+- [Complexity classes, reductions, and NP-completeness](Complexity%20classes%2C%20reductions%2C%20and%20NP-completeness.md)

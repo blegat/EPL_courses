@@ -14,3 +14,7 @@
   not by itself evidence of global optimality.
 - Dynamic programming explores several compatible continuations, whereas a
   proven greedy-choice property permits one irrevocable continuation.
+
+## Internal connections
+
+- [Dynamic programming](Dynamic%20programming.md)

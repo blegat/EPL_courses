@@ -15,3 +15,10 @@
   Equality defines a perfect code (`BLOCK`, pp. 19–27).
 - Bounds reveal incompatible goals among rate, distance and block length, but
   do not alone provide an efficient encoder or decoder.
+
+## Internal connections
+
+- [Discrete memoryless channels and capacity](Discrete%20memoryless%20channels%20and%20capacity.md)
+- [Linear codes, syndromes, and Hamming codes](Linear%20codes%2C%20syndromes%2C%20and%20Hamming%20codes.md)
+- [Convolutional codes and trellis decoding](Convolutional%20codes%20and%20trellis%20decoding.md)
+- [LDPC codes and message-passing decoding](LDPC%20codes%20and%20message-passing%20decoding.md)
