@@ -50,3 +50,7 @@ Directly foundational for every computational-security topic in part B.
 ## References
 
 [B11, Chs. 2-7](README.md#b11), [B17, introductory chapters](README.md#b17), [B18](README.md#b18).
+
+## Related courses
+
+- Algorithmic precursor: [LINMA2111 — Las Vegas algorithms, hashing, and derandomization](../../INMA/2111/Las%20Vegas%20algorithms,%20hashing,%20and%20derandomization.md)

@@ -72,3 +72,7 @@ The transition from unlikely to likely collision occurs around `q = Theta(sqrt(N
 ## References
 
 [B1, Chs. 5 and 11](README.md#b1), [B2, Chs. 3-5](README.md#b2), [B11](README.md#b11).
+
+## Related courses
+
+- Algorithmic foundation: [LINMA2111 — probabilistic analysis and random sampling](../../INMA/2111/Probabilistic%20analysis%20and%20random%20sampling.md)

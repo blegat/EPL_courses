@@ -75,6 +75,7 @@ is unbiased, with an optimal coefficient determined by covariance.
 
 ## Related courses
 
+- Algorithmic foundation: [LINMA2111 — Monte Carlo algorithms and error amplification](../../INMA/2111/Monte%20Carlo%20algorithms%20and%20error%20amplification.md)
 - Sequential application: [LINMA2470 — bandits and Monte Carlo reinforcement learning](../../INMA/2470/Bandits%20and%20Monte%20Carlo%20reinforcement%20learning.md)
 - Sequential Monte Carlo application: [LELEC2885 — recursive appearance-based tracking](../../ELEC/2885/Recursive%20appearance-based%20tracking.md)
 - Sequential importance-sampling application: [LINMA1731 — particle filtering and sequential importance sampling](../../INMA/1731/Particle%20filtering%20and%20sequential%20importance%20sampling.md)

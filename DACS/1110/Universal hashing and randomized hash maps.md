@@ -56,3 +56,4 @@ pairwise-independent family.
 ## Related courses
 
 - Introductory collision analysis: [LEPL1108 — hash functions, collisions, and birthday bounds](../../EPL/1108/Hash%20functions,%20collisions,%20and%20birthday%20bounds.md)
+- Algorithmic treatment: [LINMA2111 — Las Vegas algorithms, hashing, and derandomization](../../INMA/2111/Las%20Vegas%20algorithms,%20hashing,%20and%20derandomization.md)
