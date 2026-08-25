@@ -12,6 +12,7 @@
 
 ## Related courses
 
+- Systems prerequisite: [LEPL1106 — controllability and observability](../../EPL/1106/Controllability%20and%20observability.md)
 - Gaussian conditioning prerequisite: [LEPL1109 — dependence and multivariate probability](../../EPL/1109/Dependence%20and%20multivariate%20probability.md)
 - Kalman-filter treatment: [LINMA1731 — state-space models and Kalman filtering](../1731/State-space%20models%20and%20Kalman%20filtering.md)
 - Extended treatment: [Adaptive LQR and partially observable control](Adaptive%20LQR%20and%20partially%20observable%20control.md)

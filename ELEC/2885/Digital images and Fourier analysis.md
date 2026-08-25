@@ -20,6 +20,7 @@
 
 ## Related courses
 
+- One-dimensional foundation: [LEPL1106 — continuous and discrete Fourier transforms](../../EPL/1106/Continuous%20and%20discrete%20Fourier%20transforms.md)
 - Multiresolution continuation: [Multiscale pyramids and wavelets](Multiscale%20pyramids%20and%20wavelets.md)
 - Sparse spectral models: [Sparse representations and inverse problems](Sparse%20representations%20and%20inverse%20problems.md)
 - Statistical image summaries: [LEPL1109 — descriptive statistics and exploratory data analysis](../../EPL/1109/Descriptive%20statistics%20and%20exploratory%20data%20analysis.md)

@@ -19,6 +19,7 @@
 
 ## Connections
 
+- Signals-and-systems prerequisite: [LEPL1106 — differential equations, block diagrams, and state space](../../EPL/1106/Differential%20equations,%20block%20diagrams,%20and%20state%20space.md)
 - Static Gaussian estimator: [Bayesian linear models, MAP, and linear MMSE](Bayesian%20linear%20models,%20MAP,%20and%20linear%20MMSE.md)
 - Nonlinear/non-Gaussian generalization: [Recursive Bayesian filtering](Recursive%20Bayesian%20filtering.md)
 - Tracking application: [LELEC2885 — recursive appearance-based tracking](../../ELEC/2885/Recursive%20appearance-based%20tracking.md)
