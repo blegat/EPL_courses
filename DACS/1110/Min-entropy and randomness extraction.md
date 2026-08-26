@@ -17,13 +17,13 @@ $$
 H_\infty(X)=-\log\max_xP(X=x).
 $$
 
-Thus the optimal one-shot guessing probability is `2^{-H_infinity(X)}`.
+Thus the optimal one-shot guessing probability is $2^{-H_\\infty(X)}$.
 
-**Strong seeded extraction.** An extractor should make `(S,Ext(X,S))` close to
-`(S,U_l)`, so the seed may be revealed.
+**Strong seeded extraction.** An extractor should make $(S,\\operatorname{Ext}(X,S))$ close to
+$(S,U_\\ell)$, so the seed may be revealed.
 
-**Leftover Hash Lemma.** Let `H` be chosen uniformly from a suitable
-2-universal family independently of `X`. One standard convention gives
+**Leftover Hash Lemma.** Let $\\mathcal H$ be chosen uniformly from a suitable
+2-universal family independently of $X$. One standard convention gives
 
 $$
 \Delta\bigl((H,H(X)),(H,U_\ell)\bigr)
@@ -36,12 +36,12 @@ $$
 \ell\leq H_\infty(X)-2\log(1/\varepsilon)
 $$
 
-bits can be extracted within statistical distance `epsilon`, up to additive
+bits can be extracted within statistical distance $\\varepsilon$, up to additive
 constants determined by the theorem convention.
 
 **Classical side-information form.** If an observer holds correlated classical
-side information `E` and the public hash seed is independent of the joint pair
-`(X,E)`, the relevant source quality is average conditional min-entropy. A
+side information $E$ and the public hash seed is independent of the joint pair
+$(X,E)$, the relevant source quality is average conditional min-entropy. A
 corresponding form controls
 
 $$
@@ -49,7 +49,7 @@ $$
 $$
 
 by the same type of expression with conditional min-entropy
-`\widetilde H_\infty(X|E)`. This is the form needed for privacy amplification;
+$\widetilde H_\infty(X\mid E)$. This is the form needed for privacy amplification;
 the unconditional statement alone only supports extraction when no correlated
 observer information is present. Quantum side information requires a stronger
 formulation.

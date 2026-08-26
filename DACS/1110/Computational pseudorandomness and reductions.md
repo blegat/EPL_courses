@@ -15,17 +15,17 @@
 
 **Computational indistinguishability, finite-security preview.** Relative to a
 specified efficient distinguisher class, two distributions are
-`epsilon`-indistinguishable when every distinguisher has advantage at most
-`epsilon`:
+$\\varepsilon$-indistinguishable when every distinguisher has advantage at most
+$\\varepsilon$:
 
 $$
 |P(D(X)=1)-P(D(Y)=1)|\leq\varepsilon.
 $$
 
-**Hybrid lemma.** If a sequence contains `m` adjacent game hops and the total
-endpoint advantage is `epsilon`, at least one adjacent hop has advantage at
-least `epsilon/m`. Conversely, bounding each hop by `epsilon_i` bounds the
-endpoint difference by `sum_i epsilon_i`.
+**Hybrid lemma.** If a sequence contains $m$ adjacent game hops and the total
+endpoint advantage is $\\varepsilon$, at least one adjacent hop has advantage at
+least $\\varepsilon/m$. Conversely, bounding each hop by $\\varepsilon_i$ bounds the
+endpoint difference by $\\sum_i\\varepsilon_i$.
 
 ## Boundary with foundations of cryptography
 

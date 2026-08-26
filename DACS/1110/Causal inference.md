@@ -4,8 +4,8 @@
 
 - Association, prediction, and causation are different questions.
 - Confounders, colliders, mediators, and causal DAGs.
-- Observational conditioning `P(Y|X=x)` versus intervention
-  `P(Y|do(X=x))`.
+- Observational conditioning $P(Y\\mid X=x)$ versus intervention
+  $P(Y\\mid\\operatorname{do}(X=x))$.
 - Randomized experiments and exchangeability.
 - Identifiability depends on causal assumptions not recoverable from the joint
   observational distribution alone.

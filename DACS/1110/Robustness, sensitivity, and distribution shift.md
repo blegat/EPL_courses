@@ -8,7 +8,7 @@
   sampled training set, but not as a complete theory of distribution shift.
 - A bounded-loss Hoeffding guarantee is distribution-specific: it controls
   generalization under i.i.d. train/test sampling from the same population.
-- If training and test distributions differ, for any loss bounded in `[0,1]`,
+- If training and test distributions differ, for any loss bounded in $[0,1]$,
   total variation gives
 
 $$

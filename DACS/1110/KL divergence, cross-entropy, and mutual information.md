@@ -7,7 +7,7 @@
 - Cross-entropy as expected negative log-likelihood.
 - Mutual information as distance from independence and expected information
   gain.
-- Markov chains in the information-theoretic sense `X -> Y -> Z`.
+- Markov chains in the information-theoretic sense $X\\to Y\\to Z$.
 
 ## Principal results
 
@@ -18,7 +18,7 @@ D_{\mathrm{KL}}(P\|Q)
 =\sum_x P(x)\log\frac{P(x)}{Q(x)}.
 $$
 
-**Gibbs inequality.** `D_KL(P||Q) >= 0`, with equality exactly when the
+**Gibbs inequality.** $D_{\\mathrm{KL}}(P\\|Q)\\geq0$, with equality exactly when the
 distributions agree on the relevant support.
 
 **Cross-entropy decomposition.**
@@ -36,7 +36,7 @@ I(X;Y)
 =H(Y)-H(Y\mid X).
 $$
 
-Consequently, `I(X;Y) >= 0`, and `I(X;Y)=0` exactly when `X` and `Y` are
+Consequently, $I(X;Y)\\geq0$, and $I(X;Y)=0$ exactly when $X$ and $Y$ are
 independent.
 
 **Chain rule for mutual information.**
@@ -45,7 +45,7 @@ $$
 I(X;Y,Z)=I(X;Y)+I(X;Z\mid Y).
 $$
 
-**Data-processing inequality.** If `X -> Y -> Z`, then
+**Data-processing inequality.** If $X\\to Y\\to Z$, then
 
 $$
 I(X;Z)\leq I(X;Y).

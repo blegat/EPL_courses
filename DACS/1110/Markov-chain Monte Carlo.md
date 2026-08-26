@@ -18,9 +18,9 @@ $$
 \pi(x)P(x,y)=\pi(y)P(y,x)
 $$
 
-for all states, then `pi` is stationary for `P`.
+for all states, then $\\pi$ is stationary for $P$.
 
-**Metropolis-Hastings acceptance probability.** For proposal `q(y|x)`,
+**Metropolis-Hastings acceptance probability.** For proposal $q(y\\mid x)$,
 
 $$
 \alpha(x,y)=
@@ -42,10 +42,10 @@ $$
 \frac1n\sum_{t=1}^n f(X_t)\to E_\pi[f(X)]
 $$
 
-almost surely for integrable `f`.
+almost surely for integrable $f$.
 
 **MCMC variance warning.** Dependent draws do not have variance
-`sigma^2/n`; integrated autocorrelation inflates Monte Carlo variance.
+$\\sigma^2/n$; integrated autocorrelation inflates Monte Carlo variance.
 
 ## Prerequisites from LEPL1109
 

@@ -16,21 +16,21 @@
 
 ## Principal results
 
-**Union bound.** For events `A_1, ..., A_m`,
+**Union bound.** For events $A_1,\\ldots,A_m$,
 
 $$
 P\left(\bigcup_{i=1}^m A_i\right)\leq \sum_{i=1}^m P(A_i).
 $$
 
-**Amplification.** If independent runs fail with probability `p < 1/2`, a
-majority of `r` runs has exponentially decreasing failure probability; a
+**Amplification.** If independent runs fail with probability $p<1/2$, a
+majority of $r$ runs has exponentially decreasing failure probability; a
 Hoeffding or Chernoff bound makes this quantitative.
 
 **Linearity of expectation.** Independence is unnecessary for
-`E[sum_i X_i] = sum_i E[X_i]`, which supports collision, occupancy, and running
+$\\mathbb E[\\sum_iX_i]=\\sum_i\\mathbb E[X_i]$, which supports collision, occupancy, and running
 time analyses.
 
-**Birthday bound.** For `q` independent uniform samples from a set of size `N`,
+**Birthday bound.** For $q$ independent uniform samples from a set of size $N$,
 the collision probability satisfies
 
 $$
@@ -39,7 +39,7 @@ P(\text{collision})
 \leq \frac{q(q-1)}{2N}.
 $$
 
-The transition from unlikely to likely collision occurs around `q = Theta(sqrt(N))`.
+The transition from unlikely to likely collision occurs around $q=\\Theta(\\sqrt N)$.
 
 ## Prerequisites from LEPL1109
 

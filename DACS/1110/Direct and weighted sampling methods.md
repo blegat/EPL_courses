@@ -5,12 +5,12 @@
 **Inverse-transform sampling.** LEPL1109 provides this direct-sampling
 foundation.
 
-**Rejection sampling.** If `p(x) <= M q(x)`, draw `X ~ q` and accept it with
-probability `p(X)/(M q(X))`. The accepted sample has distribution `p`; the mean
-acceptance probability is `1/M` when densities are normalized.
+**Rejection sampling.** If $p(x)\\leq Mq(x)$, draw $X\\sim q$ and accept it with
+probability $\\frac{p(X)}{Mq(X)}$. The accepted sample has distribution $p$; the mean
+acceptance probability is $1/M$ when densities are normalized.
 
-**Importance-sampling identity.** If `p` is absolutely continuous with respect
-to `q`,
+**Importance-sampling identity.** If $p$ is absolutely continuous with respect
+to $q$,
 
 $$
 E_p[f(X)]

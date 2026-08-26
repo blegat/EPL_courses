@@ -9,7 +9,7 @@
 
 ## Principal results
 
-**Compression generalization.** A consistent hypothesis reconstructed from `k`
+**Compression generalization.** A consistent hypothesis reconstructed from $k$
 sample points and bounded side information admits a realizable bound of the
 representative form
 

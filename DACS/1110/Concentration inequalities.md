@@ -6,33 +6,33 @@
 - Polynomial versus exponential tails.
 - Boundedness, independence, and variance assumptions.
 - High-probability statement: an event holds with probability at least
-  `1 - delta`.
-- Solve a tail bound for the sample size needed to achieve error `epsilon` and
-  confidence `1 - delta`.
+  $1-\\delta$.
+- Solve a tail bound for the sample size needed to achieve error $\\varepsilon$ and
+  confidence $1-\\delta$.
 - Chernoff's exponential-moment method as a reusable proof technique.
 
 ## Principal results
 
-**Markov inequality.** If `X >= 0` and `a > 0`,
+**Markov inequality.** If $X\\geq0$ and $a>0$,
 
 $$
 P(X\geq a)\leq \frac{E[X]}{a}.
 $$
 
-**Chebyshev inequality.** If `X` has finite variance,
+**Chebyshev inequality.** If $X$ has finite variance,
 
 $$
 P(|X-E[X]|\geq t)\leq\frac{\operatorname{Var}(X)}{t^2}.
 $$
 
-**Chernoff method.** For `lambda > 0`,
+**Chernoff method.** For $\\lambda>0$,
 
 $$
 P(S\geq t)
 \leq \inf_{\lambda>0}e^{-\lambda t}E[e^{\lambda S}].
 $$
 
-**Hoeffding inequality.** For independent `X_i in [a_i,b_i]`,
+**Hoeffding inequality.** For independent $X_i\\in[a_i,b_i]$,
 
 $$
 P\left(\sum_i(X_i-E[X_i])\geq t\right)
@@ -53,10 +53,10 @@ $$
 n\geq\frac{\log(2/\delta)}{2\varepsilon^2}
 $$
 
-to obtain error at most `epsilon` with probability at least `1-delta`.
+to obtain error at most $\\varepsilon$ with probability at least $1-\\delta$.
 
 **Multiplicative Chernoff bounds.** For a sum of
-independent Bernoulli variables with mean `mu`, representative forms are
+independent Bernoulli variables with mean $\\mu$, representative forms are
 
 $$
 P(S\geq(1+\eta)\mu)
@@ -88,7 +88,7 @@ stable functions of independent data.
 ## Developments beyond LEPL1109
 
 - Finite-sample exponential guarantees.
-- Explicit `epsilon`, `delta`, and sample-complexity dependence.
+- Explicit $\\varepsilon$, $\\delta$, and sample-complexity dependence.
 - Uniform control through a union bound.
 - MGF-based proof techniques.
 

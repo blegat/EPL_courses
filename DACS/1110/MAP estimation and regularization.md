@@ -11,11 +11,11 @@ $$
 $$
 
 **Gaussian prior to ridge penalty.** If
-`theta ~ N(0,tau^2 I)`, then the negative log-prior contributes
-`||theta||_2^2/(2 tau^2)`.
+$\\theta\\sim\\mathcal N(0,\\tau^2I)$, then the negative log-prior contributes
+$\\|\\theta\\|_2^2/(2\\tau^2)$.
 
 **Laplace prior to lasso penalty.** An independent Laplace prior contributes an
-`L1` penalty proportional to `||theta||_1`.
+$\\ell_1$ penalty proportional to $\\|\\theta\\|_1$.
 
 **Gaussian linear model.** Gaussian likelihood plus Gaussian prior yields a
 quadratic posterior and a regularized least-squares posterior mean/MAP.

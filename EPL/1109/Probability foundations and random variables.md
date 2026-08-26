@@ -3,7 +3,7 @@
 ### Random variables and distributions
 
 - Experiment, sample space, events, probability, random variable as a map
-  `X: Omega -> R`, realization, range/state space, and discrete versus
+  $X:\\Omega\to\\mathbb{R}$, realization, range/state space, and discrete versus
   continuous random variables [STAT, pp. 7-8].
 - PMF, PDF, and CDF:
   $p(x)=P(X=x)$, $P(X\in I)=\sum_{x\in I}p(x)$,

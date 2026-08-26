@@ -5,7 +5,7 @@
 - Estimate a classifier's true risk from an independent test sample and attach
   a Hoeffding confidence guarantee.
 - Compare a CLT interval with a nonasymptotic concentration interval.
-- Select among finitely many classifiers and expose the extra `log |H|` term
+- Select among finitely many classifiers and expose the extra $\\log|\\mathcal H|$ term
   caused by uniform control.
 - Interpret logistic cross-entropy as empirical cross-entropy and KL
   minimization.

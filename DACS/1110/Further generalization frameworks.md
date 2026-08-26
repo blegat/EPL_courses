@@ -17,7 +17,7 @@
 
 - Prior and data-dependent posterior over predictors.
 - Bounds involving empirical Gibbs risk and
-  `D_KL(posterior || prior)`.
+  $D_{\\mathrm{KL}}(\\text{posterior}\\,\\|\\,\\text{prior})$.
 - Attractive synthesis of Bayesian notation and frequentist high-probability
   guarantees, but not ordinary Bayesian posterior inference.
 

@@ -11,8 +11,8 @@
 
 ## Principal results
 
-**Universal hashing.** A family `H` mapping `U` to `[m]` is universal if for
-distinct `x,x'`,
+**Universal hashing.** A family $\\mathcal H$ mapping $U$ to $[m]$ is universal if for
+distinct $x,x'$,
 
 $$
 P_{h\leftarrow\mathcal H}[h(x)=h(x')]
@@ -24,10 +24,10 @@ universal hash function, linearity of expectation controls the expected number
 of keys colliding with a query key.
 
 **Expected lookup with chaining.** Under simple uniform/universal-hashing
-assumptions, expected lookup cost is `O(1+alpha)` at load factor `alpha=n/m`.
+assumptions, expected lookup cost is $O(1+\\alpha)$ at load factor $\\alpha=n/m$.
 
 **Pairwise-independent construction.** Over a finite field, affine
-maps `h_{a,b}(x)=ax+b` with appropriate random parameters provide a simple
+maps $h_{a,b}(x)=ax+b$ with appropriate random parameters provide a simple
 pairwise-independent family.
 
 ## Prerequisites from LEPL1109

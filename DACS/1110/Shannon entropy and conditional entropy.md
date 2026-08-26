@@ -2,7 +2,7 @@
 
 ## Concepts
 
-- Self-information `-log p(x)`.
+- Self-information $-\\log p(x)$.
 - Shannon entropy in bits when logarithms have base 2.
 - Joint entropy, conditional entropy, and entropy rate only if needed.
 - Entropy as average uncertainty, distinct from variance and from worst-case
@@ -18,7 +18,7 @@ $$
 H(X)=-\sum_x p(x)\log p(x).
 $$
 
-**Bounds and equality cases.** If `X` takes values in a finite alphabet,
+**Bounds and equality cases.** If $X$ takes values in a finite alphabet,
 
 $$
 0\leq H(X)\leq\log|\mathcal X|,
@@ -38,11 +38,11 @@ $$
 H(X\mid Y)\leq H(X).
 $$
 
-**Independent additivity.** If `X` and `Y` are independent,
-`H(X,Y)=H(X)+H(Y)`.
+**Independent additivity.** If $X$ and $Y$ are independent,
+$H(X,Y)=H(X)+H(Y)$.
 
-**Entropy of a function.** For deterministic `g`,
-`H(g(X)) <= H(X)`.
+**Entropy of a function.** For deterministic $g$,
+$H(g(X))\\leq H(X)$.
 
 ## Prerequisites from LEPL1109
 

@@ -9,9 +9,9 @@
 ## Principal results
 
 **Examples.** Thresholds on the real line have VC dimension 1; intervals have
-VC dimension 2; affine halfspaces in `R^d` have VC dimension `d+1`.
+VC dimension 2; affine halfspaces in $\\mathbb R^d$ have VC dimension $d+1$.
 
-**Sauer-Shelah lemma.** If `VCdim(H)=d<m`,
+**Sauer-Shelah lemma.** If $\\operatorname{VCdim}(\\mathcal H)=d<m$,
 
 $$
 \Pi_{\mathcal H}(m)

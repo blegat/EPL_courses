@@ -2,9 +2,9 @@
 
 ## Concepts
 
-- Express a target quantity as an expectation `mu = E_P[f(X)]`.
+- Express a target quantity as an expectation $\\mu=\\mathbb E_P[f(X)]$.
 - Draw independent samples and use
-  `hat(mu)_n = n^{-1} sum_i f(X_i)`.
+  $\\widehat\\mu_n=n^{-1}\\sum_i f(X_i)$.
 - Separate sampling error, model error, approximation error, and floating-point
   error.
 - Estimate integrals, probabilities, risks, and expected algorithmic costs.
@@ -23,7 +23,7 @@ E[\widehat\mu_n]=\mu,
 $$
 
 **Weak consistency.** The law of large numbers yields
-`hat(mu)_n -> mu` in probability.
+$\\widehat\\mu_n\\to\\mu$ in probability.
 
 **CLT uncertainty.** Under a finite-variance assumption,
 
@@ -35,7 +35,7 @@ $$
 **Root-n rate.** Halving the standard Monte Carlo error requires approximately
 four times as many independent samples.
 
-**Control variate.** If `E[g(X)]` is known, then
+**Control variate.** If $\\mathbb E[g(X)]$ is known, then
 
 $$
 \widehat\mu_c
